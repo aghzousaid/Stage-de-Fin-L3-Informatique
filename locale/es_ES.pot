@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: esp\n"
+"POT-Creation-Date: 2017-05-30 15:03+0200\n"
+"PO-Revision-Date: 2017-05-30 15:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/footer.inc.php:13
+msgid "SDMI"
+msgstr ""
+
+#: include/footer.inc.php:28
+msgid "USEFUL LINKS"
+msgstr ""
+
+#: include/footer.inc.php:34 include/header.inc.php:136
+msgid "BBA Programme"
+msgstr ""
+
+#: include/footer.inc.php:35 include/header.inc.php:137
+msgid "MBA Programme"
+msgstr ""
+
+#: include/footer.inc.php:36
+msgid "Partners &amp; Associations"
+msgstr ""
+
+#: include/footer.inc.php:38 include/header.inc.php:190
+msgid "E-Learning"
+msgstr ""
+
+#: include/footer.inc.php:39 include/header.inc.php:191
+msgid "Language Programme"
+msgstr ""
+
+#: include/footer.inc.php:40 include/header.inc.php:221
+msgid "Customised Programmes"
+msgstr ""
+
+#: include/footer.inc.php:52
+msgid "Newsletter"
+msgstr ""
+
+#: include/footer.inc.php:53
+msgid "Subscribe SDMI Newsletter"
+msgstr ""
+
+#: include/footer.inc.php:73
+msgid "Copyright © 2016 MBS. All rights reserved."
+msgstr ""
+
+#: include/footer.inc.php:74
+msgid "Terms of Use"
+msgstr ""
+
+#: include/footer.inc.php:74
+msgid "Privacy Policy"
+msgstr ""
+
+#: include/header.inc.php:7
+msgid "SDMI | Sustainable Development Management Institute"
+msgstr ""
+
+#: include/header.inc.php:91 include/header.inc.php:218
+msgid "About Us"
+msgstr ""
+
+#: include/header.inc.php:93
+msgid "Presentation"
+msgstr ""
+
+#: include/header.inc.php:94
+msgid "Message from the Director"
+msgstr ""
+
+#: include/header.inc.php:95
+msgid "Discover the institute"
+msgstr ""
+
+#: include/header.inc.php:96
+msgid "Our Community"
+msgstr ""
+
+#: include/header.inc.php:97
+msgid "Support the Institute"
+msgstr ""
+
+#: include/header.inc.php:98
+msgid "Partners and Associations"
+msgstr ""
+
+#: include/header.inc.php:99
+msgid "European International Project"
+msgstr ""
+
+#: include/header.inc.php:101
+msgid "European Project"
+msgstr ""
+
+#: include/header.inc.php:102
+msgid "EURspace: European IVT Recognition Gateway"
+msgstr ""
+
+#: include/header.inc.php:105
+msgid "MANDALA: Accelerator of Knowledge"
+msgstr ""
+
+#: include/header.inc.php:108
+msgid "Admissions"
+msgstr ""
+
+#: include/header.inc.php:110
+msgid "Admission Procedure"
+msgstr ""
+
+#: include/header.inc.php:113
+msgid "Study"
+msgstr ""
+
+#: include/header.inc.php:115
+msgid "Study Programme"
+msgstr ""
+
+#: include/header.inc.php:117
+msgid "International Relations"
+msgstr ""
+
+#: include/header.inc.php:119
+msgid "BA International Relations"
+msgstr ""
+
+#: include/header.inc.php:120
+msgid "BA Comparative policies"
+msgstr ""
+
+#: include/header.inc.php:121
+msgid "BA War Studies"
+msgstr ""
+
+#: include/header.inc.php:122
+msgid "BA Diplomacy International Relations"
+msgstr ""
+
+#: include/header.inc.php:123
+msgid "MA International Relations"
+msgstr ""
+
+#: include/header.inc.php:126
+msgid "Tourism &amp; Leisure"
+msgstr ""
+
+#: include/header.inc.php:128
+msgid "BA Tourism, Culture &amp; Leisure"
+msgstr ""
+
+#: include/header.inc.php:129
+msgid "BA Tourism &amp; Hospitality Management"
+msgstr ""
+
+#: include/header.inc.php:130
+msgid "MA Tourism &amp; Leisure Management"
+msgstr ""
+
+#: include/header.inc.php:131
+msgid "MA Hospitality Management"
+msgstr ""
+
+#: include/header.inc.php:134
+msgid "Business"
+msgstr ""
+
+#: include/header.inc.php:140
+msgid "Operational Management"
+msgstr ""
+
+#: include/header.inc.php:142
+msgid "MSc Waste &amp; Recycling Management"
+msgstr ""
+
+#: include/header.inc.php:143
+msgid "MSc Occupational Hygiene, Health, Safety &amp; Environmental Management"
+msgstr ""
+
+#: include/header.inc.php:144
+msgid "MSc Transports &amp; Logistics"
+msgstr ""
+
+#: include/header.inc.php:145
+msgid "MSc Logistics &amp; Supply Chain Management"
+msgstr ""
+
+#: include/header.inc.php:148
+msgid "Sustainability"
+msgstr ""
+
+#: include/header.inc.php:150
+msgid "MSc Environmental Management &amp; Assessment Studies"
+msgstr ""
+
+#: include/header.inc.php:151
+msgid "MSc Sustainable Building: Design &amp; Performance Management"
+msgstr ""
+
+#: include/header.inc.php:152
+msgid "MSc Sustainable Development &amp; Environment"
+msgstr ""
+
+#: include/header.inc.php:153
+msgid "MSc Sustainable Energy &amp; Natural Resource Management"
+msgstr ""
+
+#: include/header.inc.php:154
+msgid "MSc Sustainable Planning"
+msgstr ""
+
+#: include/header.inc.php:155
+msgid "MSc Transports &amp; Urban Planning"
+msgstr ""
+
+#: include/header.inc.php:156
+msgid "MSc Sustainable Agriculture Management"
+msgstr ""
+
+#: include/header.inc.php:157
+msgid "MSc Climat Change &amp; Carbon Management"
+msgstr ""
+
+#: include/header.inc.php:160
+msgid "Health"
+msgstr ""
+
+#: include/header.inc.php:162
+msgid "MA Health Services Management"
+msgstr ""
+
+#: include/header.inc.php:165
+msgid "Information System"
+msgstr ""
+
+#: include/header.inc.php:167
+msgid "MSc Big Data Analysis"
+msgstr ""
+
+#: include/header.inc.php:168
+msgid "MSc Transforming into Digital Business"
+msgstr ""
+
+#: include/header.inc.php:169
+msgid "MSc Internet of Thinking Analysis"
+msgstr ""
+
+#: include/header.inc.php:170
+msgid "MSc E-Business &amp; Entrepreneurship"
+msgstr ""
+
+#: include/header.inc.php:171
+msgid "MSc Network, Computer &amp; System Security"
+msgstr ""
+
+#: include/header.inc.php:172
+msgid "MSc IT: Organisational &amp; Management Change"
+msgstr ""
+
+#: include/header.inc.php:173
+msgid "MSc IT Project Management"
+msgstr ""
+
+#: include/header.inc.php:176
+msgid "Finance"
+msgstr ""
+
+#: include/header.inc.php:178
+msgid "MSc Finance &amp; Management"
+msgstr ""
+
+#: include/header.inc.php:183
+msgid "Summer &amp; Winter Programme"
+msgstr ""
+
+#: include/header.inc.php:185
+msgid "Summer Programme"
+msgstr ""
+
+#: include/header.inc.php:186
+msgid "Winter Programme"
+msgstr ""
+
+#: include/header.inc.php:189
+msgid "Exchange Programme"
+msgstr ""
+
+#: include/header.inc.php:192
+msgid "Continuing Professional Development"
+msgstr ""
+
+#: include/header.inc.php:194
+msgid "Certificate of Expert in Big Data Analysis"
+msgstr ""
+
+#: include/header.inc.php:195
+msgid "Certificate of Expert in Transforming into Digital Business"
+msgstr ""
+
+#: include/header.inc.php:196
+msgid "Certificate of Expert in Internet of Thinking Analysis"
+msgstr ""
+
+#: include/header.inc.php:197
+msgid "Certificate in Territorial Sustainable Development"
+msgstr ""
+
+#: include/header.inc.php:198
+msgid "Certificate in Facility management in Sustainable building"
+msgstr ""
+
+#: include/header.inc.php:199
+msgid "Certificate in Project Management"
+msgstr ""
+
+#: include/header.inc.php:200
+msgid "Certificate of Development and Education Leadership"
+msgstr ""
+
+#: include/header.inc.php:203
+msgid "Professional Experience"
+msgstr ""
+
+#: include/header.inc.php:206
+msgid "Research"
+msgstr ""
+
+#: include/header.inc.php:208
+msgid "Centers and programmes"
+msgstr ""
+
+#: include/header.inc.php:209
+msgid "Library"
+msgstr ""
+
+#: include/header.inc.php:210
+msgid "Research Clusters"
+msgstr ""
+
+#: include/header.inc.php:211
+msgid "Publications"
+msgstr ""
+
+#: include/header.inc.php:212
+msgid "Visiting Programmes"
+msgstr ""
+
+#: include/header.inc.php:213
+msgid "Research Support"
+msgstr ""
+
+#: include/header.inc.php:216
+msgid "Executive MBA"
+msgstr ""
+
+#: include/header.inc.php:219
+msgid "Degree Programmes"
+msgstr ""
+
+#: include/header.inc.php:220
+msgid "Short Programmes"
+msgstr ""
+
+#: include/header.inc.php:222
+msgid "Contact &amp; Direction"
+msgstr ""
+
+#: include/header.inc.php:223
+msgid "Sign up for Updates"
+msgstr ""
+
+#: include/header.inc.php:224
+msgid "News"
+msgstr ""
+
+#: include/header.inc.php:227
+msgid "Public Relations"
+msgstr ""
+
+#: include/header.inc.php:229
+msgid "News at the Institute"
+msgstr ""
+
+#: include/header.inc.php:230
+msgid "Public Event"
+msgstr ""
+
+#: include/header.inc.php:231
+msgid "Medias"
+msgstr ""
+
+#: include/header.inc.php:232
+msgid "Employers"
+msgstr ""
+
+#: include/header.inc.php:233
+msgid "Test TypeForm"
+msgstr ""
+
+#: include/header.inc.php:238
+msgid "Who we are"
+msgstr ""
+
+#: include/header.inc.php:239
+msgid "Blog"
+msgstr ""
+
+#: include/header.inc.php:240
+msgid "Chapters"
+msgstr ""
+
+#: include/header.inc.php:241
+msgid "Ambassadors"
+msgstr ""
+
+#: include/header.inc.php:242
+msgid "Class Leaders"
+msgstr ""
+
+#: include/header.inc.php:243
+msgid "Services"
+msgstr ""
+
+#: include/header.inc.php:244
+msgid "Get Involved"
+msgstr ""
+
+#: include/header.inc.php:247
+msgid "Contact"
+msgstr ""
+
+#: lib/gettext/pigs_dropin.php:77
+msgid ""
+"This is how the story goes.\n"
+"\n"
+msgstr ""

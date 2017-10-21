@@ -1,0 +1,6180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: esp\n"
+"POT-Creation-Date: 2017-06-01 18:15+0200\n"
+"PO-Revision-Date: 2017-06-01 19:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admission_grad.php:6 admission_under.php:6 after_login.php:6 decision.php:6
+#: manag_admission.php:6
+msgid "You are not authorized ..."
+msgstr "Usted no está autorizado ..."
+
+#: admission_grad.php:17 admission_under.php:17 index.php:280 ma_health.php:11
+#: ma_hospitality.php:11 ma_inter_relations.php:11 msc_cccm.php:11
+#: msc_ebusiness.php:11 msc_emas.php:11 msc_finance.php:11 msc_itproject.php:11
+#: msc_lscm.php:11 msc_network.php:11 msc_ohhsem.php:11
+#: msc_org_management.php:11 msc_sam.php:11 msc_sbdpm.php:11 msc_sde.php:11
+#: msc_senrm.php:11 msc_sp.php:11 msc_tlm.php:11 msc_transports.php:11
+#: msc_water.php:11 msc_wrp.php:11
+msgid "Graduate Programme"
+msgstr "Programa Bachelor"
+
+#: admission_grad.php:19 admission_under.php:19 after_login.php:20
+#: ba_comparative_policies.php:13 ba_hospitality.php:13
+#: ba_inter_relations.php:14 ba_tourism.php:13 bba_programme.php:13
+#: certificate_cpm.php:13 certificate_del.php:13 certificate_ita.php:13
+#: certificate_tdb.php:13 contact.php:14 decision.php:20
+#: discover_institute.php:13 e_learning.php:13 european_ivt.php:13
+#: european_project.php:13 exchange.php:13 language.php:13 ma_health.php:13
+#: ma_hospitality.php:13 manag_admission.php:20 mandala.php:14
+#: message_director.php:15 msc_cccm.php:13 msc_ebusiness.php:13 msc_emas.php:13
+#: msc_finance.php:13 msc_itproject.php:13 msc_lscm.php:13 msc_ohhsem.php:13
+#: msc_org_management.php:13 msc_sam.php:13 msc_sbdpm.php:13 msc_sde.php:13
+#: msc_senrm.php:13 msc_sp.php:13 msc_tlm.php:13 msc_transports.php:13
+#: msc_water.php:13 msc_wrp.php:13 our_community.php:13 partners.php:13
+#: presentation.php:14 summer_prog.php:13 support_institute.php:13
+#: winter_prog.php:13 work_professional.php:13
+msgid "Home"
+msgstr "Casa"
+
+#: admission_grad.php:20 admission_under.php:20 after_login.php:21
+msgid "Admission"
+msgstr "Admision"
+
+#: admission_grad.php:21 admission_under.php:21 after_login.php:22
+#: include/header.inc.php:110
+msgid "Admission Procedure"
+msgstr "Procedimiento  de admisión"
+
+#: admission_grad.php:31 admission_under.php:31 after_login.php:32
+#: decision.php:32 manag_admission.php:32
+msgid "DECONNECTION"
+msgstr "DECONNECCIÓN"
+
+#: admission_grad.php:32
+msgid "GRADUATE PROGRAMME"
+msgstr "PROGRAMA BACHELOR"
+
+#: admission_grad.php:34 admission_under.php:34 ba_comparative_policies.php:30
+#: ba_hospitality.php:30 ba_inter_relations.php:31 ba_tourism.php:30
+#: bba_programme.php:30 ma_health.php:30 ma_hospitality.php:30
+#: ma_inter_relations.php:30 msc_cccm.php:30 msc_ebusiness.php:30
+#: msc_emas.php:30 msc_finance.php:30 msc_itproject.php:30 msc_lscm.php:30
+#: msc_ohhsem.php:30 msc_org_management.php:30 msc_sam.php:30 msc_sbdpm.php:30
+#: msc_sde.php:30 msc_senrm.php:30 msc_sp.php:30 msc_tlm.php:30
+#: msc_transports.php:30 msc_water.php:30 msc_wrp.php:30 summer_prog.php:27
+#: winter_prog.php:27
+msgid "Download BA Form"
+msgstr "Descargar BA Form"
+
+#: admission_grad.php:40 admission_under.php:40
+msgid ""
+"Your application file to be returned before two months before the beginning "
+"of the programme"
+msgstr ""
+"Dos meses antes del principio del programa, su expendiente de candidatura "
+"debe ser entregado con:"
+
+#: admission_grad.php:47 admission_under.php:47
+msgid "A Statement of Purpose"
+msgstr "Una declaración de objetivos (carta de motivación)"
+
+#: admission_grad.php:49 admission_under.php:49
+msgid "a CV"
+msgstr "Un CV"
+
+#: admission_grad.php:51 admission_under.php:51
+msgid "The transcripts from your university of origin"
+msgstr "Una letra de registro de su universidad."
+
+#: admission_grad.php:53 admission_under.php:53
+msgid ""
+"Two letters of recommendation written by two of your professors from your "
+"university of origin"
+msgstr ""
+"Dos letras de recomendacion escritas por dos profesores de su universidad"
+
+#: admission_grad.php:55 admission_under.php:55
+msgid "The photocopies of your diplomas."
+msgstr "Une fotocopia de su diploma. "
+
+#: admission_grad.php:75 admission_under.php:75 after_login.php:50
+#: decision.php:102 manag_admission.php:84
+msgid "Login error ..."
+msgstr "Error de inicio de sesión ..."
+
+#: admission_under.php:32
+msgid "UNDERGRADUATE PROGRAMME"
+msgstr "PROGRAMA MASTER"
+
+#: after_login.php:18 include/header.inc.php:108
+msgid "Admissions"
+msgstr "Admisiones"
+
+#: after_login.php:33
+msgid "ADMISSION PROCEDURE"
+msgstr "PROCEDIMIENTO DE ADMISION"
+
+#: ba_comparative_policies.php:11 ba_hospitality.php:11
+#: ba_inter_relations.php:12 ba_tourism.php:11 index.php:280
+msgid "Undergraduate Programme"
+msgstr "Programa master"
+
+#: ba_comparative_policies.php:14 ba_hospitality.php:14
+#: ba_inter_relations.php:15 ba_tourism.php:14 bba_programme.php:14
+#: certificate_cpm.php:14 certificate_del.php:14 certificate_ita.php:14
+#: certificate_tdb.php:14 e_learning.php:14 exchange.php:14
+#: include/header.inc.php:113 language.php:14 ma_health.php:14
+#: ma_hospitality.php:14 ma_inter_relations.php:14 msc_cccm.php:14
+#: msc_ebusiness.php:14 msc_emas.php:14 msc_finance.php:14 msc_itproject.php:14
+#: msc_lscm.php:14 msc_network.php:14 msc_ohhsem.php:14
+#: msc_org_management.php:14 msc_sam.php:14 msc_sbdpm.php:14 msc_sde.php:14
+#: msc_senrm.php:14 msc_sp.php:14 msc_tlm.php:14 msc_transports.php:14
+#: msc_water.php:14 msc_wrp.php:14 summer_prog.php:14 winter_prog.php:14
+#: work_professional.php:14
+msgid "Study"
+msgstr "Estudios"
+
+#: ba_comparative_policies.php:15 ba_hospitality.php:15
+#: ba_inter_relations.php:16 ba_tourism.php:15 bba_programme.php:15
+#: certificate_cpm.php:11 certificate_del.php:11 certificate_ita.php:11
+#: certificate_tdb.php:11 e_learning.php:11 exchange.php:11
+#: include/header.inc.php:115 language.php:11 ma_health.php:15
+#: ma_hospitality.php:15 ma_inter_relations.php:15 msc_cccm.php:15
+#: msc_ebusiness.php:15 msc_emas.php:15 msc_finance.php:15 msc_itproject.php:15
+#: msc_lscm.php:15 msc_network.php:15 msc_ohhsem.php:15
+#: msc_org_management.php:15 msc_sam.php:15 msc_sbdpm.php:15 msc_sde.php:15
+#: msc_senrm.php:15 msc_sp.php:15 msc_tlm.php:15 msc_transports.php:15
+#: msc_water.php:15 msc_wrp.php:15 work_professional.php:11
+msgid "Study Programme"
+msgstr "Estudios"
+
+#: ba_comparative_policies.php:16 ba_inter_relations.php:17
+#: bba_programme.php:62 include/header.inc.php:117 ma_inter_relations.php:16
+msgid "International Relations"
+msgstr "Relaciones internacionales"
+
+#: ba_comparative_policies.php:17 ba_inter_relations.php:64
+#: include/header.inc.php:120
+msgid "BA Comparative policies"
+msgstr ""
+
+#: ba_comparative_policies.php:28
+msgid "BA COMPARATIVE POLICIES"
+msgstr ""
+
+#: ba_comparative_policies.php:33
+msgid "BA Comparative policies: "
+msgstr ""
+
+#: ba_comparative_policies.php:35
+msgid "American policy"
+msgstr ""
+
+#: ba_comparative_policies.php:36
+msgid "Africa’s policy"
+msgstr ""
+
+#: ba_comparative_policies.php:37
+msgid "Asia’s policy"
+msgstr ""
+
+#: ba_comparative_policies.php:38
+msgid "China’s policy"
+msgstr ""
+
+#: ba_comparative_policies.php:39
+msgid "Europe’s policy"
+msgstr ""
+
+#: ba_comparative_policies.php:40
+msgid "India’s policy"
+msgstr ""
+
+#: ba_comparative_policies.php:41
+msgid "Japan’s policy"
+msgstr ""
+
+#: ba_comparative_policies.php:42
+msgid "Option: Middle East’s policy"
+msgstr ""
+
+#: ba_hospitality.php:16 ba_tourism.php:16 include/header.inc.php:126
+#: ma_hospitality.php:16
+msgid "Tourism &amp; Leisure"
+msgstr "Turismo y expansión"
+
+#: ba_hospitality.php:17
+msgid "BA Tourism and Hospitality Management"
+msgstr ""
+
+#: ba_hospitality.php:28
+msgid "BA TOURISM AND HOSPITALITY MANAGEMENT"
+msgstr ""
+
+#: ba_hospitality.php:37
+msgid ""
+"The Bachelor of Arts in Tourism and Hospitality Management is an "
+"interdisciplinary degree designed to prepare students with the skills and "
+"knowledge to serve as leaders in the tourism and hospitality industry."
+msgstr ""
+
+#: ba_hospitality.php:40
+msgid ""
+"The course provides a strong element of work experience across each year of "
+"study to develop skills and experience.  Students can choose to study "
+"specialised themes in either tourism or hospitality or both."
+msgstr ""
+
+#: ba_hospitality.php:43
+msgid ""
+"Student can study specialised themes in either tourism or hospitality or "
+"study both. This is a highly practical course where you learn through direct "
+"experience working in the sector. You can study full time or part time to "
+"suit your personal circumstances"
+msgstr ""
+
+#: ba_inter_relations.php:18
+msgid "Ba international relations"
+msgstr ""
+
+#: ba_inter_relations.php:29
+msgid "BA INTERNATIONAL RELATIONS"
+msgstr ""
+
+#: ba_inter_relations.php:34 ba_tourism.php:34 european_project.php:27
+#: exchange.php:35 exchange.php:36 include/footer.inc.php:13
+#: ma_inter_relations.php:34 ma_inter_relations.php:39 message_director.php:53
+#: msc_transports.php:36 our_community.php:28 summer_prog.php:30
+#: summer_prog.php:76 winter_prog.php:30 winter_prog.php:81
+#: work_professional.php:31
+msgid "SDMI"
+msgstr "SDMI"
+
+#: ba_inter_relations.php:34
+msgid ""
+"is a community of students and scholars dedicated to understanding the "
+"rapidly changing patterns of today's global world. The expertise of our "
+"faculty covers a wide range of themes in International Relations theory, "
+"international history, global political economy, security, war and peace "
+"studies, the historical sociology of international relations, law, ethics "
+"and gender. The geographical scope of our research and teaching includes "
+"Europe and North/South America, the Middle East, Asia, Oceania and the "
+"former USSR. "
+msgstr ""
+
+#: ba_inter_relations.php:36 ma_inter_relations.php:37
+msgid ""
+"We are one of the world's leading centres for research and graduate training "
+"in International Relations. We are also unique in combining the general "
+"theoretical and empirical study of international and global politics with a "
+"focus on political dynamics and developments."
+msgstr ""
+
+#: ba_inter_relations.php:38
+msgid "SDMI focuses on :"
+msgstr ""
+
+#: ba_inter_relations.php:44
+msgid ""
+"sustain and develop scholarship, research, teaching and training in Politics "
+"and International Relations, which: "
+msgstr ""
+
+#: ba_inter_relations.php:45
+msgid "aspires to best practice in all its activities; "
+msgstr ""
+
+#: ba_inter_relations.php:46
+msgid "reflects its scholarship and research in its teaching; "
+msgstr ""
+
+#: ba_inter_relations.php:47
+msgid "provides lifelong learning skills appropriate to the disciplines; "
+msgstr ""
+
+#: ba_inter_relations.php:48
+msgid ""
+"is informed by developments in the other Social Sciences and in the "
+"Humanities; "
+msgstr ""
+
+#: ba_inter_relations.php:49
+msgid "achieve a reputation for excellence in teaching at all levels through;"
+msgstr ""
+
+#: ba_inter_relations.php:50
+msgid ""
+"maintaining stimulating, generic and subject specific undergraduate "
+"teaching; "
+msgstr ""
+
+#: ba_inter_relations.php:51
+msgid "enhancing the postgraduate teaching quality; "
+msgstr ""
+
+#: ba_inter_relations.php:52
+msgid ""
+"ensuring that its students are equipped with skills which are both relevant "
+"and transferable; "
+msgstr ""
+
+#: ba_inter_relations.php:58
+msgid ""
+"It contributes to a wide range of undergraduate teaching programs ranging "
+"from single honours political science to an extensive range of courses that "
+"combine international studies with a language, as well as a range of joint "
+"honours degree schemes (notably with history, economics and sociology)."
+msgstr ""
+
+#: ba_inter_relations.php:60
+msgid ""
+"Our undergraduate program covers general issues about international "
+"relations, IR theories, international organizations, international law, "
+"international system, and regional issues about International Relations. The "
+"number of electives are especially kept high in order to give our students "
+"the chance of getting specialized on topics that they are interested in. "
+"Undergraduate Program is carried out in English and French."
+msgstr ""
+
+#: ba_inter_relations.php:62
+msgid "It has a 3 years long curriculum of SDMI offers a diversity program: "
+msgstr ""
+
+#: ba_inter_relations.php:66 include/header.inc.php:119 index.php:44
+#: index.php:45 index.php:46 index.php:47 index.php:48
+msgid "BA International Relations"
+msgstr ""
+
+#: ba_inter_relations.php:68 include/header.inc.php:121
+msgid "BA War Studies"
+msgstr ""
+
+#: ba_inter_relations.php:70
+msgid "BA Diplomacy and International Relations"
+msgstr ""
+
+#: ba_tourism.php:17 include/header.inc.php:128 index.php:59
+msgid "BA Tourism, Culture &amp; Leisure"
+msgstr ""
+
+#: ba_tourism.php:28
+msgid "BA TOURISM, CULTURE &amp; LEISURE"
+msgstr ""
+
+#: ba_tourism.php:32
+msgid ""
+"We provide skills and academic expertise in tourism, hospitality; leisure "
+"and event management, producing graduates who work all over the world. "
+"Whether you want to work for a small regional company, a public sector "
+"employer such as a council or tourism organisation, an international firm or "
+"want to start your own business, the courses at Institute of Tourism &amp; "
+"Hospitality combine practical and academic understanding to help you succeed "
+"in the travel, tourism and hospitality sector."
+msgstr ""
+
+#: ba_tourism.php:34
+msgid ""
+"consists of staff with a variety of international and national experience of "
+"both the industry and research.\n"
+"        The team is supported by a number of key specialist visiting "
+"lecturers from industry. The team also contributes to the teaching, research "
+"and administration of courses and the international work of the Institute. "
+msgstr ""
+
+#: ba_tourism.php:37
+msgid ""
+"The approach of the subject group towards the programmes is one which "
+"examines tourism, hospitality, leisure and events as a business, and focuses "
+"on the management aspects. "
+msgstr ""
+
+#: ba_tourism.php:44
+msgid ""
+"The programmes give you an insight into the nature of these subject areas, "
+"and an awareness of career opportunities through a programme of study which "
+"balances theory with practice."
+msgstr ""
+
+#: ba_tourism.php:46
+msgid ""
+"The programmes also encourage the development of management skills, for "
+"example team building and team work, communication, report and presentation "
+"expertise and other professional managerial skills."
+msgstr ""
+
+#: ba_tourism.php:51
+msgid "Strengths of the course include : "
+msgstr ""
+
+#: ba_tourism.php:55
+msgid ""
+"the dynamic staff with a variety of international and national experience in "
+"industry and consultancy, and a research background recognised at an "
+"international level"
+msgstr ""
+
+#: ba_tourism.php:56
+msgid ""
+"the close ties with industry and professional links and associations of the "
+"group including the use of high profile industry guest speakers"
+msgstr ""
+
+#: ba_tourism.php:64
+msgid ""
+"the state of the art facilities offered at the Institute, which has been "
+"recognised as the top new Business School"
+msgstr ""
+
+#: ba_tourism.php:66 bba_programme.php:35 msc_emas.php:38 msc_lscm.php:37
+#: msc_sam.php:40 msc_tlm.php:40 msc_transports.php:38
+msgid "The"
+msgstr ""
+
+#: ba_tourism.php:66
+msgid "BA program Tourism, Culture and Leisure"
+msgstr ""
+
+#: ba_tourism.php:66
+msgid ""
+"offers, as its name suggests, courses focused on professional intervention "
+"in the areas of tourism, culture and leisure. This field of intervention is "
+"very broad and covers both the municipal and regional leisure sector as "
+"cultural and socio-cultural events, tourism and eco-tourism, as well as "
+"education, health, services social and support to voluntary associations."
+msgstr ""
+
+#: bba_programme.php:16 include/header.inc.php:134
+msgid "Business"
+msgstr "Negocios"
+
+#: bba_programme.php:17 include/footer.inc.php:34 include/header.inc.php:136
+#: index.php:73 index.php:294
+msgid "BBA Programme"
+msgstr "BBA Programas "
+
+#: bba_programme.php:28
+msgid "BBA PROGRAMME"
+msgstr "BBA PROGRAMAS"
+
+#: bba_programme.php:35
+msgid ""
+"Bachelor of Business Administration (B.B.A.)</strong>  program prepares "
+"students for management positions in business and government by providing "
+"the necessary concepts, theories, and real-world preparation relating to "
+"human and organizational aspects of management."
+msgstr ""
+
+#: bba_programme.php:37
+msgid ""
+"The education leading to a bachelor of business administration degree starts "
+"with general courses in a wide variety of subjects. The program also "
+"provides the analytical, creative, and quantitative expertise required to "
+"utilize resources and make good business decisions. Many students continue "
+"on for their Master's of Business Administration (MBA) degree."
+msgstr ""
+
+#: bba_programme.php:39
+msgid ""
+"Our highest priority is to provide students with a broad professional "
+"education to allow them to take a productive place in society and in their "
+"chosen professions. The next highest priority is to establish and further an "
+"environment that supports academic inquiry in business and economic topics. "
+"To fulfil our public service responsibilities, we encourage faculty and "
+"students to assume a positive presence in community affairs and to commit to "
+"supporting business and economic development in the World. The three-year "
+"program focuses on business in international context."
+msgstr ""
+
+#: bba_programme.php:45
+msgid ""
+"Courses in English and French composition, the arts, cultural diversity, the "
+"humanities (history, literature, etc.), the social sciences (psychology, "
+"geography, sociology, anthropology, etc.), the natural sciences, "
+"mathematics, and economics are part of this component. This variety of "
+"coursework in the curriculum contributes to a broad based understanding of "
+"business management processes. For students entering into the Bachelor of "
+"Business Administration, there are suggested course progression models "
+"available for the following disciplines :"
+msgstr ""
+
+#: bba_programme.php:49
+msgid "Accounting"
+msgstr ""
+
+#: bba_programme.php:50
+msgid "Business Law"
+msgstr ""
+
+#: bba_programme.php:51
+msgid "Communication and Events"
+msgstr ""
+
+#: bba_programme.php:52
+msgid "Economics"
+msgstr ""
+
+#: bba_programme.php:53
+msgid "Education"
+msgstr ""
+
+#: bba_programme.php:54
+msgid "Entrepreneurship"
+msgstr ""
+
+#: bba_programme.php:55
+msgid "Ethics"
+msgstr ""
+
+#: bba_programme.php:56 include/header.inc.php:176 msc_finance.php:16
+msgid "Finance"
+msgstr "Finanzas"
+
+#: bba_programme.php:57
+msgid "French"
+msgstr ""
+
+#: bba_programme.php:58
+msgid "Geopolitics"
+msgstr ""
+
+#: bba_programme.php:59 include/header.inc.php:160 ma_health.php:16
+msgid "Health"
+msgstr "Salud"
+
+#: bba_programme.php:60
+msgid "Hospitality Management"
+msgstr ""
+
+#: bba_programme.php:61
+msgid "Human Resources"
+msgstr ""
+
+#: bba_programme.php:63
+msgid "Logistics"
+msgstr ""
+
+#: bba_programme.php:64
+msgid "Management &amp; Strategy"
+msgstr ""
+
+#: bba_programme.php:65
+msgid "Management information system"
+msgstr ""
+
+#: bba_programme.php:66
+msgid "Marketing"
+msgstr ""
+
+#: bba_programme.php:67
+msgid "Mathematics"
+msgstr ""
+
+#: bba_programme.php:68
+msgid "Operations management"
+msgstr ""
+
+#: bba_programme.php:69
+msgid "Organizational behaviour"
+msgstr ""
+
+#: bba_programme.php:70
+msgid "Statistics"
+msgstr ""
+
+#: bba_programme.php:71
+msgid "Tourism"
+msgstr ""
+
+#: bba_programme.php:72
+msgid "Transport"
+msgstr ""
+
+#: certificate_cpm.php:15 certificate_del.php:15 certificate_ita.php:15
+#: certificate_tdb.php:15 e_learning.php:52 include/header.inc.php:192
+msgid "Continuing Professional Development"
+msgstr "Desarrollo profesional continuo"
+
+#: certificate_cpm.php:16
+msgid "Certificate of Project Management (CPD) "
+msgstr ""
+
+#: certificate_cpm.php:27
+msgid "CERTIFICATE OF PROJECT MANAGEMENT (CPD)"
+msgstr ""
+
+#: certificate_cpm.php:32
+msgid "The Diploma of"
+msgstr ""
+
+#: certificate_cpm.php:32
+msgid ""
+"Project Management); ?></strong> is a special series of courses combined "
+"with an assessment to provide an accredited pathway for the nationally "
+"recognised qualification of Diploma of Project Management."
+msgstr ""
+
+#: certificate_cpm.php:35 certificate_cpm.php:55
+msgid "The Diploma of "
+msgstr ""
+
+#: certificate_cpm.php:35 certificate_cpm.php:38 certificate_cpm.php:55
+msgid "Project Management"
+msgstr ""
+
+#: certificate_cpm.php:35
+msgid ""
+"is for Project Managers currently or soon to be managing projects from an "
+"'end to end' perspective. It is also suitable for experienced Project "
+"Managers looking for further Continuing Professional Development and to have "
+"their experience recognised through achievement of a nationally recognised "
+"Project Management qualification."
+msgstr ""
+
+#: certificate_cpm.php:38
+msgid "Course Objectives"
+msgstr ""
+
+#: certificate_cpm.php:38
+msgid "On completion of the Diploma of "
+msgstr ""
+
+#: certificate_cpm.php:38
+msgid "you will :"
+msgstr ""
+
+#: certificate_cpm.php:41
+msgid ""
+"Understand how all of the functions of project management ‘fit together’"
+msgstr ""
+
+#: certificate_cpm.php:42
+msgid ""
+"Have comprehensive skills and knowledge for scoping and planning projects"
+msgstr ""
+
+#: certificate_cpm.php:43
+msgid ""
+"Know how to implement projects and apply best practice techniques to ‘real "
+"projects’"
+msgstr ""
+
+#: certificate_cpm.php:44
+msgid "Know how to better manage people and team management in projects"
+msgstr ""
+
+#: certificate_cpm.php:45
+msgid ""
+"Know how to use techniques for the management of costs, resources and "
+"procurement activities required over the life of a project"
+msgstr ""
+
+#: certificate_cpm.php:46
+msgid ""
+"Understand risk management for projects, in particular environmental, "
+"organisational and project-specific risks (schedules, budgets etc)"
+msgstr ""
+
+#: certificate_cpm.php:47
+msgid ""
+"Understand how to benchmark your project management against world class "
+"benchmarks"
+msgstr ""
+
+#: certificate_cpm.php:48
+msgid ""
+"Know how to use techniques for measuring and improving project management "
+"performance"
+msgstr ""
+
+#: certificate_cpm.php:49
+msgid ""
+"Be practised at implementing your project management skills for achieving "
+"high value outcomes with your peers, team and other stakeholders"
+msgstr ""
+
+#: certificate_cpm.php:50
+msgid ""
+"Hold a nationally recognised qualification of Diploma of Project Management"
+msgstr ""
+
+#: certificate_cpm.php:55
+msgid ""
+"is facilitated by highly reputable, qualified, expert project management "
+"professionals."
+msgstr ""
+
+#: certificate_del.php:16
+msgid "Certificate of Development and Educational Leadership (CPD)"
+msgstr ""
+
+#: certificate_del.php:27
+msgid "CERTIFICATE OF DEVELOPMENT AND EDUCATIONAL LEADERSHIP (CPD)"
+msgstr ""
+
+#: certificate_del.php:32
+msgid ""
+"Emphasis is placed on the relationships between curriculum and instructional "
+"development, supervision of instruction, professional development, and "
+"organizational development, and the ways in which information on student "
+"learning can be used to improve teaching and learning. Candidates:"
+msgstr ""
+
+#: certificate_del.php:35
+msgid ""
+"Develop a detailed understanding of the ways in which school leaders support "
+"the development of children's interest and skills in reading, writing, and "
+"oral expression across all parts of the curriculum, along with an in-depth "
+"understanding of leadership issues in other subject areas."
+msgstr ""
+
+#: certificate_del.php:36
+msgid ""
+"Enhance their understanding and skills as leaders responsible for systems "
+"that support learning by students who struggle or who have traditionally "
+"been marginalized, but who learn most effectively when given full access to "
+"the same learning opportunities available to others."
+msgstr ""
+
+#: certificate_del.php:37
+msgid ""
+"Develop their ability to resolve conflicts, ethical dilemmas, and political "
+"challenges faced by educational leaders, and sharpen interpersonal "
+"communication skills while enhancing group decision making, and promoting "
+"collaboration and community building."
+msgstr ""
+
+#: certificate_del.php:39
+msgid ""
+"Increase their ability to work effectively with parents and caregivers of "
+"students and the communities in which the students live."
+msgstr ""
+
+#: certificate_del.php:41
+msgid ""
+"Gain a basic understanding of the institutional, legal, policy, fiscal, and "
+"external political contexts of public education and the technical and "
+"organizational systems that determine how those contexts affect teaching and "
+"learning."
+msgstr ""
+
+#: certificate_del.php:43
+msgid ""
+"Understand of the roles they will play as building leaders and school "
+"district leaders in the 21st century schools."
+msgstr ""
+
+#: certificate_del.php:49
+msgid "People who take our program may work as :"
+msgstr ""
+
+#: certificate_del.php:53
+msgid " Trainers"
+msgstr ""
+
+#: certificate_del.php:54
+msgid "Instructors"
+msgstr ""
+
+#: certificate_del.php:55
+msgid "Facilitators"
+msgstr ""
+
+#: certificate_del.php:57
+msgid "Human Resource Professionals"
+msgstr ""
+
+#: certificate_del.php:59
+msgid "Instructional Designers"
+msgstr ""
+
+#: certificate_del.php:61
+msgid "Staff Development Officers"
+msgstr ""
+
+#: certificate_del.php:63
+msgid "Group/Team Leaders"
+msgstr ""
+
+#: certificate_del.php:65
+msgid "Curriculum Designers"
+msgstr ""
+
+#: certificate_del.php:67
+msgid "Counselors"
+msgstr ""
+
+#: certificate_ita.php:16
+msgid "Become an Expert in Internet of Thinking Analysis (CPD – ITA)"
+msgstr ""
+
+#: certificate_ita.php:27
+msgid "BECOME AN EXPERT IN INTERNET OF THINKING ANALYSIS (CPD - ITA)"
+msgstr ""
+
+#: certificate_ita.php:32
+msgid ""
+"Expert estimate that by 2020, there will be 25 billion devices connected to "
+"the Internet, and will be able to communicate with other devices or with "
+"people."
+msgstr ""
+
+#: certificate_ita.php:35
+msgid ""
+"This means that the cost to transform a ‘dumb’ product into a ‘smart’ "
+"product with sensors, memory, computing power and communication capabilities "
+"via the internet will drop very fast so that many new applications of "
+"products and services will change many aspects of people’s life: at home, at "
+"work, while traveling, for healthcare etc."
+msgstr ""
+
+#: certificate_ita.php:38
+msgid "As an "
+msgstr ""
+
+#: certificate_ita.php:38
+msgid "Expert in Internet-of-Things"
+msgstr ""
+
+#: certificate_ita.php:38
+msgid ""
+"you will be the star at work by innovating new products and services your "
+"employer can sell in the next 5 years, and as a result your employer will "
+"remain a successful company."
+msgstr ""
+
+#: certificate_ita.php:40
+msgid ""
+"All private companies and public organizations, no matter the industry in "
+"which they operate now, will need one of more <strong>Experts in Internet-of-"
+"Things</strong> knowledge. It is the job for the future. The training and "
+"certification of <strong>Experts in Internet-of-Things</strong> ensures "
+"excellent paid employment."
+msgstr ""
+
+#: certificate_tdb.php:16
+msgid "Become an Expert in Transforming into Digital Business (CPD – TDB)"
+msgstr ""
+
+#: certificate_tdb.php:27
+msgid "BECOME AN EXPERT IN TRANSFORMING INTO DIGITAL BUSINESS (CPD -TDB)"
+msgstr ""
+
+#: certificate_tdb.php:32
+msgid ""
+"The explosion of Smart Phones and Tablets, Social Media, Cloud based "
+"services,"
+msgstr ""
+
+#: certificate_tdb.php:32
+msgid "Big Data and the Internet-of-Things"
+msgstr ""
+
+#: certificate_tdb.php:32
+msgid ""
+"creates a world in which almost everything exists and moves in a Digital "
+"format. The effect hereof is that all ‘old and tried’ business models have "
+"to adapt to this new reality. "
+msgstr ""
+
+#: certificate_tdb.php:35
+msgid ""
+"Think about the music distribution industry: twenty years ago we had "
+"recording studios, vinyl (or CD) record making factories, thousands of shops "
+"to sell the records, manufacturers of HiFi equipment. Today artists record "
+"their musical creations themselves, upload it in the Cloud and the consumers "
+"can listen to the music on the smartphones. Gone are all the participants in "
+"the ‘old’ supply chain for music. The banking industry is fully busy "
+"transforming its business model to fit inside the new digital economy. When "
+"will the newspapers follow ? And what about all other products and services ?"
+msgstr ""
+
+#: certificate_tdb.php:38
+msgid "The expert in "
+msgstr ""
+
+#: certificate_tdb.php:38
+msgid "“Transforming into a Digital Business”"
+msgstr ""
+
+#: certificate_tdb.php:38
+msgid ""
+"knows how to tackle the challenges of transformation. He/she supports the "
+"executives of a company (or public service) and is the leader of the "
+"transformation program. All organizations, private and public, will need one "
+"or more "
+msgstr ""
+
+#: certificate_tdb.php:38
+msgid "Expert in Transforming into a Digital Business:"
+msgstr ""
+
+#: certificate_tdb.php:38
+msgid ""
+"It is the job for the future. The training and certification of Experts in "
+"Transforming into a Digital Business ensures excellent paid employment."
+msgstr ""
+
+#: connexion.php:34 connexion.php:71 decision.php:31 manag_admission.php:31
+msgid "Welcome"
+msgstr ""
+
+#: connexion.php:34 connexion.php:71
+msgid ""
+"You are in your personal space which allows you to consult your applications"
+msgstr ""
+
+#: connexion.php:39 connexion.php:76
+msgid "Master Programme"
+msgstr ""
+
+#: connexion.php:40 connexion.php:77
+msgid "Bachelor Programme"
+msgstr ""
+
+#: connexion.php:47 connexion_admin.php:33
+msgid "Unrecognized member ..."
+msgstr ""
+
+#: connexion.php:56 connexion_admin.php:39
+msgid "Login error, please try again ..."
+msgstr ""
+
+#: contact.php:12
+msgid "Contact Us"
+msgstr ""
+
+#: contact.php:15 include/header.inc.php:247
+msgid "Contact"
+msgstr "Contacto"
+
+#: contact.php:28
+msgid "COME TO"
+msgstr ""
+
+#: contact.php:30
+msgid "73 rue Léon Bourgeois"
+msgstr ""
+
+#: contact.php:32
+msgid "91120 Palaiseau - FRANCE"
+msgstr ""
+
+#: contact.php:38
+msgid "CALL TO"
+msgstr ""
+
+#: contact.php:48
+msgid "CONNECT TO"
+msgstr ""
+
+#: contact.php:50 summer_prog.php:78 winter_prog.php:84
+msgid "info@sdmi-edu.fr"
+msgstr ""
+
+#: contact.php:52
+msgid "www.sdmi-edu.fr"
+msgstr ""
+
+#: contact.php:59
+msgid "NAME"
+msgstr ""
+
+#: contact.php:62
+msgid "EMAIL"
+msgstr ""
+
+#: contact.php:65
+msgid "SUBJECT"
+msgstr ""
+
+#: contact.php:68
+msgid "HOW CAN WE HELP?"
+msgstr ""
+
+#: contact.php:72
+msgid "SUBMIT CONTACT"
+msgstr ""
+
+#: decision.php:18 manag_admission.php:18
+msgid "Admin Area"
+msgstr ""
+
+#: decision.php:21 manag_admission.php:21
+msgid "Admin area"
+msgstr ""
+
+#: decision.php:33 manag_admission.php:33
+msgid "MANAGE ADMISSION"
+msgstr ""
+
+#: decision.php:87
+msgid "Deletion problem"
+msgstr ""
+
+#: discover_institute.php:11 european_ivt.php:11 european_project.php:11
+#: include/header.inc.php:91 include/header.inc.php:218 mandala.php:12
+#: our_community.php:11 partners.php:11 support_institute.php:11
+msgid "About Us"
+msgstr "A proposito"
+
+#: discover_institute.php:14 european_ivt.php:14 european_project.php:14
+#: mandala.php:15 message_director.php:16 our_community.php:14 partners.php:14
+#: presentation.php:15 support_institute.php:14
+msgid "About us"
+msgstr ""
+
+#: discover_institute.php:15
+msgid "Discover our institute"
+msgstr "Descubrir el Instituto"
+
+#: discover_institute.php:24
+msgid "DISCOVER OUR INSTITUTE"
+msgstr "DESCUBRIR EL INSTITUTO"
+
+#: discover_institute.php:25 discover_institute.php:27
+#: discover_institute.php:31 discover_institute.php:33
+#: discover_institute.php:34 presentation.php:31 presentation.php:39
+#: presentation.php:41 presentation.php:43
+msgid "Sustainable Development Management Institute"
+msgstr "Sustainable Development Management Institute"
+
+#: discover_institute.php:25
+msgid ""
+"provides a distinctive program in sustainable development management that "
+"builds on and enhances the liberal arts curriculum. Our aim is to prepare "
+"students to be committed to a process of life-long learning and to pursue "
+"rewarding careers in a technologically changing and culturally diverse "
+"world. To this end, Sustainable Development Management Institute has created "
+"a learning environment that encourages the integration of management theory, "
+"research, and practice within a well-balanced program of study in the arts, "
+"sciences and humanities."
+msgstr ""
+"presenta un programa distintivo en el desarrollo sostenible de la gestión "
+"que construye y mejora las acciones de vida. Nuestro objectivo es "
+"comprometer a los estudiantes con un proceso de aprendizaje durante todas "
+"sus vidas y continuar sus carreras en este mundo en total cambio tecnología "
+"y cultural. Por eso, Sustainable Development Management Institute creó un "
+"medio ambiente de aprendizaje que promueve la integración de la teoría de la "
+"gestión, la investigación, y la práctica en un programa equilibrado de "
+"estudios en artes, ciencias y humanidades"
+
+#: discover_institute.php:27
+msgid ""
+"provides a foundation in core functional areas, advanced courses, and a wide "
+"variety of co-curricular learning opportunities. While all courses take into "
+"account the linkages across management disciplines, the cornerstone and "
+"capstone courses utilize an explicitly integrative approach. Permeating our "
+"educational offerings is an emphasis on international dimensions, "
+"discernment of ethical values, and development of communication skills. "
+"Flexibility in the program enables students to concentrate in a management "
+"discipline or pursue joint programs with other departments to prepare for "
+"careers and graduate education."
+msgstr ""
+"es también una fundación que cubre muchas regiones funcionales, con "
+"avanzados cursos y una amplia variedad de oportunidades. Mientras que los "
+"cursos están relacionados con disciplinas tales como la gestión, la piedra "
+"angular del programa utiliza un enfoque explícito, permitiendo a nuestra "
+"oferta educativa el desarrollo de valores éticos, y de nuestras calidades de "
+"comunicación. La flexibilidad en el programa permite a los estudiantes "
+"centrarse en la gestión o continuar con otro programa en otros departamentos "
+"para completer sus carreras y diplomas."
+
+#: discover_institute.php:31
+msgid "The program serves the larger"
+msgstr "El programa sirve a toda la comunidad del"
+
+#: discover_institute.php:31
+msgid ""
+"community by offering all students a conceptual basis for managing fiscal, "
+"strategy, operation, entrepreneurship, IT and human resources in scientific, "
+"artistic, human service, and business undertakings. Both in its presentation "
+"of foundation courses and in its upper-level courses, departmental offerings "
+"provide avenues for exploring the relationship between business and society. "
+"In addition, Sustainable Development Management Institute develops and "
+"contributes to a variety of interdisciplinary courses and programs. Thus, "
+"Sustainable Development Management Institute serves not only its own majors, "
+"but adds depth, breadth, and value to the liberal arts education of students "
+"concentrating in other disciplines."
+msgstr ""
+"y ofrece a los estudiantes una base para la gestión de los impuestos, para "
+"desarrollar estrategias o creer su propia empresa.  Como componentes de "
+"nuestra fundación, los estudiantes tienen interacciones regulares con el "
+"mundo de las finanzas y a través del “Business Advisory Council”. El curso "
+"de introducción, así como el resto de cursos, incluye la posibilidad de "
+"participar en visitas a empresas y a los ejecutivos en el trabajo. "
+"Sustainable Development Management Institute fomenta los estudios en los "
+"países extranjeros, las asociaciones y la participación en proyectos de "
+"comunidad para proporcionar nuevas experiencias. Los estudiantes que quieran "
+"prepararse en contabilidad pública deben seguir cursos hasta la satisfacción "
+"de los requisitos académicos."
+
+#: discover_institute.php:33
+msgid "All the programs within"
+msgstr "Todos los pragramas de"
+
+#: discover_institute.php:33
+msgid ""
+"have some element of management, strategy or entrepreneurship and the group "
+"are responsible for teaching across a wide variety of programmes at both "
+"undergraduate and postgraduate level (course, certificate, degree, diploma, "
+"e-learning) and through full-time, part-time and distance learning "
+"deliveries."
+msgstr ""
+"tienen elementos de gestión, estrategias  y espíritu empresarial y el grupo "
+"es responsable de muchos tipos de cursos, que son del nivel de licenciaturas "
+"o graduados (diploma, certificado, e-learning) y con la posibilidad de "
+"formación continua o formación a distancia."
+
+#: discover_institute.php:34
+msgid "Studying sustainable development Management with"
+msgstr "Estudiar la gestión del desarrollo duradero con"
+
+#: discover_institute.php:34
+msgid ""
+"is all about you: where you are at now, and where you want to be in the "
+"future. Starting from your own experience, you’ll develop and extend your "
+"knowledge, skills and practice – whether you are looking for a one-off piece "
+"of professional updating or aiming for an award such as a diploma or degree."
+msgstr ""
+"es lo mejor para usted: desde dond este  ahora a dónde quiere estar en el "
+"futuro. Empezará con su propria experiencia, y desarrollará y ampliará su "
+"conocimiento y habilidades – Si quiere una actualización profesional o si su "
+"meta es obtener un diploma o un certificado, Sustainable Development "
+"Management Institute es para usted."
+
+#: e_learning.php:15
+msgid "E-learning"
+msgstr "E-learning"
+
+#: e_learning.php:26
+msgid "E-LEARNING"
+msgstr "E-LEARNING"
+
+#: e_learning.php:31
+msgid "E-learning is open to people, places, methods and ideas."
+msgstr ""
+"E-learning está abierto a toda la gente alrededor del mundo para nuevos "
+"métodos y ideas."
+
+#: e_learning.php:33
+msgid ""
+"It promotes educational opportunity and social justice by providing high-"
+"quality university education to all who wish to realise their ambitions and "
+"fulfil their potential."
+msgstr ""
+"Eso promueve oportunidades educativas y justicia social proporcionando una "
+"educación universitaria de calidad para todos aquellos que quieran lograr "
+"sus ambiciones y aumentar su potencial."
+
+#: e_learning.php:35
+msgid ""
+"Through academic research, pedagogic innovation and collaborative "
+"partnership it seeks to be a world leader in the design, content and "
+"delivery of supported open and distance learning."
+msgstr ""
+"Con la investigación académica, la innovación educativa y la colaboración "
+"con asociados, SDMI quiere ser un líder en el diseño, el contenido y la "
+"transmisión del conocimiento con el aprendizaje a distancia."
+
+#: e_learning.php:37
+msgid ""
+"Most qualifications of the Institue are modular in structure - the "
+"appropriate number of courses at the appropriate levels can be combined "
+"together to obtain an academic qualification (a degree, certificate or "
+"diploma)."
+msgstr ""
+"La mayoría de los cualificaciones del Instituto son modulares, el número "
+"apropiado de cursos con el nivel apropriado puede establecerse con la "
+"combinación de muchos cursos para obtener una calificación académica "
+"(certificado o diploma)."
+
+#: e_learning.php:43
+msgid "Business and management"
+msgstr "Negocio y gestión"
+
+#: e_learning.php:44
+msgid "Environment"
+msgstr "Medio ambiente"
+
+#: e_learning.php:45
+msgid "Health and social care/Health studies"
+msgstr "Salud y social/Estudios médicos"
+
+#: e_learning.php:46
+msgid "Humanities: arts, languages, history"
+msgstr "Estudios sociales: artes, idiomas, historia"
+
+#: e_learning.php:47
+msgid "Information technology and computing"
+msgstr "Tecnología de la información e informática"
+
+#: e_learning.php:48
+msgid "Law and criminology"
+msgstr "Ley y criminologia"
+
+#: e_learning.php:49
+msgid "Mathematics and statistics"
+msgstr "Matemáticas y estadística"
+
+#: e_learning.php:50
+msgid "Psychology, philosophy, politics, economics"
+msgstr "Psicología, filosofía, política y economía"
+
+#: e_learning.php:51
+msgid "Social sciences"
+msgstr "Estudios sociales"
+
+#: european_ivt.php:15 european_project.php:15 include/header.inc.php:99
+msgid "European International Project"
+msgstr "Proyecto europeo y internacional"
+
+#: european_ivt.php:16 include/header.inc.php:102 index.php:184
+msgid "EURspace: European IVT Recognition Gateway"
+msgstr "EURspace: IVT Europeo /Reconocimiento de competencias"
+
+#: european_ivt.php:27
+msgid "EUROPEAN IVT RECOGNITION GATEWAY"
+msgstr "IVT EUROPEO /RECONOCIMIENTO DE COMPETENCIAS"
+
+#: european_ivt.php:28
+msgid "Download General Aim of the Project"
+msgstr "Descargar Objetivo General del Proyecto"
+
+#: european_ivt.php:30
+msgid ""
+"Contribute to the development of a European area of skills and "
+"qualifications through the development of a European Platform that provides "
+"support to ensure the recognition, validation, attribution of credits and "
+"certification of Initial Vocational Training units, applied within other "
+"European countries, allowing the combination of theoretical and practical "
+"approaches, therefore extending the national scale to the European scale."
+msgstr ""
+"Contribuir al desarrollo de una zona europea de capacidades y calificaciones "
+"con el establecimiento de nuestra plataforma proporciona apoyo para asegurar "
+"el reconocimiento, la validación y la asignación de créditos y certificación "
+"del « Initial Vocational Training units», que está aplicado dentro de la "
+"Unión Europea y que permite la combinación de los enfoques teóricos y "
+"prácticos, ampliando la escala nacional a la escala europea. "
+
+#: european_ivt.php:32
+msgid ""
+"1st Transnational Meeting in Arcos de Valdevez, Portugal, from the 25th to "
+"26th of November 2015."
+msgstr ""
+"1er Encuentro Transnacional en Arcos de Valdevez, Portugal, del 25 al 26 de "
+"noviembre de 2015."
+
+#: european_ivt.php:35
+msgid ""
+"2nd transnational meeting to be held in Didim, Turkey, from the 19th to 20th "
+"of May 2016."
+msgstr ""
+"2ª reunión transnacional que se celebrará en Didim, Turquía, del 19 al 20 de "
+"mayo de 2016."
+
+#: european_ivt.php:38
+msgid ""
+"3rd transnational meeting to be held in Piatra Neamt, Romania, from the 04th "
+"to 05th of October 2016"
+msgstr ""
+"3ª reunión transnacional que se celebrará en Piatra Neamt, Rumania, del 04 "
+"al 05 de octubre de 2016"
+
+#: european_ivt.php:41
+msgid "The partnership consists of 8 organizations from 7 European countries :"
+msgstr "La asociación consiste en 8 organizaciones de 7 país europeos:"
+
+#: european_ivt.php:43
+msgid "Escola Profissional do Alto Lima, C.I.P.R.L. (Portugal);"
+msgstr "Escola Profissional do Alto Lima, C.I.P.R.L. (Portugal);"
+
+#: european_ivt.php:44
+msgid "Vilnius Tourism and Commerce School (Lithuania);"
+msgstr "Vilnius Tourism and Commerce School (Lithuania);"
+
+#: european_ivt.php:45
+msgid "Colegiul Tehnic Gheorghe Cartianu (Romania);"
+msgstr "Colegiul Tehnic Gheorghe Cartianu (Rumanía);"
+
+#: european_ivt.php:46
+msgid "Heziketa Teknikoko Elkartea (Spain);"
+msgstr "Heziketa Teknikoko Elkartea (España);"
+
+#: european_ivt.php:47
+msgid "Zeynep Mehmet Dönmez Mesleki ve Teknik Anadolu Lisesi (Turkey);"
+msgstr "Zeynep Mehmet Dönmez Mesleki ve Teknik Anadolu Lisesi (Turquía);"
+
+#: european_ivt.php:48
+msgid "Sustainable Develoment Management Institute (France);"
+msgstr "Sustainable Develoment Management Institute (Francia);"
+
+#: european_ivt.php:49
+msgid "Associazone CNOS FAP Regione Umbria (Italy);"
+msgstr "Associazone CNOS FAP Regione Umbria (Italia);"
+
+#: european_ivt.php:50
+msgid "Inercia Digital S.L. (Spain)."
+msgstr "Inercia Digital S.L. (España)."
+
+#: european_project.php:16
+msgid "European and International Project"
+msgstr "Proyecto europeo e intenacional"
+
+#: european_project.php:25
+msgid "EUROPEAN AND INTERNATIONAL PROJECT"
+msgstr "PROYECTO EUROPEO E INTENACIONAL"
+
+#: european_project.php:27
+msgid ""
+"has been participating in the European Community higher education programme "
+"Erasmus since 2015. The programme has opened a great opportunity to widen "
+"transnational co-operation between higher education institutions by "
+"promoting mobility for students and teaching staff, and improving "
+"transparency and academic recognition of studies and qualifications "
+"throughout the Europe."
+msgstr ""
+"ha participado en el programa europeo Erasmus de comunidad de educación "
+"superior desde 2015. El programa abrió una gran oportunidad de cooperación "
+"transnacional con los instituciones de educación superiores promoviendo la "
+"movilidad de los estudiantes y profesores y mejorando la transparencia y el "
+"reconocimiento académico de los estudios y calificaciones por todo Europa."
+
+#: exchange.php:15 include/header.inc.php:189 index.php:298
+msgid "Exchange Programme"
+msgstr "Programas de cambio"
+
+#: exchange.php:26
+msgid "EXCHANGE PROGRAMME"
+msgstr "PROGRAMAS DE CAMBIO"
+
+#: exchange.php:31
+msgid "The international nature of "
+msgstr "La naturaleza internacional de las misiones de"
+
+#: exchange.php:31
+msgid "SDMI’s"
+msgstr "SDMI"
+
+#: exchange.php:31
+msgid ""
+"mission prompted the development of a significant network of academic "
+"partnerships throughout the world and concluded exchange programme "
+"agreements with many prestigious"
+msgstr ""
+"fomenta el desarrollo de una RED de asociados académicos a través el mundo e "
+"incluye programas de intercambio con muchos socios prestigiosos."
+
+#: exchange.php:31
+msgid "partners"
+msgstr "intercambio"
+
+#: exchange.php:32
+msgid "The main aims of these exchange agreements are:"
+msgstr "El principal objetivo de esos aprobaciones de intercambio son:  "
+
+#: exchange.php:35
+msgid "To provide"
+msgstr "Proporcionar"
+
+#: exchange.php:35
+msgid ""
+"“outgoing” students with the opportunity of attending a partner institution "
+"for one or two semesters and benefit from their academic resources while "
+"immersing into the local life and surroundings of that institution. Outgoing "
+"exchange students can earn up to some ECTS credits towards their study "
+"programmes."
+msgstr ""
+"a los estudiantes extranjeros de SDMI la oportunidad de asistir a una "
+"institución asociada durante uno o dos semestres y disfrutar de los "
+"beneficios académicos de  una inmersión en la vida local. Los estudiantes "
+"extranjeros pueden ganar créditos ECTS para sus programas de estudio."
+
+#: exchange.php:36
+msgid ""
+"To provide “incoming” students from our partner institutions with the "
+"opportunity to benefit from the Institute’s expertise and its unique setting "
+"in France. Incoming students can attend"
+msgstr ""
+"Proporcionar a los estudiantes lo más importante de nuestras instituciones "
+"asociadas con la oportunidad de beneficiarse de la experiencia del instituto "
+"y su situación única en Francia. Los estudiantes extranjeros pueden quedarse "
+"en "
+
+#: exchange.php:36
+msgid ""
+"for one or two semesters and gain credits towards their study programmes at "
+"home."
+msgstr ""
+"durante uno o dos semestres y ganar créditos para sus pragramas en la "
+"universidad."
+
+#: first_connexion.php:40
+msgid ""
+"Your information has been taken into account, you will receive a "
+"confirmation email"
+msgstr ""
+"Su información se ha tenido en cuenta, recibirá un correo electrónico de "
+"confirmación"
+
+#: first_connexion.php:47
+msgid "Login error, please enter your information"
+msgstr "Error de inicio de sesión, introduzca su información"
+
+#: include/footer.inc.php:28
+msgid "USEFUL LINKS"
+msgstr "ENLACES ÙTILES"
+
+#: include/footer.inc.php:35 include/header.inc.php:137 index.php:74
+#: index.php:295
+msgid "MBA Programme"
+msgstr "MBA Programas"
+
+#: include/footer.inc.php:36 index.php:243
+msgid "Partners &amp; Associations"
+msgstr "Asociados y asociaciones"
+
+#: include/footer.inc.php:38 include/header.inc.php:190 index.php:299
+msgid "E-Learning"
+msgstr "E-learning"
+
+#: include/footer.inc.php:39 include/header.inc.php:191 index.php:300
+#: language.php:15
+msgid "Language Programme"
+msgstr "Lenguaje"
+
+#: include/footer.inc.php:40 include/header.inc.php:221
+msgid "Customised Programmes"
+msgstr "Programas a medida"
+
+#: include/footer.inc.php:52
+msgid "Newsletter"
+msgstr "Hoja informativa"
+
+#: include/footer.inc.php:53
+msgid "Subscribe SDMI Newsletter"
+msgstr "Suscribirse al boletín SDMI"
+
+#: include/footer.inc.php:73
+msgid "Copyright © 2016 MBS. All rights reserved."
+msgstr "Copyright © 2016 MBS. Todos los derechos reservados."
+
+#: include/footer.inc.php:74
+msgid "Terms of Use"
+msgstr "Términos de Uso"
+
+#: include/footer.inc.php:74
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: include/header.inc.php:7
+msgid "SDMI | Sustainable Development Management Institute"
+msgstr "SDMI | Instituto de Gestión del Desarrollo Sostenible"
+
+#: include/header.inc.php:93 presentation.php:12 presentation.php:16
+msgid "Presentation"
+msgstr "Presentación"
+
+#: include/header.inc.php:94 message_director.php:13 message_director.php:17
+msgid "Message from the Director"
+msgstr "La palabra del director"
+
+#: include/header.inc.php:95
+msgid "Discover the institute"
+msgstr "Descubrir el Instituto"
+
+#: include/header.inc.php:96
+msgid "Our Community"
+msgstr "Nuestra comunidad"
+
+#: include/header.inc.php:97 index.php:228
+msgid "Support the Institute"
+msgstr "Apoyar el Instituto "
+
+#: include/header.inc.php:98
+msgid "Partners and Associations"
+msgstr "Asociados y asociaciones"
+
+#: include/header.inc.php:101
+msgid "European Project"
+msgstr "Proyecto europeo"
+
+#: include/header.inc.php:105
+msgid "MANDALA: Accelerator of Knowledge"
+msgstr "MANDALA:  Acelerador de conocimiento"
+
+#: include/header.inc.php:122
+msgid "BA Diplomacy International Relations"
+msgstr ""
+
+#: include/header.inc.php:123
+msgid "MA International Relations"
+msgstr ""
+
+#: include/header.inc.php:129 index.php:60
+msgid "BA Tourism &amp; Hospitality Management"
+msgstr ""
+
+#: include/header.inc.php:130 index.php:61
+msgid "MA Tourism &amp; Leisure Management"
+msgstr ""
+
+#: include/header.inc.php:131 index.php:62 ma_hospitality.php:17
+msgid "MA Hospitality Management"
+msgstr ""
+
+#: include/header.inc.php:140 msc_lscm.php:16 msc_ohhsem.php:16 msc_tlm.php:16
+#: msc_wrp.php:16
+msgid "Operational Management"
+msgstr "Administración operacional"
+
+#: include/header.inc.php:142 index.php:85
+msgid "MSc Waste &amp; Recycling Management"
+msgstr ""
+
+#: include/header.inc.php:143 index.php:86
+msgid "MSc Occupational Hygiene, Health, Safety &amp; Environmental Management"
+msgstr ""
+
+#: include/header.inc.php:144 index.php:87
+msgid "MSc Transports &amp; Logistics"
+msgstr ""
+
+#: include/header.inc.php:145 index.php:88
+msgid "MSc Logistics &amp; Supply Chain Management"
+msgstr ""
+
+#: include/header.inc.php:148 msc_cccm.php:16 msc_emas.php:16
+#: msc_org_management.php:16 msc_sam.php:16 msc_sbdpm.php:16 msc_sde.php:16
+#: msc_senrm.php:16 msc_sp.php:16 msc_transports.php:16 msc_water.php:16
+msgid "Sustainability"
+msgstr "Durabilidad"
+
+#: include/header.inc.php:150 index.php:99 msc_emas.php:17
+msgid "MSc Environmental Management &amp; Assessment Studies"
+msgstr ""
+
+#: include/header.inc.php:151
+msgid "MSc Sustainable Building: Design &amp; Performance Management"
+msgstr ""
+
+#: include/header.inc.php:152 index.php:100
+msgid "MSc Sustainable Development &amp; Environment"
+msgstr ""
+
+#: include/header.inc.php:153 index.php:101
+msgid "MSc Sustainable Energy &amp; Natural Resource Management"
+msgstr ""
+
+#: include/header.inc.php:154 msc_sp.php:17
+msgid "MSc Sustainable Planning"
+msgstr ""
+
+#: include/header.inc.php:155 index.php:102
+msgid "MSc Transports &amp; Urban Planning"
+msgstr ""
+
+#: include/header.inc.php:156 msc_sam.php:17 msc_sam.php:37 msc_sam.php:40
+msgid "MSc Sustainable Agriculture Management"
+msgstr ""
+
+#: include/header.inc.php:157
+msgid "MSc Climat Change &amp; Carbon Management"
+msgstr ""
+
+#: include/header.inc.php:162 index.php:113 ma_health.php:17
+msgid "MA Health Services Management"
+msgstr ""
+
+#: include/header.inc.php:165 msc_ebusiness.php:16 msc_itproject.php:16
+#: msc_network.php:16
+msgid "Information System"
+msgstr "Tecnología de la información"
+
+#: include/header.inc.php:167 index.php:124
+msgid "MSc Big Data Analysis"
+msgstr ""
+
+#: include/header.inc.php:168 index.php:125
+msgid "MSc Transforming into Digital Business"
+msgstr ""
+
+#: include/header.inc.php:169 index.php:126
+msgid "MSc Internet of Thinking Analysis"
+msgstr ""
+
+#: include/header.inc.php:170 index.php:127
+msgid "MSc E-Business &amp; Entrepreneurship"
+msgstr ""
+
+#: include/header.inc.php:171 index.php:128
+msgid "MSc Network, Computer &amp; System Security"
+msgstr ""
+
+#: include/header.inc.php:172 msc_org_management.php:17
+msgid "MSc IT: Organisational &amp; Management Change"
+msgstr ""
+
+#: include/header.inc.php:173 msc_itproject.php:17
+msgid "MSc IT Project Management"
+msgstr ""
+
+#: include/header.inc.php:178 index.php:139 msc_finance.php:17
+msgid "MSc Finance &amp; Management"
+msgstr ""
+
+#: include/header.inc.php:183 summer_prog.php:15 winter_prog.php:15
+msgid "Summer &amp; Winter Programme"
+msgstr "Programas de verano y de invierno"
+
+#: include/header.inc.php:185 index.php:161 index.php:296 summer_prog.php:16
+msgid "Summer Programme"
+msgstr "Programas de verano"
+
+#: include/header.inc.php:186 index.php:162 index.php:297 winter_prog.php:16
+msgid "Winter Programme"
+msgstr "Programas de invierno"
+
+#: include/header.inc.php:194
+msgid "Certificate of Expert in Big Data Analysis"
+msgstr ""
+
+#: include/header.inc.php:195
+msgid "Certificate of Expert in Transforming into Digital Business"
+msgstr ""
+
+#: include/header.inc.php:196
+msgid "Certificate of Expert in Internet of Thinking Analysis"
+msgstr ""
+
+#: include/header.inc.php:197
+msgid "Certificate in Territorial Sustainable Development"
+msgstr ""
+
+#: include/header.inc.php:198
+msgid "Certificate in Facility management in Sustainable building"
+msgstr ""
+
+#: include/header.inc.php:199
+msgid "Certificate in Project Management"
+msgstr ""
+
+#: include/header.inc.php:200
+msgid "Certificate of Development and Education Leadership"
+msgstr ""
+
+#: include/header.inc.php:203 work_professional.php:15
+msgid "Professional Experience"
+msgstr "Experiencia profesional"
+
+#: include/header.inc.php:206
+msgid "Research"
+msgstr "Investigación"
+
+#: include/header.inc.php:208
+msgid "Centers and programmes"
+msgstr "Centros y  programas"
+
+#: include/header.inc.php:209
+msgid "Library"
+msgstr "Biblioteca"
+
+#: include/header.inc.php:210
+msgid "Research Clusters"
+msgstr "Esferas de investigación"
+
+#: include/header.inc.php:211
+msgid "Publications"
+msgstr "Publicaciones"
+
+#: include/header.inc.php:212
+msgid "Visiting Programmes"
+msgstr "Investigadores invitados"
+
+#: include/header.inc.php:213
+msgid "Research Support"
+msgstr "Research Support"
+
+#: include/header.inc.php:216
+msgid "Executive MBA"
+msgstr "Ejecutivo MBA"
+
+#: include/header.inc.php:219
+msgid "Degree Programmes"
+msgstr "Obtención de diploma"
+
+#: include/header.inc.php:220
+msgid "Short Programmes"
+msgstr "Programas rápidos"
+
+#: include/header.inc.php:222
+msgid "Contact &amp; Direction"
+msgstr "Contact & Request Form "
+
+#: include/header.inc.php:223
+msgid "Sign up for Updates"
+msgstr "Noticias"
+
+#: include/header.inc.php:224
+msgid "News"
+msgstr "Eventos"
+
+#: include/header.inc.php:227
+msgid "Public Relations"
+msgstr "Relaciones públicas"
+
+#: include/header.inc.php:229
+msgid "News at the Institute"
+msgstr "Actualidades en el Instituto"
+
+#: include/header.inc.php:230
+msgid "Public Event"
+msgstr "Los eventos públicos"
+
+#: include/header.inc.php:231
+msgid "Medias"
+msgstr "Medios de comunicación"
+
+#: include/header.inc.php:232
+msgid "Employers"
+msgstr "Empleadores"
+
+#: include/header.inc.php:233
+msgid "Test TypeForm"
+msgstr "Vacantes"
+
+#: include/header.inc.php:236
+msgid "Alumni"
+msgstr "Alumni"
+
+#: include/header.inc.php:238
+msgid "Who we are"
+msgstr "¿Quiénes somos?"
+
+#: include/header.inc.php:239
+msgid "Blog"
+msgstr "Capítulos"
+
+#: include/header.inc.php:240
+msgid "Chapters"
+msgstr "Capítulos"
+
+#: include/header.inc.php:241
+msgid "Ambassadors"
+msgstr "Embajadores"
+
+#: include/header.inc.php:242
+msgid "Class Leaders"
+msgstr "Class Leaders "
+
+#: include/header.inc.php:243
+msgid "Services"
+msgstr "Servicios"
+
+#: include/header.inc.php:244
+msgid "Get Involved"
+msgstr "Implicarse"
+
+#: index.php:15
+msgid "WHAT SHOULD I STUDY TO BE AN ENTREPRENEUR ?"
+msgstr ""
+
+#: index.php:24
+msgid "THINK ENTREPRENEURSHIP !"
+msgstr ""
+
+#: index.php:33
+msgid "THINK SUSTAINABILITY !"
+msgstr ""
+
+#: index.php:42 index.php:57 index.php:71 index.php:83 index.php:97
+#: index.php:111 index.php:122 index.php:137 index.php:148 index.php:159
+msgid "Study in an international environment"
+msgstr ""
+
+#: index.php:43
+msgid "INTERNATIONAL RELATIONS"
+msgstr ""
+
+#: index.php:58
+msgid "TOURISM &amp; LEISURE"
+msgstr ""
+
+#: index.php:72
+msgid "BUSINESS"
+msgstr ""
+
+#: index.php:84
+msgid "OPERATIONAL MANAGEMENT"
+msgstr ""
+
+#: index.php:98
+msgid "SUSTAINABILITY"
+msgstr ""
+
+#: index.php:112
+msgid "HEALTH"
+msgstr ""
+
+#: index.php:123
+msgid "INFORMATION SYSTEM"
+msgstr ""
+
+#: index.php:138
+msgid "FINANCE"
+msgstr ""
+
+#: index.php:149
+msgid "LEARN LANGUAGE !"
+msgstr ""
+
+#: index.php:150
+msgid ""
+"Plenty Language to learn, English, French, Spanish, Italian, German, "
+"Japanese, Portugais, Russian, Hindi, Chinese"
+msgstr ""
+
+#: index.php:160
+msgid "SHORT PROGRAMMES"
+msgstr ""
+
+#: index.php:171
+msgid "CONTINUING PROFESSIONAL DEVELOPMENT"
+msgstr ""
+
+#: index.php:172
+msgid "Certificate in Expert in Big Data Analysis"
+msgstr ""
+
+#: index.php:173
+msgid "Certificate in Expert in Transforming into Digital Business"
+msgstr ""
+
+#: index.php:174
+msgid "Certificate in Expert in Internet of Thinking Analysis..."
+msgstr ""
+
+#: index.php:183
+msgid "THE PARTERNSHIP CONSISTS OF 8 ORGANIZATIONS FROM 7 EUROPEAN COUNTRIES"
+msgstr ""
+
+#: index.php:194
+msgid "SOME IMPORTANTS FACTS ABOUT US"
+msgstr ""
+
+#: index.php:203 index.php:214 index.php:225
+msgid "You already learned one, remember?"
+msgstr ""
+
+#: index.php:206
+msgid "Discover the Institute"
+msgstr ""
+
+#: index.php:217
+msgid "SDMI Presentation"
+msgstr "Presentación de SDMI "
+
+#: index.php:246 index.php:261 index.php:278 index.php:292 index.php:352
+#: index.php:365 index.php:378
+msgid "By Admin"
+msgstr ""
+
+#: index.php:248
+msgid ""
+"ARGENTINA : International Latin University, GERMANY : Braun Foundation for "
+"International Exchange..."
+msgstr ""
+
+#: index.php:249 index.php:264
+msgid "learn now"
+msgstr ""
+
+#: index.php:258
+msgid "Learn languages"
+msgstr ""
+
+#: index.php:263
+msgid ""
+"Institut de Formations et De Managements specialises in the provision of "
+"intensive language..."
+msgstr ""
+
+#: index.php:275
+msgid "Admission Programmes"
+msgstr ""
+
+#: index.php:289
+msgid "Study Programmes"
+msgstr ""
+
+#: index.php:320 message_director.php:27
+msgid "The Sustainable Development Management Institute (SDMI)"
+msgstr "Sustainable Development Management Institute (SDMI)"
+
+#: index.php:320 message_director.php:27
+msgid " is not only a higher education and research establishment."
+msgstr "es más que un institución de investigación y de enseñenza superior."
+
+#: index.php:320 message_director.php:29 message_director.php:36
+msgid "I believe, as"
+msgstr "Yo créo, como"
+
+#: index.php:320 message_director.php:29
+msgid "THIRULLUVAR"
+msgstr "THIRULLUVAR"
+
+#: index.php:320
+msgid ""
+"does, in the Virtue and Morality of Life, The Wealth of Man, in Love and "
+"Passion, and in the sentimental and psychological values of life. He "
+"presents, through his verses Unity in Diversity and the Art of living..."
+msgstr ""
+"en la virtud y la moralidad de la vida, la riqueza del ser humano, el amor, "
+"los valores sentimentales y psicológicas de la vida.  Este hombre da en sus "
+"obras la unidad en la diversidad, en el arte de vivir..."
+
+#: index.php:325
+msgid "CEO of Sustainable Development Management Institute"
+msgstr ""
+
+#: index.php:340
+msgid "latest news"
+msgstr ""
+
+#: index.php:342
+msgid "Latest from Blog"
+msgstr ""
+
+#: index.php:342
+msgid "SDMI - NEWS/EVENTS"
+msgstr ""
+
+#: index.php:349
+msgid "INTERNATIONAL SYMPOSIUM"
+msgstr ""
+
+#: index.php:353
+msgid "22, 23 & 24th nov 2017"
+msgstr ""
+
+#: index.php:356
+msgid ""
+"The symposium will bring together Key Policymakers of country. Existing "
+"players, prospective Investors, NGOs..."
+msgstr ""
+
+#: index.php:357 index.php:370 index.php:383
+msgid "Read More"
+msgstr ""
+
+#: index.php:362
+msgid "EUROPEAN WINTER PROGRAM"
+msgstr ""
+
+#: index.php:366 index.php:379
+msgid "17 sep 2015"
+msgstr ""
+
+#: index.php:369
+msgid "Applicants should apply before August 2016"
+msgstr ""
+
+#: index.php:375
+msgid "EUROPEAN SUMMER PROGRAM"
+msgstr ""
+
+#: index.php:382
+msgid "Applicants should apply before April 2016"
+msgstr ""
+
+#: index.php:382
+msgid "1st session starts between 30th May to 24th June 2016"
+msgstr ""
+
+#: index.php:382
+msgid "2nd session starts between 27th June to 22th July 2016"
+msgstr ""
+
+#: index.php:386
+msgid "Browser All Post"
+msgstr ""
+
+#: index.php:395
+msgid "MEET OUR TEACHERS"
+msgstr ""
+
+#: index.php:404
+msgid ""
+"Internationally active high-technology business developer, specialized in "
+"business software and analytics."
+msgstr ""
+
+#: index.php:412
+msgid ""
+"Consultant in strategy, operational and labeling actions in Territorial "
+"Sustainable Development."
+msgstr ""
+
+#: index.php:420
+msgid "Digital Transformation Director of Jazz It Up."
+msgstr ""
+
+#: index.php:421
+msgid "Drive international enterprises efficiently to the digital era"
+msgstr ""
+
+#: index.php:429
+msgid "Advocate in Paris Tribunal"
+msgstr ""
+
+#: index.php:437
+msgid ""
+"Town and country planning, Sustainable Human Development and  for Philosophy "
+"of Science."
+msgstr ""
+
+#: index.php:445
+msgid ""
+"Consultant definition of the IT and Smart-city Strategy of the City of "
+"Brussels."
+msgstr ""
+
+#: index.php:453
+msgid ""
+"Strategic Knowledge Management - Innovation - Change Management Project "
+"Management - Training - Distant Education"
+msgstr ""
+
+#: index.php:461
+msgid ""
+"Align ICT Strategy with Business Strategy; Project management; Set-up of ICT "
+"shared Services; ICT outsourcing; Systems dynamics modelling; Scenario "
+"thinking."
+msgstr ""
+
+#: index.php:469
+msgid ""
+"Professor and Researcher in macroeconomics, with wide experience in top "
+"management, financial and strategic consulting, with proven outstanding "
+"results track record"
+msgstr ""
+
+#: index.php:477
+msgid "English Teacher"
+msgstr ""
+
+#: index.php:485
+msgid "Founder Jean-Michel Coget Consulting"
+msgstr ""
+
+#: index.php:493
+msgid "Expert in banking and financial services"
+msgstr ""
+
+#: language.php:26
+msgid "LANGUAGE PROGRAMME"
+msgstr "PROGRAMAS IDIOMAS"
+
+#: language.php:31
+msgid "Languages for professional use"
+msgstr "Idiomas par un uso profesional:"
+
+#: language.php:33
+msgid "Your specific language goals are :"
+msgstr ""
+"Nuestros objectivos específicos de idioma para nuestros estudiantes son :"
+
+#: language.php:36
+msgid "to hold informal conversations with business colleagues"
+msgstr "Tener conversaciones informales con colegas de gestión"
+
+#: language.php:37
+msgid "to take part in business discussions"
+msgstr "Participar de forma activa en las discuciones de gestión"
+
+#: language.php:38
+msgid "to make presentations and conduct meetings"
+msgstr "Hacer presentaciones y dirigir reuniones"
+
+#: language.php:39
+msgid "to talk with confidence on the telephone"
+msgstr "Hablar con confianza por teléfono"
+
+#: language.php:40
+msgid "to write accurate and informative reports, letters and faxes"
+msgstr "Escribir informes, cartas y faxes"
+
+#: language.php:41
+msgid "to broaden business-related vocabulary"
+msgstr "Ampliar su vocabulario y su gestion de relaciones"
+
+#: language.php:45
+msgid ""
+"Institut de Formations et De Managements specialises in the provision of "
+"intensive language training courses for adults, teenagers and children in "
+"French, English, Spanish, German, Italian, .., Hindi, Tamil; Chinese."
+msgstr ""
+"Nuestro Instituto de formación y de gestión es especialista en el "
+"aprendizaje de idiomas intensivos, cursos para adultos, adolescentes y niños "
+"en Francés, Inglés, Español, Alemán, Italiano, .., Hindi, Tamil o Chino."
+
+#: language.php:50
+msgid "How SDMI will help you achieve your goals ?"
+msgstr "Como SDMI puede ayudarle en alcanzar su metas ?"
+
+#: language.php:56
+msgid "Typically the course covers :"
+msgstr "Normalmente el curso abarca:"
+
+#: language.php:59
+msgid ""
+"review of the grammar points needing attention to develop accuracy in the "
+"use of the language"
+msgstr ""
+"Revisión de las normas de gramática para quiénes necesiten una atención "
+"especial para desarrollar su nivel en la práctica del idioma."
+
+#: language.php:60
+msgid ""
+"development of the vocabulary used in business situations including small "
+"talk for cross-cultural bonding"
+msgstr ""
+"Desarrollo del vocabulario utilizado en la gestión incluyendo la formación "
+"cultural."
+
+#: language.php:61
+msgid ""
+"interactive and dynamic oral practice sessions to encourage the expression "
+"of ideas and opinions, incorporating new vocabulary and idioms as well as "
+"manipulating sophisticated and more complex language structures"
+msgstr ""
+"Participación oral interactiva y dinámica para fomentar la expresión de "
+"ideas y opiniones incluyendo nuevo vocabulario para manejar un lenguaje más "
+"sofisticado y nuevas estructuras."
+
+#: language.php:62
+msgid ""
+"comprehension practice to help the participants acquire a comfortable "
+"understanding of a written document or a spoken presentation, be it of a "
+"general nature or business related"
+msgstr ""
+"Práctica de comprensión para ayudar a los participantes a adquirir un buen "
+"nivel de comprensión de un documento escrito, o una conversación relacionada "
+"con la gestión."
+
+#: language.php:63
+msgid ""
+"role-plays to stimulate a wide range of business scenarios including "
+"presentations, negotiations, telephone conversations, and meetings"
+msgstr ""
+"Estimularse en muchos escenarios de gestión como las presentaciones y las "
+"comunicaciones por teléfono."
+
+#: language.php:70
+msgid ""
+"Throughout the programme students are actively encouraged to express their "
+"opinions as they would in their own workplace."
+msgstr ""
+"A través del programa, se anima a los estudiantes a decir su opiniones como "
+"si estuviesen en el trabajo."
+
+#: language.php:73
+msgid "SDMI intensive language courses are aimed at ambitious :"
+msgstr "SDMI esta compuesto de personas ambiciosas :"
+
+#: language.php:76
+msgid "professionals for business communication"
+msgstr "Profesionales de la gestión y de la comunicación."
+
+#: language.php:77
+msgid "university and college students"
+msgstr "Estudiantes del colegio y de la universidad."
+
+#: language.php:78
+msgid ""
+"students for examination preparation : IELTS, CAE, FCE, TOEIC, TOEFL, "
+"French, German and Spanish examinations"
+msgstr ""
+"Estudiantes que quieren ser examinados : IELTS, CAE, FCE, TOEIC, TOEFL, "
+"Francés, Alemán o Español"
+
+#: lib/gettext/pigs_dropin.php:77
+msgid ""
+"This is how the story goes.\n"
+"\n"
+msgstr ""
+
+#: login.php:15
+msgid "login to your sdmi-edu.fr account!"
+msgstr ""
+
+#: login.php:19 register.php:113
+msgid "email"
+msgstr ""
+
+#: login.php:20 register.php:114
+msgid "password"
+msgstr ""
+
+#: login.php:26
+msgid "Remember Me"
+msgstr ""
+
+#: login.php:27
+msgid "Forgot Password?"
+msgstr ""
+
+#: login.php:29
+msgid "Not member yet?"
+msgstr ""
+
+#: login.php:29
+msgid "Sign Up."
+msgstr ""
+
+#: login.php:32
+msgid "sign in"
+msgstr ""
+
+#: ma_health.php:28
+msgid "MA HEALTH SERVICES MANAGEMENT"
+msgstr ""
+
+#: ma_health.php:37
+msgid ""
+"The MSc in Health Services Management is designed to prepare the next "
+"generation of senior managers and leaders in the health sector for a "
+"successful career as well as for further study at the doctoral level. The "
+"emphasis is on health management in an international and local setting and "
+"the program draws on an emerging body of knowledge and evidence to allow "
+"comparisons across different countries."
+msgstr ""
+
+#: ma_health.php:41
+msgid ""
+"This course aims to provide a multidisciplinary, critically analytical and "
+"practice-based approach to the main challenges and issues in management, "
+"planning and policy. The program is suitable for all health professionals, "
+"planners and managers working in or having responsibility for the management "
+"of health care in institutional or community settings."
+msgstr ""
+
+#: ma_health.php:46
+msgid ""
+"In order to achieve the goals of the program, the following objectives were "
+"developed :"
+msgstr ""
+
+#: ma_health.php:49
+msgid ""
+"To provide graduates with a sound understanding of complex health systems "
+"across the world focusing on the european health care system"
+msgstr ""
+
+#: ma_health.php:50
+msgid ""
+"To develop sector-specific management knowledge together with the technical "
+"and managerial skills to successfully pursue a career in the health sector"
+msgstr ""
+
+#: ma_health.php:51
+msgid ""
+"To support the development of the next generation of senior managers and "
+"leaders in health sector"
+msgstr ""
+
+#: ma_health.php:52
+msgid ""
+"To support the development of a skill set to manage health entrepreneurship, "
+"innovation and change"
+msgstr ""
+
+#: ma_health.php:53
+msgid ""
+"To enable students to acquire critical appraisal skills for evidence based "
+"decision-making"
+msgstr ""
+
+#: ma_health.php:59
+msgid ""
+"International context : learn from internationally recognised faculty at the "
+"forefront of health management research, to gain an overview of the France "
+"or Europe health system and its application in a global context."
+msgstr ""
+
+#: ma_health.php:63
+msgid ""
+"Putting theory into practice : learn from real-life case studies how to put "
+"the latest academic thinking and business strategies into practice."
+msgstr ""
+
+#: ma_health.php:66
+msgid ""
+"areer development : our dedicated careers service will help you present "
+"yourself with confidence to the world’s top employers."
+msgstr ""
+
+#: ma_hospitality.php:28
+msgid "MA HOSPITALITY"
+msgstr ""
+
+#: ma_hospitality.php:35
+msgid ""
+"The MA in Hospitality Management seeks to develop students' critical "
+"analytic skills and foster their creativity, so that they can respond "
+"effectively to key challenges facing the hospitality industry in the 21st "
+"century. The key themes that recur throughout the programme include; human "
+"resource issues and the management of cultural diversity, strategic "
+"management and internationalisation."
+msgstr ""
+
+#: ma_hospitality.php:40
+msgid ""
+"The programme develops the knowledge and skills you need to enter a wide "
+"range of hospitality positions, both nationally and internationally. It "
+"develops personal competence across a broad spectrum of generic management "
+"areas, but also contextualises understanding firmly in the hospitality "
+"sector. You benefit from interaction with participants from a diverse range "
+"of subjects and cultural backgrounds."
+msgstr ""
+
+#: ma_hospitality.php:44
+msgid ""
+"The course is structured to take you sequentially from the fundamentals of "
+"hospitality management through to more detailed consideration of issues such "
+"as globalisation. You gain a broad, yet critical, understanding of the "
+"hospitality sector and modern business practices. This provides you with a "
+"balanced perspective that enables you to tackle a wide range of hospitality "
+"roles with confidence."
+msgstr ""
+
+#: ma_hospitality.php:48
+msgid "Key features of the programme are :"
+msgstr ""
+
+#: ma_hospitality.php:51
+msgid ""
+"An integrated programme organised around a series of inter-related case "
+"study analyses"
+msgstr ""
+
+#: ma_hospitality.php:53
+msgid ""
+"The development of critical analytic skills through applications of theories "
+"to the hospitality industry"
+msgstr ""
+
+#: ma_hospitality.php:54
+msgid ""
+"A focus on the application of management styles and techniques in the "
+"hospitality industry"
+msgstr ""
+
+#: ma_hospitality.php:55
+msgid "A focus on the development of relevant research skills"
+msgstr ""
+
+#: ma_hospitality.php:56
+msgid ""
+"Looking for challenges in the national and international sphere of "
+"Hospitality sector\n"
+"                Enthusiastic about foreign languages"
+msgstr ""
+
+#: ma_inter_relations.php:17
+msgid "MA international relations"
+msgstr ""
+
+#: ma_inter_relations.php:28
+msgid "MA INTERNATIONAL RELATIONS"
+msgstr ""
+
+#: ma_inter_relations.php:34
+msgid ""
+"is a community of students and scholars dedicated to understanding the "
+"rapidly changing patterns of today's global world. The expertise of our "
+"faculty covers a wide range of themes in International Relations theory, "
+"international history, global political economy, security, war and peace "
+"studies, the historical sociology of international relations, law, ethics "
+"and gender. The geographical scope of our research and teaching includes "
+"Europe and North/South America, the Middle East, Asia, Oceania and the "
+"former USSR."
+msgstr ""
+
+#: ma_inter_relations.php:39
+msgid "focuses on:"
+msgstr ""
+
+#: ma_inter_relations.php:42
+msgid ""
+"Sustain and develop scholarship, research, teaching and training in Politics "
+"and International Relations, which :"
+msgstr ""
+
+#: ma_inter_relations.php:47
+msgid "aspires to best practice in all its activities"
+msgstr ""
+
+#: ma_inter_relations.php:48
+msgid "reflects its scholarship and research in its teaching"
+msgstr ""
+
+#: ma_inter_relations.php:49
+msgid "provides lifelong learning skills appropriate to the disciplines"
+msgstr ""
+
+#: ma_inter_relations.php:50
+msgid ""
+"is informed by developments in the other Social Sciences and in the "
+"Humanities"
+msgstr ""
+
+#: ma_inter_relations.php:55
+msgid "Achieve a reputation for excellence in teaching at all levels through :"
+msgstr ""
+
+#: ma_inter_relations.php:60
+msgid ""
+"maintaining stimulating, generic and subject specific undergraduate teaching"
+msgstr ""
+
+#: ma_inter_relations.php:61
+msgid "enhancing the postgraduate teaching quality"
+msgstr ""
+
+#: ma_inter_relations.php:62
+msgid ""
+"ensuring that its students are equipped with skills which are both relevant "
+"and transferable"
+msgstr ""
+
+#: ma_inter_relations.php:70
+msgid ""
+"The programme has three principal objectives. The first is to provide all "
+"students with a basic grounding in the modern theory of international "
+"relations, and the different approaches that may be taken to the subject. "
+"The second is to enable them to gain a detailed knowledge of those aspects "
+"of international relations and strategic studies in which they wish to "
+"specialise. The third is to provide them with the conceptual, methodological "
+"and empirical background necessary to undertake research into the subject."
+msgstr ""
+
+#: manag_admission.php:56
+msgid "Login:"
+msgstr ""
+
+#: manag_admission.php:57
+msgid "Sex:"
+msgstr ""
+
+#: manag_admission.php:58
+msgid "Last Name:"
+msgstr ""
+
+#: manag_admission.php:59
+msgid "First Name:"
+msgstr ""
+
+#: manag_admission.php:60
+msgid "Day:"
+msgstr ""
+
+#: manag_admission.php:61
+msgid "Month:"
+msgstr ""
+
+#: manag_admission.php:62
+msgid "Year:"
+msgstr ""
+
+#: manag_admission.php:63
+msgid "Country:"
+msgstr ""
+
+#: manag_admission.php:64
+msgid "Accept"
+msgstr ""
+
+#: manag_admission.php:66
+msgid "Refuse"
+msgstr ""
+
+#: mandala.php:16
+msgid "MANDALA : Accelerator of knowledge"
+msgstr ""
+
+#: mandala.php:27
+msgid "MANDALA"
+msgstr ""
+
+#: mandala.php:28
+msgid "Sustainable Development Management Institute (SDMI)"
+msgstr "Sustainable Development Management Institute (SDMI)"
+
+#: mandala.php:28
+msgid "is the leader of the concept of"
+msgstr "es el lider del concepto de"
+
+#: mandala.php:28
+msgid "MANDALA&reg;."
+msgstr "MANDALA®."
+
+#: mandala.php:30
+msgid "MANDALA&reg; Vision :"
+msgstr "MANDALA® Visión :"
+
+#: mandala.php:32
+msgid ""
+"The vision of a long term sustainable earth, for billions of people is multi-"
+"fold and can only be realised with the contribution of millions of creative "
+"scientists, engineers and civilians of good-will."
+msgstr ""
+"La visión a largo plazo del desarrollo duradero para millones de personas "
+"puede ser realizada solamente con la contribución de un gran número de "
+"personas creativas y científicas, ingenieros y civiles de buena voluntad."
+
+#: mandala.php:34
+msgid ""
+"The purpose of the MANDALA is to be the knowledge accelerator and progres "
+"between the innovative scientists and engineers on the one hand, and all "
+"other actors such as decisions makers, politicians, projects leaders and "
+"artisans on the other hand."
+msgstr ""
+"El propósito de MANDALA es de ser el acelerador de conocimiento y progreso "
+"en la innovación científica e ingenieril por un lado, y el resto de partes "
+"activas como los responsables, políticos, líderes y artesanos."
+
+#: mandala.php:36
+msgid "MANDALA&reg; Mission :"
+msgstr "MANDALA® Misión : "
+
+#: mandala.php:38
+msgid "As an accelerator of knowledge and progres,"
+msgstr "Como acelerador de conocimiento y progreso,"
+
+#: mandala.php:38
+msgid "MANDALA&reg; aspires :"
+msgstr "MANDALA® aspira a:"
+
+#: mandala.php:42
+msgid ""
+"To network the best minds and experts across the world, producing up-to-date "
+"actionable insights, methods, recommendations and advice for its clients, i."
+"e. leaders, decision makers and professionals that implement solutions that "
+"contribute to a long term sustainable world."
+msgstr ""
+"Conectar con los mejores espíritus alrededor del mundo, produciendo "
+"rápidamente métodos, recomendaciones y consejos para los clientes líderes, "
+"responsables y profesionales que implementan soluciones que contribuyen a un "
+"desarrollo duradero del mundo."
+
+#: mandala.php:43
+msgid ""
+"To ensure that the production of insights, methods, recommendations and "
+"advice happens according to the scientific methods of research and "
+"independent of commercial interests."
+msgstr ""
+"Garantizar la produccion de métodos, recomendaciones y consejos de manera "
+"científica y respectando la investigación y los intereses comerciales."
+
+#: mandala.php:44
+msgid ""
+"To ensure that the artefacts for the leaders, decision makers and "
+"professionals are easily accessible, readable and implementable. The "
+"artefacts come in different formats, such as internet-accessible documents, "
+"presentations, workshops and face-to-face or videoconference meetings "
+"between experts and clients."
+msgstr ""
+"Garantizar que lo realizado por profesionales sea accesible, comprensible e "
+"implementable, presentándose en diferentes formatos como documentos en la "
+"RED, presentaciones o conferencias entre expertos y clientes."
+
+#: mandala.php:45
+msgid "To expand the domains of expertise."
+msgstr "Expandir los dominios de experiencia."
+
+#: mandala.php:48
+msgid "The MANDALA&reg;"
+msgstr "The MANDALA®"
+
+#: mandala.php:48
+msgid ""
+"organisation is lean, leverages digital technologies with a global reach."
+msgstr ""
+"organización es sinónimo de aprender sobre las tecnologías digitales en "
+"término global."
+
+#: message_director.php:26
+msgid "MESSAGE FROM THE DIRECTOR"
+msgstr "LA PALABRA DEL DIRECTOR"
+
+#: message_director.php:29
+msgid ""
+"does, in the Virtue and Morality of Life, The Wealth of Man, in Love and "
+"Passion, and in the sentimental and psychological values of life. He "
+"presents, through his verses, Unity in Diversity and the Art of living."
+msgstr ""
+"en la virtud y la moralidad de la vida, la riqueza del ser humano, el amor, "
+"los valores sentimentales y psicológicas de la vida.  Este hombre da en sus "
+"obras la unidad en la diversidad, en el arte de vivir."
+
+#: message_director.php:32 message_director.php:43
+msgid "I believe, like"
+msgstr "Yo créo, como"
+
+#: message_director.php:32
+msgid "SOCRATES"
+msgstr "SOCRATE"
+
+#: message_director.php:32
+msgid ""
+"in the practice of dialogue. It appears that we now have to start from "
+"scratch: we should become like contemporaries of Socrates who in the streets "
+"of Athens and in the public square, chatted with those around him. He "
+"discussed what constitutes the value of a human life, what motivates a "
+"particular individual or a civic action, and the goals that are pursued by "
+"the individual and the community at large. His thought, based on a dialogue "
+"which admits plurality and tolerance, encourages us to rediscover the "
+"universal principles that would lead humanity towards greater fraternity and "
+"cooperation in order to better live together. Dialectize or Philosophize is "
+"to understand that “reality” is at the same time unique and multiple, one "
+"and many, and that after having been fragmented, the gathering together will "
+"allow one to go within and return to oneself."
+msgstr ""
+", al diálogo. Se parece que debemos empezar de nuevo todo ; volvamos a ser "
+"los contemporáneo de Socrate, quien en las calles de Atenas y la plaza "
+"pública, hablaba con la población de los valores de la vida humana, de la "
+"motivacion de esto o aquello  acción individual o cívica, de los  metas de "
+"la gente et de la ciudad. ; Su pensamiento, basado sobre el diálogo que "
+"admete la pluralidad y la tolerancia, nos anima a descubrir de nuevo los "
+"principios universales  para conducir la humanidad hasta un real fraternidad "
+"con más cooperación, por une mejora vida juntos. Filosofar es comprender que "
+"la realidad  es  única  y múltiple  también, y después de la división, la "
+"agrupación  permitirá un vuelvo en suyo."
+
+#: message_director.php:36
+msgid "RABELAIS"
+msgstr "RABELAIS"
+
+#: message_director.php:36
+msgid "and"
+msgstr "o"
+
+#: message_director.php:36
+msgid "MONTAIGNE"
+msgstr "MONTAIGNE"
+
+#: message_director.php:36
+msgid ""
+"in a general and humanistic education. No one understood like Montaigne "
+"that, before teaching a specialist trade, it is imperative to develop in "
+"each individual the faculties that make people human. Montaigne promoted his "
+"doctrine of education which is neither austere in its goals nor rigorous in "
+"its processes but rather is consistent with the nature and the natural "
+"development of the student. It is applied primarily to refine a critical "
+"thinking process tending towards happiness through the serenity of soul and "
+"the lucidity of mind."
+msgstr ""
+", en una educación general y humana. Nadie comprendió  más que Montaigne, la "
+"necesidad de desarollar en cada persona  las capacidades del ser humano, "
+"antes de aprender su profesión. Montaigne quiere que su doctrina de la "
+"educación sea ni austero en sus metas, ni  rigurosa  en sus  procesos, pero "
+"verdadera a la naturaleza  y el desarollo natural  del estudiante , para "
+"refinar el espíritu crítico y orientar el alma a la felidad, la serenidad  y "
+"la lucidez."
+
+#: message_director.php:39
+msgid "I accept the considerations of"
+msgstr "Yo créo, como"
+
+#: message_director.php:39
+msgid "CONDORCET"
+msgstr "CONDORCET"
+
+#: message_director.php:39
+msgid ""
+"as he ponders about:  How can one reconcile in a school setting, the unity "
+"and social diversity of children? How to uniformly transmit, in a socially "
+"diverse national environment, a minimum of knowledge, moral sentiments, and "
+"identical basic skills, to all members of a republic. How is it possible to "
+"prevent the knowledge and information of some elites turning into absolute "
+"power over others?"
+msgstr ""
+", el poder de conciliar la unidad de la escuela y la diversidad de los "
+"niños. ¿Como podemos transmitir igualmente los conocimientos y los "
+"sentimientos morales  a  toda la gente de une república, los conocimientos "
+"básicos idénticos para todos, en un entorno nacional socialmente vario? "
+"¿Como impedir que el conocimiento de unos se transforma en un poder absoluto "
+"sobre los otros ?"
+
+#: message_director.php:43
+msgid "EINSTEIN"
+msgstr "EINSTEIN"
+
+#: message_director.php:43
+msgid ""
+"in an education for free and holistic thinking. It is not enough to teach "
+"man a speciality because he would then only become like a usable machine "
+"devoid of personality. It is important to acquire an emotional intelligence "
+"and a sense of what type of professional practice is worthwhile to be "
+"undertaken, what is good, decent, and respectable, AND what is morally "
+"right. Otherwise, as it can be with professional knowledge, he is more like "
+"a trained dog than a harmoniously developed human being. The holistic man "
+"must learn to understand the motivations of men, their dreams and their "
+"anxieties in order to determine his exact role vis-à-vis his family and the "
+"community."
+msgstr ""
+"a une educación por un pensamiento libre y holístico. No es suficiente de "
+"aprender al hombre una especialidad. Porque así, se convertise  en una "
+"máquina  y no una personalidad.. Es importante de adquirir un sentimiento, "
+"un sentido de lo que debe estar realizado, de lo que es hermoso y moralmente "
+"correcto. Si no, se parece  más a un  espectáculo de foca que una criatura "
+"armoniosamente desarolla. Debe aprender y comprender las motivaciones de los "
+"hombres, sus quimeras y sus temores para determinar su papel exacto en "
+"relación con su  séquito  y la cummunidad.."
+
+#: message_director.php:45
+msgid ""
+"To quote his citation : The excesses of the competitive system and premature "
+"specialization under the false pretext of efficiency, kills the spirit, "
+"prohibits the development of cultural life and even suppresses progress in "
+"forward-looking sciences. It is also important in order to achieve a perfect "
+"education, to develop critical thinking in the mind of the young man. Or, "
+"overloading the brain with a system or note taking, hinders and necessarily "
+"transforms research into a superficial activity lacking Culture. Education "
+"should be as follows: the person who receives it treasures it as a priceless "
+"gift but never as a painful constraint."
+msgstr ""
+"Uno de su  citación fue, los excesos del sistema de competencia y de "
+"especialización prematura con el pretexto de la efectividad, sanean el "
+"espíritu, prohiben la vida cultural y eliminan el progreso por el futuro. Es "
+"importante por fin y por la realización de una perfecta  educación, de "
+"desarrollar el espíritu crítico del joven. Sin embargo la sobrecarga del "
+"espíritu con el sistema de notación, obstaculiza y tranforma necesariamente "
+"la búsqueda un una cosa superficial sin cultura. El enseñanza deberia ser "
+"así, el que le recibe le acogecomo una donación inestimable pero nunca como "
+"una restricción dolorosa."
+
+#: message_director.php:47
+msgid "I ask, as"
+msgstr "Yo créo, como"
+
+#: message_director.php:47
+msgid "Ken ROBINSON"
+msgstr "KEN ROBINSON"
+
+#: message_director.php:47
+msgid ""
+"does, why modern education doesn't try to get the best out of people? This "
+"is because we have been educated to become good workers rather than creative "
+"thinkers. Students with restless minds and bodies – far from being "
+"cultivated for their energy and curiosity – are ignored or even stigmatized "
+"with terrible consequences. \"We are educating people outside of, and not "
+"respecting, their creativity potential.\""
+msgstr ""
+", ¿Por qué la educación nacional  no busca a obtener  el mejor de la gente ? "
+"Es porque hemos sido educados  para convertirse  en buenos  trabajadores en "
+"lugar de pensadores creativos. Les estudiantes  con   espíritus  y cuerpos "
+"agitados estan  lejos de estar  cultivados  por su energía y su curiosidad., "
+"y estan  desconocidos  o estigmatizados con terribles  resultados. "
+"« Educamos la gente sin  tener  en  cuenta  su  creatividad »."
+
+#: message_director.php:49
+msgid "I agree with"
+msgstr "Yo créo, como dijo"
+
+#: message_director.php:49
+msgid "SAINT-EXUPERY"
+msgstr "SAINT-EXUPERY"
+
+#: message_director.php:49
+msgid ""
+"who said, \"To know is not to show or explain. It is to gain access to the "
+"Vision.\""
+msgstr ""
+", « Conocer no es demostrar ni explicar, pero es acceder à la visión »."
+
+#: message_director.php:51
+msgid ""
+"I believe that very many people end their lives with no idea of what their "
+"talents are or could have been. On one hand, I have to recognize that the "
+"development of human potential is not a mechanical process but rather an "
+"organic one. On the other hand, I believe that our only hope for the future "
+"is to adopt a new concept of human ecology, one where we would begin to "
+"rethink our ideas about the wealth of human potential. Our education system "
+"has strip-mined our minds in the same way that we have exhausted the earth: "
+"for a specific resource."
+msgstr ""
+"Yo créo que muchas personas acaban sus vidas sin no ideas de lo que puedan "
+"ser sus talentos. En primer lugar, el desarrollo humano no es un proceso "
+"mecánico, es un proceso orgánico. En segundo lugar, créo que nuestra única "
+"esperanza por el futuro es adoptar una nueva concepción de la ecología "
+"humana, una  concepció dónde empezaremos  a repensar nuestra  concepción de "
+"la riqueza de la capicidad humana. Nuestro sistema  educativo enturbió "
+"nuestro  espíritu de la misma manera que agotamos  la Tierra : para una "
+"recurso particular."
+
+#: message_director.php:53
+msgid "I think"
+msgstr "Yo créo qeu"
+
+#: message_director.php:53
+msgid ""
+"can answer the intrinsic issues pertinent to the reality of tomorrow : "
+"Creativity Potential, Humanity, Thinking, Vision."
+msgstr ""
+"puede responder a las preguntas  de mañana :  creatividad, humanidad y "
+"visión."
+
+#: message_director.php:55
+msgid "- Mr B. GANESSANE – CEO of Sustainable Development Management Institute"
+msgstr "Mr B. GANESSANE – CEO of Sustainable Development Management Institute"
+
+#: msc_cccm.php:17
+msgid "MSc Climat Change and Carbon Management"
+msgstr ""
+
+#: msc_cccm.php:28
+msgid "MSc CLIMAT CHANGE AND CARBON MANAGEMENT"
+msgstr ""
+
+#: msc_cccm.php:35
+msgid ""
+"The planet is becoming hotter and much of the observed warming is attributed "
+"to increases in greenhouse gases in the atmosphere, the most significant of "
+"which is carbon dioxide. Regardless of our efforts to reduce greenhouse gas "
+"emissions over the next few decades some level of climate change is now "
+"thought inevitable. However the extent and severity of the changes are still "
+"uncertain. This multidisciplinary coursework program explores the science of "
+"carbon change, anticipated climate change trends and their impacts, and "
+"drivers for the development of a low carbon economy."
+msgstr ""
+
+#: msc_cccm.php:37
+msgid ""
+"The Master of Climate Change and Carbon Management graduates can expect to :"
+msgstr ""
+
+#: msc_cccm.php:40 msc_water.php:47
+msgid ""
+"gain both a high level of knowledge in particular aspects of climate change, "
+"a broad knowledge of the current issues in and approaches to climate change "
+"vulnerability, adaptation and mitigation and carbon management"
+msgstr ""
+
+#: msc_cccm.php:41 msc_water.php:48
+msgid ""
+"develop their independent learning, analytical and research, teamwork, and "
+"oral and written communication skills"
+msgstr ""
+
+#: msc_cccm.php:42 msc_water.php:49
+msgid "develop networks relevant to their academic and professional interests"
+msgstr ""
+
+#: msc_cccm.php:47 msc_water.php:54
+msgid ""
+"This program is designed for economics, business, social and physical "
+"science graduates wanting an advanced academic qualification as a launch pad "
+"for careers in carbon and climate change management by business, industry "
+"and government."
+msgstr ""
+
+#: msc_cccm.php:50 msc_water.php:57
+msgid "As a graduate of the programme, you will :"
+msgstr ""
+
+#: msc_cccm.php:53
+msgid ""
+"be able to demonstrate an understanding of the conceptual and methodological "
+"bases for conducting high-quality investigations in the context of carbon "
+"management"
+msgstr ""
+
+#: msc_cccm.php:54
+msgid ""
+"be able to analyse the ethical considerations relevant to carbon management "
+"in an occupational or professional context"
+msgstr ""
+
+#: msc_cccm.php:55
+msgid ""
+"be able to apply the tools employed for tackling greenhouse gas emissions"
+msgstr ""
+
+#: msc_cccm.php:56
+msgid ""
+"be able to evaluate the effectiveness of different strategies employed to "
+"tackle greenhouse gas emissions"
+msgstr ""
+
+#: msc_cccm.php:57
+msgid ""
+"have the knowledge and technical ability to assess and advise on carbon "
+"management"
+msgstr ""
+
+#: msc_ebusiness.php:17
+msgid "MSc E-Business and Entrepreneurship"
+msgstr ""
+
+#: msc_ebusiness.php:28
+msgid "MSc E-BUSINESS AND ENTREPRENEURSHIP"
+msgstr ""
+
+#: msc_ebusiness.php:36
+msgid ""
+"The programme focuses on skills and knowledge required to maximise the "
+"potential of modern information technologies for innovation in business. To "
+"achieve this goal, the programme has been designed as a holistic experience "
+"with an equal balance of business and technology topics and with a focus on "
+"online and Internet businesses."
+msgstr ""
+
+#: msc_ebusiness.php:38
+msgid ""
+"The programme provides an outstanding education with a unique integration of "
+"theory and practice :"
+msgstr ""
+
+#: msc_ebusiness.php:41
+msgid ""
+"Practice-oriented teaching based on case studies and real-world examples "
+"ensures a tight integration of theory and practice"
+msgstr ""
+
+#: msc_ebusiness.php:42
+msgid ""
+"Company-based dissertation projects provide students with the opportunity to "
+"tackle real-world problems for real clients as part of a 10-week consulting "
+"project"
+msgstr ""
+
+#: msc_ebusiness.php:49
+msgid "Successful students will be well equipped for a career as :"
+msgstr ""
+
+#: msc_ebusiness.php:53
+msgid ""
+"Business and technology consultants focusing on e-business, e-commerce, and "
+"enterprise applications"
+msgstr ""
+
+#: msc_ebusiness.php:54
+msgid ""
+"Project managers responsible for the delivery of technology and business "
+"solutions"
+msgstr ""
+
+#: msc_ebusiness.php:55
+msgid ""
+"Business and technology managers influencing e-business and e-commerce "
+"strategies"
+msgstr ""
+
+#: msc_ebusiness.php:56
+msgid "IT architects specifying or developing enterprise-wide IT solutions"
+msgstr ""
+
+#: msc_ebusiness.php:57
+msgid ""
+"Entrepreneurs establishing their own innovative companies in the IT and "
+"online sector"
+msgstr ""
+
+#: msc_ebusiness.php:62
+msgid ""
+"The programme is open to everyone with an interest in the intersection of "
+"business and technology. A background in business, management or computing "
+"is preferable, but not essential."
+msgstr ""
+
+#: msc_ebusiness.php:65
+msgid "For students from computing backgrounds :"
+msgstr ""
+
+#: msc_ebusiness.php:69
+msgid "Introduction to Management bridging module in first term"
+msgstr ""
+
+#: msc_ebusiness.php:70
+msgid "Option to specialise in management or advanced computing in second term"
+msgstr ""
+
+#: msc_ebusiness.php:74
+msgid "For students from management backgrounds :"
+msgstr ""
+
+#: msc_ebusiness.php:77
+msgid "Introduction to ICT bridging module in first term"
+msgstr ""
+
+#: msc_ebusiness.php:78
+msgid "Option to specialise in advanced computing or management in second term"
+msgstr ""
+
+#: msc_emas.php:28
+msgid "MSc ENVIRONMENTAL MANAGEMENT &amp; ASSESSMENT STUDIES"
+msgstr ""
+
+#: msc_emas.php:36
+msgid ""
+"Pollutants and naturally occurring substances pose a potential risk of "
+"having an adverse impact on human health and the environment. The proper "
+"management of these risks requires scientifically-based decision making. "
+"Environmental assessment bridges the gap between scientific research and the "
+"use of science in decision-making, regulation, and environmental management. "
+"By understanding and evaluating the sources, fate, and effects of pollutants "
+"in the environment we can develop a scientific basis for assessing risks and "
+"thus support regulatory, enforcement, and remedial-action decisions."
+msgstr ""
+
+#: msc_emas.php:38
+msgid "MSc program (EMAS)"
+msgstr ""
+
+#: msc_emas.php:38
+msgid ""
+"is designed to develop a sound and critical understanding of the processes "
+"and methodologies of Environment Management, to expose students to the range "
+"of public policy and social science considerations involved in environmental "
+"planning, sustainable development and resource decision-making, to enhance "
+"students’ existing knowledge of the biogeophysical environment and provide "
+"students with a thorough understanding of GIS applied to environmental "
+"decision-making. It is directed towards individuals who hold an "
+"undergraduate degree in any relevant discipline in the social or physical "
+"sciences and are interested in developing or enhancing their knowledge and "
+"skills in the environmental field. Students will also be able to relate EMAS "
+"theory and practice during their internship, designed to provide "
+"opportunities for them to deepen their knowledge and extend their skills "
+"through direct application as EMAS practitioners in governmental, non-"
+"governmental organizations (NGOs), or private sector organizations."
+msgstr ""
+
+#: msc_emas.php:42
+msgid "The program will provide:"
+msgstr ""
+
+#: msc_emas.php:47
+msgid ""
+"An in-depth understanding of the natural and human-induced forcing factors "
+"that are responsible for the rapid rates of environmental, and the types of "
+"governance and community based responses required to address the impacts, "
+"vulnerabilities and implications of these changes on physical, biological, "
+"social, economic and cultural environmental conditions. Professional "
+"development in the field of Environmental Assessment, Environmental Impact "
+"Statements, Environmental Management Plans and Environmental Management "
+"Systems for practitioners with practical skills in problem solving as "
+"related to adaptive environmental assessment and integrated management. Such "
+"skills will be acquired through a combination of face-to-face teaching and "
+"practical projects. Training sessions will utilise environmental simulation "
+"models to practice students in problem definition, data and information "
+"manipulation, management and application. These tools will be used to "
+"support the preparation of EMAS documents and with environmental management "
+"system/plan preparation."
+msgstr ""
+
+#: msc_emas.php:49
+msgid ""
+"Environmental assessment and management practitioners with the theoretical "
+"understanding and practical tools to enable practitioners to more "
+"effectively integrate best practice environmental impact assessment tools "
+"and techniques with nationally and internationally endorsed environmental "
+"management systems. Such tools, techniques and systems are designed to "
+"mitigate unwanted effects and manage the outcomes of the implementation of "
+"project implantation in ways that ensure continuous improvement."
+msgstr ""
+
+#: msc_emas.php:57
+msgid ""
+"Skills will be acquired through a combination of lectures, readings, group "
+"discussions, practical projects and use of interactive modelling tools. "
+"Participants in the program will be assessed by a combination of individual "
+"and group project tasks."
+msgstr ""
+
+#: msc_emas.php:59
+msgid ""
+"On completion of courses under the <strong>MSc of EMAS</strong> participants "
+"in the professional development education and training program will be well "
+"equipped to meet existing and emerging professional challenges and be able "
+"to :"
+msgstr ""
+
+#: msc_emas.php:62
+msgid "follow international trends in environmental assessment and management"
+msgstr ""
+
+#: msc_emas.php:63
+msgid ""
+"better understand international and national obligations for environmental "
+"assessment and management"
+msgstr ""
+
+#: msc_emas.php:64
+msgid ""
+"use integrated adaptive assessment and management tools and techniques to "
+"achieve continuous improvement in environmental outcomes"
+msgstr ""
+
+#: msc_emas.php:65
+msgid ""
+"more effectively assess and manage complex industrial, infrastructure and "
+"urban development proposals using statutory and best practice processes and "
+"procedures"
+msgstr ""
+
+#: msc_finance.php:28
+msgid "MSc FINANCE &amp; MANAGEMENT"
+msgstr ""
+
+#: msc_finance.php:37
+msgid ""
+"This challenging course is specifically designed to open up new "
+"opportunities and provide you with an excellent understanding of the "
+"important issues dominating the financial world today.  An ideal choice if "
+"you wish to pursue a career in investment banking, private equity or "
+"corporate financial management."
+msgstr ""
+
+#: msc_finance.php:40
+msgid ""
+"Knowledge of financial institutions and markets is developing rapidly, and "
+"this course provides an up-to-date evaluation of the theory, with an "
+"emphasis on the practical application of this knowledge. You will develop "
+"your competence in applying quantitative skills to the practice of financial "
+"investment and analysis and the critical and analytical powers to evaluate "
+"and understand the theoretical underpinning on which finance relies."
+msgstr ""
+
+#: msc_finance.php:44
+msgid ""
+"The programme will provide you with the computer and research skills "
+"required by employers in this highly competitive sector. After an induction "
+"programme introducing you to the Business School and the expectations and "
+"ethos of the course, you will go on to :"
+msgstr ""
+
+#: msc_finance.php:47
+msgid ""
+"address the modern portfolio theory and its implications for the pricing of "
+"assets</li>\n"
+"             <li> <?php echo _("
+msgstr ""
+
+#: msc_itproject.php:28
+msgid "MSc IT PROJECT MANAGEMENT"
+msgstr ""
+
+#: msc_itproject.php:36
+msgid ""
+"The idea of managers who can ‘bridge’ between different areas is one that "
+"has been promoted by IFM for some time."
+msgstr ""
+
+#: msc_itproject.php:38
+msgid ""
+"The ‘bridger’ has to have a wide perspective and be equipped with the "
+"organisational and people skills to break down the barriers between IT and "
+"business."
+msgstr ""
+
+#: msc_itproject.php:40
+msgid ""
+"The aim of this course is to develop you to be a leader in your "
+"organisation, enabling the full benefits of modern technology to be "
+"realised. The course is inter-disciplinary and you will learn about "
+"Information Systems alongside the core areas of business and management, "
+"which are at the heart of this course."
+msgstr ""
+
+#: msc_itproject.php:44
+msgid ""
+"The course will prepare you to make critical high-level managerial and "
+"organisational decisions and to back these up with the best in modern "
+"information gathering and deployment. You will also develop your ability to "
+"analyse problems logically and apply appropriate decision-making skills and "
+"knowledge to reach feasible, realistic conclusions."
+msgstr ""
+
+#: msc_itproject.php:46
+msgid ""
+"Designed to help graduates who are not business specialists gain a valuable "
+"insight into business and management and enhance their employability."
+msgstr ""
+
+#: msc_itproject.php:48
+msgid ""
+"Mix with other postgraduate students from around the world in a unique "
+"environment. One of very few Master’s courses combining Business, Project "
+"Management and Information Technology. State-of-the-art computing facilities."
+msgstr ""
+
+#: msc_itproject.php:50
+msgid ""
+"This programme is suitable for candidates seeking to develop their career "
+"towards Project Management, covering such areas as the management of change, "
+"planning and budgeting, and risk management"
+msgstr ""
+
+#: msc_lscm.php:17
+msgid "MSc Logistics and Supply Chain Management"
+msgstr ""
+
+#: msc_lscm.php:28
+msgid "MSc LOGISTICS AND SUPPLY CHAIN MANAGEMENT"
+msgstr ""
+
+#: msc_lscm.php:37
+msgid "MSc in Logistics and Supply Chain Management"
+msgstr ""
+
+#: msc_lscm.php:37
+msgid ""
+"is ideal for you if you wish to work on logistics and supply chain problems "
+"to support decision making in organisations. On the programme, we emphasise "
+"the practical analytical aspects of logistics problems as well as the "
+"fundamentals of management science and supply chain management."
+msgstr ""
+
+#: msc_network.php:17
+msgid "MSc Network, Computer and System Security"
+msgstr ""
+
+#: msc_network.php:28
+msgid "MSc NETWORK, COMPUTER AND SYSTEM SECURITY"
+msgstr ""
+
+#: msc_network.php:36
+msgid ""
+"This program develops a comprehensive understanding of the underlying "
+"technologies of computer and network security mechanisms and a critical "
+"awareness of the overhead, impact and relative value of the protection "
+"offered. It provides an advanced understanding of the nature of secure e-"
+"commerce within an organisation and the technical, legal and business issues "
+"involved; and a critical awareness of the inherent risks and related privacy "
+"issues of its use in business. An understanding and mastery of the nature of "
+"security protocols within a network and the Internet will lead to a solid "
+"grasp of the performance and quality issues involved."
+msgstr ""
+
+#: msc_network.php:39
+msgid ""
+"The course will prepare you to make critical high-level in network, computer "
+"and system security. You will also develop your ability to analyse problems "
+"logically and apply appropriate decision-making skills and knowledge to "
+"reach feasible, realistic conclusions The programme looks at the "
+"development, management and use of information technology within and between "
+"organisations. We provide our students with a conceptual and practical "
+"knowledge of the management of IT and IT-induced change."
+msgstr ""
+
+#: msc_network.php:41 msc_org_management.php:39
+msgid "As a student on this programme you will :"
+msgstr ""
+
+#: msc_network.php:44 msc_org_management.php:42
+msgid ""
+"develop an in-depth understanding of the organisational and management "
+"processes that underlie IT-induced organisational change"
+msgstr ""
+
+#: msc_network.php:45 msc_org_management.php:45
+msgid ""
+"develop conceptual and practical knowledge in the following areas: managing "
+"change, knowledge management, systems analysis and design, IT strategy, "
+"problem-solving methodologies, project management, and e-business"
+msgstr ""
+
+#: msc_network.php:51
+msgid "The course is structured around four themes :"
+msgstr ""
+
+#: msc_network.php:54
+msgid ""
+"Formal theme, comprising advanced software development, formal methods, "
+"concurrent and distributed systems"
+msgstr ""
+
+#: msc_network.php:55
+msgid ""
+"Design theme, comprising information engineering, human/computer interaction "
+"(design and development)"
+msgstr ""
+
+#: msc_network.php:56
+msgid ""
+"Application theme, comprising AI, computer systems performance modelling, "
+"real-time systems"
+msgstr ""
+
+#: msc_network.php:57
+msgid ""
+"Project theme, comprising software project management, project, dissertation"
+msgstr ""
+
+#: msc_ohhsem.php:17
+msgid "MSc Occupational Hygiene, Health, Safety and Environmental Management"
+msgstr ""
+
+#: msc_ohhsem.php:28
+msgid "MSc OCCUPATIONAL HYGIENE, HEALTH, SAFETY AND ENVIRONMENTAL MANAGEMENT"
+msgstr ""
+
+#: msc_ohhsem.php:35
+msgid ""
+"The program is intended to equip graduates with a wide range of inter-"
+"disciplinary knowledge and skills to work in areas related to occupational "
+"hygiene health, safety and environment."
+msgstr ""
+
+#: msc_ohhsem.php:38
+msgid "On successful completion of the programme, participants will :"
+msgstr ""
+
+#: msc_ohhsem.php:41
+msgid ""
+"have a detailed knowledge and understanding of the major concepts and "
+"theories associated with environmental, health and safety management"
+msgstr ""
+
+#: msc_ohhsem.php:42
+msgid ""
+"employ appropriate advanced data analysing, synthesising and summarising "
+"skills in a scientific research environment"
+msgstr ""
+
+#: msc_ohhsem.php:43
+msgid ""
+"have a detailed knowledge and understanding of the concepts and processes of "
+"risk management"
+msgstr ""
+
+#: msc_ohhsem.php:44
+msgid ""
+"be able to implement risk assessment techniques in a number of diverse areas"
+msgstr ""
+
+#: msc_ohhsem.php:45
+msgid ""
+"have a detailed knowledge of and apply current approaches to managing "
+"chemical and biological hazards"
+msgstr ""
+
+#: msc_ohhsem.php:46
+msgid ""
+"understand how the principles of toxicology relate to occupational exposures"
+msgstr ""
+
+#: msc_ohhsem.php:47
+msgid ""
+"discuss and formulate measures to prevent pollution and reduce waste through "
+"process design"
+msgstr ""
+
+#: msc_ohhsem.php:48
+msgid ""
+"understand the effects of environmental hazards on the biotic and abiotic "
+"environment"
+msgstr ""
+
+#: msc_ohhsem.php:49
+msgid "have a fundamental understanding of the International legal framework"
+msgstr ""
+
+#: msc_ohhsem.php:50
+msgid ""
+"have a clear understanding of requirements in the main health, safety and "
+"environmental laws"
+msgstr ""
+
+#: msc_ohhsem.php:51
+msgid ""
+"be able to demonstrate a knowledge that is integrated across the legal, "
+"financial and general business aspects of professional practice"
+msgstr ""
+
+#: msc_ohhsem.php:52
+msgid "understand the role and importance of strategy in organisations"
+msgstr ""
+
+#: msc_ohhsem.php:53
+msgid ""
+"understand the importance of compliance with legislation and the "
+"consequences of noncompliance"
+msgstr ""
+
+#: msc_ohhsem.php:58
+msgid "The primary objective of the"
+msgstr ""
+
+#: msc_ohhsem.php:62
+msgid ""
+"Provide an appreciation of the skills necessary to recognise, evaluate and "
+"control hazardous substances in the workplace, encompassing hazards such as "
+"chemical, physical (e.g. noise, radiation), biological and ergonomic agents"
+msgstr ""
+
+#: msc_ohhsem.php:64
+msgid ""
+"Introduce the wide variety of aspects covered within the occupational "
+"hygiene health, safety and environment.discipline such as legislation, "
+"toxicological basis for standard setting, methods commonly used to evaluate "
+"hazardous agents, and related and overlapping health professions"
+msgstr ""
+
+#: msc_ohhsem.php:66
+msgid ""
+"Give a good foundation on which to build and extend students' knowledge of "
+"occupational hygiene during the changes and developments which lie in the "
+"years ahead"
+msgstr ""
+
+#: msc_org_management.php:28
+msgid "MSc IT: ORGANISATIONAL &amp; MANAGEMENT CHANGE"
+msgstr ""
+
+#: msc_org_management.php:36
+msgid ""
+"The programme looks at the development, management, organisation and use of "
+"information technology within and between organisations. We provide our "
+"students with a conceptual and practical knowledge of the management of IT "
+"and IT-induced change."
+msgstr ""
+
+#: msc_org_management.php:43
+msgid ""
+"have the necessary knowledge and skills in the development and management of "
+"IT to successfully (re)enter the workplace in a management or consulting role"
+msgstr ""
+
+#: msc_org_management.php:44
+msgid ""
+"be able to respond to the organisation and management of current and "
+"emerging technologies"
+msgstr ""
+
+#: msc_org_management.php:51
+msgid ""
+"Overall, this programme seeks to provide students with relevant skills and "
+"up-to-date knowledge to effectively manage IT and IT-induced organisational "
+"change."
+msgstr ""
+
+#: msc_org_management.php:53
+msgid ""
+"The programme will develop students’ abilities regarding the management of "
+"change; the management of knowledge; the management of IT projects; problem "
+"solving; systems analysis and design and IT strategy formulation. Our "
+"students will have the necessary conceptual and practical knowledge to "
+"identify organisational problems and deal with them in an appropriate manner."
+msgstr ""
+
+#: msc_org_management.php:55
+msgid ""
+"This programme looks at the development, management, organisation and use of "
+"information technology within organisations. Our programme content consists "
+"of a number of core modules such as knowledge management, project management "
+"and managing change that we view as being fundamental. We also provide "
+"options that offer students the chance to specialise in either management "
+"issues (e-business), organisational issues (digital divide) or in the "
+"technology domain."
+msgstr ""
+
+#: msc_org_management.php:57
+msgid ""
+"The cultural diversity, coupled with the differing educational backgrounds "
+"and experience of our students, provides a stimulating and rich learning "
+"environment. Most of our graduates are now working as managers, consultants, "
+"project managers and systems analysts in a variety of public and private-"
+"sector organisations across the world."
+msgstr ""
+
+#: msc_sam.php:28
+msgid "MSc SUSTAINABLE AGRICULTURE MANAGEMENT"
+msgstr ""
+
+#: msc_sam.php:35
+msgid ""
+"When you study Agriculture you work with problems and challenges linked to "
+"agricultural production as a human activity. The focus is on applied "
+"biology, but when developing new and more sustainable production systems and "
+"finding solutions to specific problems related to food, fibre and energy "
+"production you may include also environmental, social and economic aspects "
+"in your curriculum."
+msgstr ""
+
+#: msc_sam.php:37
+msgid "Students completing the"
+msgstr ""
+
+#: msc_sam.php:37
+msgid ""
+"will help solve one of the largest global challenges of the 21st century: "
+"how to combine the increasing need for natural resources in agriculture with "
+"a sustainable management of nature and the environment."
+msgstr ""
+
+#: msc_sam.php:40
+msgid ""
+"enables you to identify, describe, analyse and suggest improvements to "
+"complex problem situations, related to our use of natural resources. You "
+"learn to apply your biological knowledge to find solutions which secures "
+"animal welfare and performance and environmentally sound production of food, "
+"feed and fibres. As a student in Agriculture, you will apply basic "
+"biological knowledge when working with problems and challenges linked to "
+"food production as a human activity. Some of the questions you may work with "
+"are :"
+msgstr ""
+
+#: msc_sam.php:46
+msgid ""
+"How can we develop more sustainable production systems, e.g. can the impact "
+"of global meat production on the global climate be reduced, and how can "
+"individual farmers act to satisfy environmental demands ?"
+msgstr ""
+
+#: msc_sam.php:47
+msgid ""
+"How may basic biological and ecological knowledge be applied in improvement "
+"of plant and animal performance, e.g. how important is good nutrition for "
+"keeping animals healthy, how do soil conditions affect plant growth and "
+"quality, can crop pests and diseases be controlled without pesticides or can "
+"new crop plants contribute to human welfare ?"
+msgstr ""
+
+#: msc_sam.php:48
+msgid ""
+"Which potentials and risks are connected to new technologies in food "
+"production, e.g. GMOs ?"
+msgstr ""
+
+#: msc_sam.php:49
+msgid ""
+"How may animal welfare of both production animals and companion animals be "
+"improved ?"
+msgstr ""
+
+#: msc_sam.php:50
+msgid ""
+"How can we evaluate sustainability of farming systems, e.g. is organic "
+"agriculture better for ?"
+msgstr ""
+
+#: msc_sbdpm.php:17
+msgid "MSc Sustainable Building: Design and Performance Management"
+msgstr ""
+
+#: msc_sbdpm.php:28
+msgid "MSc SUSTAINABLE BUILDING: DESIGN AND PERFORMANCE MANAGEMENT"
+msgstr ""
+
+#: msc_sbdpm.php:35 msc_sbdpm.php:37
+msgid "The Master Program in"
+msgstr ""
+
+#: msc_sbdpm.php:35 msc_sbdpm.php:37
+msgid "Sustainable Building : Design &amp; Performance Management"
+msgstr ""
+
+#: msc_sbdpm.php:35 msc_sbdpm.php:37
+msgid ""
+"is a multidisciplinary programme of graduate study tailored for green "
+"professionals of the built environment. The curriculum of this programme is "
+"specially designed to emphasise the successful integration of design &amp; "
+"technology, and to build capability in the application of sustainable design "
+"globally. This includes passive 'green' design, renewable energy, solar "
+"technology, high impact energy efficient systems, computer simulations and "
+"total building performance. Students will acquire competencies in conducting "
+"macro &amp; micro analysis and simulations for projects located anywhere "
+"geographically."
+msgstr ""
+
+#: msc_sbdpm.php:38
+msgid "Students will develop :"
+msgstr ""
+
+#: msc_sbdpm.php:42
+msgid "vocational skills and a environmentally responsible attitude"
+msgstr ""
+
+#: msc_sbdpm.php:43
+msgid "necessary in today’s rapidly changing world"
+msgstr ""
+
+#: msc_sbdpm.php:44
+msgid "the ability to plan and undertake an individual project"
+msgstr ""
+
+#: msc_sbdpm.php:45
+msgid "interpersonal, communication and professional skills"
+msgstr ""
+
+#: msc_sbdpm.php:46
+msgid "the ability to communicate ideas effectively in written"
+msgstr ""
+
+#: msc_sbdpm.php:47
+msgid "reports, verbally and by means of presentations to groups"
+msgstr ""
+
+#: msc_sbdpm.php:48
+msgid "the ability to exercise original thought"
+msgstr ""
+
+#: msc_sde.php:17
+msgid "MSc Sustainable Development and Environment"
+msgstr ""
+
+#: msc_sde.php:28
+msgid "MSc SUSTAINABLE DEVELOPMENT AND ENVIRONMENT"
+msgstr ""
+
+#: msc_sde.php:35
+msgid ""
+"Sustainability is one of the most important principles governing the long-"
+"term development of human society. It pervades the activities of "
+"governments, organisations and individuals. This course includes a thorough "
+"exploration of the concept of sustainable development with its techno-"
+"economic, environmental and social dimensions, and of how it affects all "
+"public and private activities. It is particularly designed to provide the "
+"understanding the analytical skills needed to work effectively to promote "
+"sustainable development in government and non-governmental organisations, "
+"public and private sector, civil society."
+msgstr ""
+
+#: msc_sde.php:37
+msgid ""
+"This interdisciplinary programme offers a unique opportunity to study the "
+"theory and practice of"
+msgstr ""
+
+#: msc_sde.php:37
+msgid "sustainable environmental management."
+msgstr ""
+
+#: msc_sde.php:39
+msgid ""
+"It covers a diverse range of sustainability and environmental issues "
+"spanning the natural and social sciences, allowing you to develop a broad "
+"knowledge base while also specialising in specific fields of environmental "
+"management."
+msgstr ""
+
+#: msc_sde.php:44
+msgid ""
+"Its interactive and practically-focused approach provides a rigorous "
+"training in the legal, political and ethical dimensions of sustainability. "
+"The wide range of options also enables students to specialise in specific "
+"aspects of sustainable environmental management. Class-based teaching is "
+"combined with a range of fieldwork activities to provide an excellent "
+"foundation for professional careers in environmental consultancies, "
+"specialist environmental agencies, local and central government, research "
+"and a range of other organisations in the public and private sector."
+msgstr ""
+
+#: msc_sde.php:49
+msgid ""
+"Graduates can incorporate into their business decisions an appreciation for "
+"social responsibility, legal and ethical requirements, and corporate "
+"governance."
+msgstr ""
+
+#: msc_sde.php:50
+msgid ""
+"Graduates can demonstrate appropriate written and oral communication "
+"competencies that support and enhance managerial effectiveness."
+msgstr ""
+
+#: msc_sde.php:51
+msgid ""
+"Graduates can develop a strategic plan with  consideration for the dynamic "
+"and sometimes unpredictable domestic and global business environments."
+msgstr ""
+
+#: msc_sde.php:54
+msgid ""
+"Our graduates are well equipped with the specialist knowledge, transferable "
+"skills and practical experience necessary to follow a wide range of career "
+"paths within environmental consultancies, industry, non-government "
+"organisations local and national government agencies, and to enrol in "
+"doctoral programmes."
+msgstr ""
+
+#: msc_senrm.php:17
+msgid "MSc Sustainable Energy and Natural Resource Management"
+msgstr ""
+
+#: msc_senrm.php:28
+msgid "MSc SUSTAINABLE ENERGY AND NATURAL MANAGEMENT"
+msgstr ""
+
+#: msc_senrm.php:35
+msgid ""
+"Energy and Natural Resource management using sustainable technologies and "
+"implementation of environmental initiatives plays a rapidly increasing role "
+"in many public organisations and industry. There is an urgent need for "
+"trained personnel to advise, implement and deliver strategies and management "
+"for sustainable practices."
+msgstr ""
+
+#: msc_senrm.php:37
+msgid "The Interdisciplinary Master's Degree in"
+msgstr ""
+
+#: msc_senrm.php:37
+msgid "Sustainable Energy and Resource Management"
+msgstr ""
+
+#: msc_senrm.php:37
+msgid ""
+"offers an integrated, comprehensive education relating to sustainable energy "
+"development in the broadest sense. This Program is designed to provide a "
+"technical background while giving a balanced education with instruction in "
+"the areas of law, business, engineering and environmental design. This "
+"Program is for high potential professionals from any discipline who have "
+"demonstrated the ability to produce results, communicate effectively and "
+"have an interest in sustainable development."
+msgstr ""
+
+#: msc_senrm.php:39
+msgid ""
+"Students will gain essential technical skills in the field as well as "
+"becoming fluent in the financial, marketing and managerial aspects of modern "
+"business. The course aims to develop confidence and understanding in the "
+"specialist field of entrepreneurship applied to technology that can arise "
+"from the research base of sustainable energy subjects. Graduates from the "
+"course will be well placed to pursue careers in renewable energy technology "
+"industries."
+msgstr ""
+
+#: msc_senrm.php:42
+msgid "Students will develop:"
+msgstr ""
+
+#: msc_senrm.php:45
+msgid ""
+"Useful and technical knowledge in the areas of sustainable energy and "
+"business"
+msgstr ""
+
+#: msc_senrm.php:46
+msgid ""
+"The ability to plan and undertake an individual project interpersonal, "
+"communication and professional skills"
+msgstr ""
+
+#: msc_senrm.php:47
+msgid ""
+"The ability to communicate ideas effectively in written reports, verbally "
+"and by means of presentations to groups"
+msgstr ""
+
+#: msc_senrm.php:48
+msgid ""
+"The ability to exercise original thought knowledge of the application of "
+"technologies to proposed business models"
+msgstr ""
+
+#: msc_sp.php:28
+msgid "MSc SUSTAINABLE PLANNING"
+msgstr ""
+
+#: msc_sp.php:35
+msgid ""
+"Continuous changes are taking place at urban, rural and regional level and a "
+"deeper understanding of how knowledge economies, spatial reorganisation and "
+"social dynamics challenge the development of contemporary societies is "
+"needed."
+msgstr ""
+
+#: msc_sp.php:38
+msgid "The Master's Degree in"
+msgstr ""
+
+#: msc_sp.php:38
+msgid "Sustainable Planning"
+msgstr ""
+
+#: msc_sp.php:39
+msgid ""
+"Both intellectually rigorous and providing a strong grounding in "
+"professional practice, the Programme :"
+msgstr ""
+
+#: msc_sp.php:42
+msgid ""
+"unites the study of urbanism and sustainability is international in scope"
+msgstr ""
+
+#: msc_sp.php:43
+msgid "is based on a multidisciplinary approach and structure"
+msgstr ""
+
+#: msc_sp.php:44
+msgid "provides a strong knowledge basis to professional practice in the area"
+msgstr ""
+
+#: msc_sp.php:52
+msgid ""
+"The programme aims to provide a comprehensive and systematic knowledge of "
+"the key factors in and influences on the formulation and delivery of spatial "
+"planning policy and sustainable development across the built and natural "
+"environment."
+msgstr ""
+
+#: msc_sp.php:54
+msgid ""
+"The programme is organised around intensive small group seminars, offering "
+"cutting edge exploration of the urban and regional development and in "
+"particular:"
+msgstr ""
+
+#: msc_sp.php:57
+msgid ""
+"A critical engagement with strategies for urban competitiveness and "
+"governance"
+msgstr ""
+
+#: msc_sp.php:58
+msgid ""
+"An understanding of urban, rural and regional economic dynamics and patterns"
+msgstr ""
+
+#: msc_sp.php:59
+msgid "An examination of the knowledge and cultural economy of cities"
+msgstr ""
+
+#: msc_sp.php:60
+msgid ""
+"An exploration of the relationships between globalisation, transnationalism "
+"and urban dynamics"
+msgstr ""
+
+#: msc_sp.php:68
+msgid "Learning outcomes"
+msgstr ""
+
+#: msc_sp.php:69
+msgid "On completion of courses under the"
+msgstr ""
+
+#: msc_sp.php:73
+msgid "Follow international and national trends in sustainable planning"
+msgstr ""
+
+#: msc_sp.php:74
+msgid ""
+"More effectively assess and manage complex industrial, infrastructure and "
+"urban development proposals using statutory and best practice processes and "
+"procedures"
+msgstr ""
+
+#: msc_tlm.php:17
+msgid "MSc Transports and Logistics Management"
+msgstr ""
+
+#: msc_tlm.php:28
+msgid "MSc TRANSPORTS END LOGISTICS MANAGEMENT"
+msgstr ""
+
+#: msc_tlm.php:36
+msgid ""
+"In an increasingly competitive environment, logistics and transports "
+"managers need to demonstrate competencies, such as leadership and decision-"
+"making, that will enable them to stand out from the crowd."
+msgstr ""
+
+#: msc_tlm.php:38
+msgid ""
+"The aim of these programme is to produce graduates with a sound grasp of "
+"current and emerging theories and philosophies associated with logistics and "
+"transports; emphasising relationships with other corporate functions, and "
+"other activities of the supply chain process. Students will be given the "
+"opportunity to develop their knowledge of the concepts and practices of "
+"logistics and supply chains, which can be applied to their own organisation "
+"or linked to an organisation in the public or private sector."
+msgstr ""
+
+#: msc_tlm.php:40
+msgid "MSc Transport and Logistics"
+msgstr ""
+
+#: msc_tlm.php:40
+msgid ""
+"is a specialist postgraduate programme that offers high level strategic "
+"teaching in the areas of: Strategic supply chain management, international "
+"and global supply network management, distribution and warehousing, "
+"complexity thinking, strategic operations management and project management, "
+"future transport and emerging landscapes and research methodologies"
+msgstr ""
+
+#: msc_tlm.php:44
+msgid ""
+"The programme is a flexible degree scheme in which you choose subjects that "
+"interest you and also attend compulsory core modules. The programme prepares "
+"you to use your analytical skills in decision support and planning. In "
+"today’s fast moving world, customers and citizens expect high-quality "
+"services and products that are appropriate to their needs; therefore "
+"organisations must think through their decisions before acting. You will "
+"study methods of proven value for decision support."
+msgstr ""
+
+#: msc_tlm.php:47
+msgid ""
+"The programme prepares you for taking on truly multifaceted challenges, "
+"requiring a balance between theoretical and practically oriented skills. You "
+"will develop your thinking from functions, components and details into "
+"relationships, flows, chains, processes and systems. Many programme alumni "
+"are now in leading positions in manufacturing and trading firms, in the "
+"logistics industry as well as in the public sector."
+msgstr ""
+
+#: msc_transports.php:17
+msgid "MSc Transports and Urban Planning"
+msgstr ""
+
+#: msc_transports.php:28
+msgid "MSc TRANSPORTS AND URBAN PLANNING"
+msgstr ""
+
+#: msc_transports.php:36
+msgid "The overall breadth and orientation of teaching in"
+msgstr ""
+
+#: msc_transports.php:36
+msgid ""
+"provides the ideal context for studying transport and urban planning as a "
+"contributor to sustainable development. In particular elements of the "
+"transport and spatial planning programmes are shared, enabling students "
+"qualifying in one to appreciate the workings and contribution of the other. "
+"The focus of both is with policy and practice in the Europe but drawing on "
+"international comparisons where relevant."
+msgstr ""
+
+#: msc_transports.php:38
+msgid "Transport and Urban Planning"
+msgstr ""
+
+#: msc_transports.php:38
+msgid ""
+"programme sets out to meet the requirements of people who wish to develop "
+"their academic capability through study of the subject and/or who are "
+"already embarked on, or envisage a career in, this field. It is designed to "
+"impart systematically the knowledge and skills needed to contribute "
+"effectively to the transport planning process and to utilise (and in the "
+"case of the MSc, conduct) original research on issues relating to it."
+msgstr ""
+
+#: msc_transports.php:40
+msgid ""
+"Central to the educational experience is group work in a studio setting, in "
+"which students collaborate in multidisciplinary teams to solve 'real-life' "
+"problems in Europe and the region. Equally important is the three- and six "
+"month professional internship, between the first and second year of study, "
+"in a planning field and geographic location of the students' own choosing. "
+"(Finding internship opportunities is the first part of the task.)"
+msgstr ""
+
+#: msc_transports.php:43
+msgid ""
+"Our graduates are well equipped with the specialist knowledge, transferable "
+"skills and practical experience necessary to follow a wide range of career "
+"paths within urban &amp; transport consultancies, industry, non-government "
+"organisations local and national government agencies."
+msgstr ""
+
+#: msc_water.php:17
+msgid "MSc Water Management"
+msgstr ""
+
+#: msc_water.php:28
+msgid "MSc WATER MANAGEMENT"
+msgstr ""
+
+#: msc_water.php:37
+msgid ""
+"Water is essential to life and is arguably our most precious resource. "
+"Without appropriate water management, whether in agriculture, industry, "
+"community development, or maintenance of a sustainable environment, we run "
+"the risk of over exploitation and contamination of this most essential "
+"commodity"
+msgstr ""
+
+#: msc_water.php:40
+msgid ""
+"This program provides the skills and knowledge required to assess, plan, "
+"execute and implement strategies for the sustainable management of water in "
+"natural, semi-natural and man-made environments. It addresses the common "
+"themes pertaining to water management in all situations, whilst allowing "
+"specialisation through the choice of one of the five specialist options."
+msgstr ""
+
+#: msc_water.php:42
+msgid ""
+"This program is suitable for graduates with science, engineering, geography "
+"or related degrees keen to pursue careers in water management; or graduates "
+"currently in employment keen to extend their qualifications or to pursue a "
+"career change; or individuals with other qualifications who possess "
+"considerable relevant experience"
+msgstr ""
+
+#: msc_water.php:44
+msgid ""
+"The MSc Water Management Program aims to develop knowledge, insight and "
+"skills required to design, implement and evaluate water management policies "
+"and strategies to achieve effective governance of water resources. Once they "
+"have successfully completed this programme, graduates will be able to :"
+msgstr ""
+
+#: msc_water.php:60
+msgid ""
+"describe the rational for an integrated and interdisciplinary approach for "
+"managing the water system"
+msgstr ""
+
+#: msc_water.php:61
+msgid ""
+"identify and critically assess the different functions of the water "
+"resources system and the – often competing – interests of the various water "
+"users;"
+msgstr ""
+
+#: msc_water.php:62
+msgid ""
+"design, apply and evaluate models for institutional arrangements with "
+"emphasis on institutional reforms, policy development and good governance"
+msgstr ""
+
+#: msc_water.php:63
+msgid "conduct, independently or in a multidisciplinary team, research."
+msgstr ""
+
+#: msc_wrp.php:17
+msgid "MSc Waste and Recycling Management"
+msgstr ""
+
+#: msc_wrp.php:28
+msgid "MSc WASTE AND RECYCLING MANAGEMENT"
+msgstr ""
+
+#: msc_wrp.php:35
+msgid ""
+"The waste management industry is undergoing a change in strategy as a result "
+"of the introduction of increasingly arduous legislation, tougher "
+"enforcement, and better educated consumers making demands about the "
+"environment. This is stimulating considerable investment by the waste "
+"industry in alternative technologies to reduce and reuse waste, rather than "
+"rely on simple landfill. This sector therefore has an urgent requirement for "
+"well qualified staff with management expertise who can meet the challenges "
+"of this future sustainable agenda."
+msgstr ""
+
+#: msc_wrp.php:37
+msgid ""
+"The course has been developed, with considerable input from the sector, to "
+"address this demand. There are numerous benefits associated with undertaking "
+"a postgraduate programme of study at Institut de Formations et de "
+"Managements."
+msgstr ""
+
+#: msc_wrp.php:40
+msgid ""
+"undertake projects in consultation with the waste and resource management "
+"industry, government and its agencies, local authorities and consultants"
+msgstr ""
+
+#: msc_wrp.php:41
+msgid "lecturing from leading academics as well as industrial practitioners"
+msgstr ""
+
+#: msc_wrp.php:42
+msgid "strong links to the multi-utility, waste and resource management sector"
+msgstr ""
+
+#: msc_wrp.php:43
+msgid "geographical proximity to authentic waste facilities for site visits"
+msgstr ""
+
+#: msc_wrp.php:44
+msgid ""
+"established capabilities in waste management, environmental technology and "
+"processing"
+msgstr ""
+
+#: msc_wrp.php:49
+msgid ""
+"The course will provide students with the breadth and depth of advanced "
+"technical and professional knowledge in waste technology and management in "
+"order to meet the requirements expected of modern waste managers working in "
+"the industrial, government and consulting sectors. The course provides an "
+"integrated and cross-disciplinary approach to sustainable waste management "
+"and its application. Students will be equipped to select and apply "
+"scientific, technical and engineering principles; assess economic "
+"consequences and risks of waste management options; and apply acquired "
+"knowledge to team working and independent problem solving."
+msgstr ""
+
+#: our_community.php:15
+msgid "Our community"
+msgstr "Nuestra comunidad"
+
+#: our_community.php:24
+msgid "OUR COMMUNITY"
+msgstr "NUESTRA COMUNIDAD"
+
+#: our_community.php:26
+msgid ""
+"Through their participation in the life of the Institute, administrative and "
+"technical staff, faculty and students form a community that shares the "
+"values set out in the"
+msgstr ""
+"Con su participación en la vida del Instituto, los empleados "
+"administrativos, el personal técnico, la facultad y los estudiantes forman "
+"una comunidad que comparte los valores descritos en la"
+
+#: our_community.php:28
+msgid ""
+"has a remarkable wealth of knowledge and expertise in sustainable "
+"development management interdisciplinary with a national and international "
+"focus. Its professors are tremendously diverse in terms of national origin, "
+"academic background and scientific perspectives. They are recruited as much "
+"for their disciplinary expertise as for their capacity for multidisciplinary "
+"dialogue. Together, they offer a wide range of thematic and regional "
+"expertise. Their thematic expertise covers the principal challenges of "
+"global governance."
+msgstr ""
+"y que están representados en el comité del Instituto. Los ex alumnos están "
+"también en esta comunidad por su adhesión al Instituto y sus múltiples "
+"formas de apoyo. SDMI tiene una notable riqueza de conocimientos y "
+"experiencias en la gestión del desarrollo duradero interdisciplinario con "
+"objectivos nacionales e internacionales. El profesorado es tremendamente "
+"variado por su origen nacional, su curso académico y sus  distintos ambitos "
+"cientificos. Los profesores son reclutados por su pericia disciplinaria y "
+"también por su capacidad para el diálogo multidisciplinario. Juntos, ofrecen "
+"un amplio intervalo temático y regional. Nuestra temática cubre también los "
+"principales desafíos de la gobernancia total."
+
+#: partners.php:15
+msgid "Partners &amp; Assocciations"
+msgstr "Asociados y asociaciones"
+
+#: partners.php:25
+msgid "all"
+msgstr ""
+
+#: partners.php:28 partners.php:72 partners.php:84 partners.php:96
+#: register.php:124
+msgid "Albania"
+msgstr ""
+
+#: partners.php:31 partners.php:108 register.php:131
+msgid "Argentina"
+msgstr ""
+
+#: partners.php:34 partners.php:120 register.php:151
+msgid "Brazil"
+msgstr ""
+
+#: partners.php:37 partners.php:132 partners.php:144 partners.php:156
+#: register.php:197
+msgid "France"
+msgstr ""
+
+#: partners.php:40 partners.php:168 register.php:204
+msgid "Germany"
+msgstr ""
+
+#: partners.php:43 register.php:203
+msgid "Georgia"
+msgstr ""
+
+#: partners.php:46 partners.php:180 partners.php:192 partners.php:204
+#: partners.php:216 register.php:222
+msgid "India"
+msgstr ""
+
+#: partners.php:49 partners.php:240
+msgid "Kosovo"
+msgstr ""
+
+#: partners.php:52 partners.php:264 partners.php:276 register.php:303
+msgid "Russia"
+msgstr ""
+
+#: partners.php:55 partners.php:288 partners.php:300 register.php:329
+msgid "Spain"
+msgstr ""
+
+#: partners.php:58 partners.php:312 partners.php:324
+msgid "Turkish"
+msgstr ""
+
+#: partners.php:61 partners.php:336 register.php:354
+msgid "United Kingdom"
+msgstr ""
+
+#: partners.php:64 partners.php:348
+msgid "Usa"
+msgstr ""
+
+#: partners.php:75
+msgid "University of Elbasan \"Aleksander Xhuvani\""
+msgstr ""
+
+#: partners.php:87
+msgid "University \"Luigj Gurakuqi\" Shkoder"
+msgstr ""
+
+#: partners.php:99
+msgid ""
+"Center For European Policy Studies on Regional and Local Development (CRLDS)"
+msgstr ""
+
+#: partners.php:111
+msgid "International Latin University"
+msgstr ""
+
+#: partners.php:123
+msgid "Faculdade IMPACTA Tecnologia"
+msgstr ""
+
+#: partners.php:135
+msgid "Atebab, Atelier-Laboratoire"
+msgstr ""
+
+#: partners.php:147
+msgid "Centre International de Formation en Aménagement et Architecture"
+msgstr ""
+
+#: partners.php:159
+msgid "Institut de Formations au Managements"
+msgstr ""
+
+#: partners.php:171
+msgid "Braun Foundation for International Exchange"
+msgstr ""
+
+#: partners.php:183 partners.php:207
+msgid "Universal Business School"
+msgstr ""
+
+#: partners.php:195
+msgid "Jagran Lakecity University"
+msgstr ""
+
+#: partners.php:219
+msgid "Chitkara University"
+msgstr ""
+
+#: partners.php:228 register.php:223
+msgid "Indonesia"
+msgstr ""
+
+#: partners.php:231
+msgid "National Institute of Technology, Malang"
+msgstr ""
+
+#: partners.php:243
+msgid "European College of Kosovo"
+msgstr ""
+
+#: partners.php:252
+msgid "Republic of Kazakhstan"
+msgstr ""
+
+#: partners.php:255
+msgid "Turan University"
+msgstr ""
+
+#: partners.php:267
+msgid "Saint-Petersburg Institute of Hospitality"
+msgstr ""
+
+#: partners.php:279
+msgid "Southwest State University"
+msgstr ""
+
+#: partners.php:291
+msgid "Universidad CEU Cardenal Herrera"
+msgstr ""
+
+#: partners.php:303
+msgid "University of Huelva"
+msgstr ""
+
+#: partners.php:315
+msgid "University of Turkish Aeronautical Association"
+msgstr ""
+
+#: partners.php:327
+msgid "Karabuk University"
+msgstr ""
+
+#: partners.php:339
+msgid "Southampton Solent University"
+msgstr ""
+
+#: partners.php:351
+msgid "Manhattan Institute of Management"
+msgstr ""
+
+#: presentation.php:27
+msgid "PRESENTATION"
+msgstr "PRESENTACION"
+
+#: presentation.php:29
+msgid ""
+"We believe that learning is a key dimension of the human condition and that "
+"it is essential for the harmonious growth of individuals and humanity at "
+"large. We also believe that the harmonious growth of the society of human "
+"beings, in constructive interaction with the rest of the universe, is of "
+"essential importance within a vision that recognizes the ecological "
+"integration of humans and humanity in the broader context."
+msgstr ""
+"Creemos que aprender es la llave de la condición humana y es esencial para "
+"el crecimiento en armonía del individuo y de la humanidad. Creemos también "
+"que este crecimiento armonioso de la sociedad y de los seres humanos, en una "
+"interacción contructiva con el resto del universo, es de vital importancia y "
+"supone una visión que reconoce la integración ecológica de los humanos y la "
+"humanidad en un contexto más amplio."
+
+#: presentation.php:31
+msgid ""
+"That belief is furthermore based on the assumption that the capacity of "
+"humans to reflect upon themselves and on their relations with their "
+"environment, dispositions them uniquely to play a critical role in how the "
+"world evolves. We see ahead of us incredible potential, the wise use of "
+"which can benefit all of humanity and the habitat on which it thrives and to "
+"which it contributes, as well as the possibility of total decline and "
+"eventual self-destruction. We see learning as having everything to do with "
+"the human ability to live on the edge and thus to keep local and global "
+"systems in dynamic equilibrium, providing them with the best abilities for "
+"co-evolutionary growth. Within the framework of the above vision, the prime "
+"goals of"
+msgstr ""
+"Esta creencia está además basada en la suposición de que el hombre es capaz "
+"de reflejarse, él y sus relaciones, en el medio ambiente,  otrogándole un "
+"papel crítico ante un mundo cambiante. Vemos por un lado un potencial "
+"increíble, dónde un uso prudente puede beneficiar a todos, prosperar y "
+"contribuir, a la vez que existe al contrario la posibilidad de descenso "
+"total y de autodestrucción. Vemos en el aprendizaje la llave para poseer la "
+"capacidad de vivir al limite y mantener los sistemas total y global en un "
+"equilibrio dinámico, proporcionándonos las mejores capacidades para el "
+"crecimiento co-evolutivo. Con esta visión, el primer objetivo de"
+
+#: presentation.php:31
+msgid "are :"
+msgstr "es :"
+
+#: presentation.php:33
+msgid ""
+"to promote learning in the broadest sense possible, ranging from individual "
+"learning to organizational learning at different levels of complex "
+"organization"
+msgstr ""
+"1. Promover el aprendizaje de la manera más amplia posible, variando según "
+"las personas y los distintos niveles."
+
+#: presentation.php:34
+msgid ""
+"to foster the development of the conditions in society that promote and "
+"facilitate learning in the above sense"
+msgstr ""
+"2. Fomentar el desarrollo de las condiciones de la sociedad para facilitar "
+"el aprendizaje."
+
+#: presentation.php:35
+msgid ""
+"to care for the organic integration of the learning environment at large, "
+"ensuring its ecological soundness."
+msgstr ""
+"3. Velar por la integración orgánica del aprendizaje, asegurando la "
+"solvencia ecológica."
+
+#: presentation.php:39
+msgid "In pursuing the above goals,"
+msgstr "Para alcanzar estas metas,"
+
+#: presentation.php:39
+msgid ""
+"will engage in activities that are directly linked to these goals. It may "
+"also undertake activities that are only indirectly connected to them."
+msgstr "inicia  actividades de muchos tipos."
+
+#: presentation.php:41
+msgid ""
+"sees it as its responsibility to continually develop its internal "
+"consciousness about how its strategies and actions relate to its vision, "
+"mission and goals. In addition, it undertakes to clarify this position in "
+"transparent ways to its partners, clientele and sponsors and seeks to "
+"involve them in this process. It is conscious of the desirability to always "
+"be as constructively critical of its own vision and the ways it tries to "
+"implement it as of the thoughts and actions of others. It therefore adheres "
+"decidedly to the idea that the best way for it to play its role is by "
+"applying to itself the principles it also advocates to others : those of "
+"organizational learning."
+msgstr ""
+"ve su responsabilidad en el desarrollo de una conciencia interna y el "
+"Instituto quiere establecer estrategias y acciones relacionadas con esta "
+"visión y metas. Además, debemos emprender y aclarar esta posición de manera "
+"transparente con nuestros asociados, clientes y patrocinadores para buscar e "
+"implicarlos en el proceso. Se debe ser conciente de las oportunidades y "
+"siempre tener un espíritu crítico de su propia visión y los caminos a seguir "
+"para trabajar en consonancia con los pensamientos y acciones de los otros. "
+"Por lo demás, el mejor camino hasta estas ideas es el aprendizaje "
+"organizativo."
+
+#: presentation.php:43
+msgid "The above position has implications for how"
+msgstr "Todo ello tiene implicaciones por las que"
+
+#: presentation.php:43
+msgid ""
+"cares for itself and its resources. Such care, as expressed in sound "
+"administration and management of resources (financial and otherwise), will "
+"never be an end in itself. Institutional sustainability and growth are seen "
+"as part and parcel of the larger problematic of"
+msgstr ""
+"tiene cuidado de su identidad y sus recursos. Se cuidará la expresión de la "
+"administración de los recursos (financieros y otros. La sostenibilidad "
+"institucional y el crecimiento son parte de la gran problemática de"
+
+#: presentation.php:43
+msgid ""
+"considers itself part of. Within that context, it will be conscious of both "
+"itself and its environment and seek to develop them together in a balanced "
+"manner. In other words, while money will have to be charged for services "
+"provided, this will be done within the spirit of the goals of the "
+"organization. Modalities will be sought that take into account the nature of "
+"established partnerships and reasonable expectations as to what each can and "
+"should contribute and how parties should work together to generate, share "
+"and manage the resources required to attend to their shared interests"
+msgstr ""
+"En este contexto, es la conciencia suya y de su Medio Ambiente que es "
+"primordial y buscar el desarrollo de los dos juntos de manera igual. De otra "
+"manera, el dinero debe servir para los servicios proporcionados y sólo para "
+"ello, porque nuestra organización tiene un objectivo diferente. Las "
+"modalidades seran buscadas con el objectivo de establecer asociaciones y "
+"razonables anticipaciones con toda la gente que puede contribuir en el "
+"proyecto, y como todas partes debe trabajar juntas para generar, compartir y "
+"gestionar lors recursos requeridos para asistir sus intereses compartidos."
+
+#: presentation.php:43
+msgid ""
+"is, in this context, particularly concerned with the unequal distribution of "
+"resources and opportunities in the world. In working with partners in "
+"different circumstances,"
+msgstr ""
+"está, en este contexto, particularmente preocupado por la distribución "
+"desigual de los recursos y oportunidades en el mundo. Trabajando con "
+"asociados en diferentes circunstancias,"
+
+#: presentation.php:43
+msgid ""
+"will seek to act in a balancing manner while providing services and being "
+"compensated for them."
+msgstr ""
+"quiere actuar de igual manera por los servicios proporcionados y compensar "
+"por ello."
+
+#: presentation.php:46
+msgid "Download the PDF"
+msgstr ""
+
+#: register.php:18
+msgid "Log In."
+msgstr ""
+
+#: register.php:20
+msgid "LAST NAME"
+msgstr ""
+
+#: register.php:21
+msgid "FIRST NAME"
+msgstr ""
+
+#: register.php:25
+msgid "Male"
+msgstr ""
+
+#: register.php:27
+msgid "Female"
+msgstr ""
+
+#: register.php:31
+msgid "Date of Birth"
+msgstr ""
+
+#: register.php:35
+msgid "Day"
+msgstr ""
+
+#: register.php:70
+msgid "Month"
+msgstr ""
+
+#: register.php:71
+msgid "January"
+msgstr ""
+
+#: register.php:72
+msgid "February"
+msgstr ""
+
+#: register.php:73
+msgid "March"
+msgstr ""
+
+#: register.php:74
+msgid "April"
+msgstr ""
+
+#: register.php:75
+msgid "May"
+msgstr ""
+
+#: register.php:76
+msgid "June"
+msgstr ""
+
+#: register.php:77
+msgid "July"
+msgstr ""
+
+#: register.php:78
+msgid "August"
+msgstr ""
+
+#: register.php:79
+msgid "September"
+msgstr ""
+
+#: register.php:80
+msgid "October"
+msgstr ""
+
+#: register.php:81
+msgid "November"
+msgstr ""
+
+#: register.php:82
+msgid "December"
+msgstr ""
+
+#: register.php:86
+msgid "Year"
+msgstr ""
+
+#: register.php:115
+msgid "confirm password"
+msgstr ""
+
+#: register.php:122
+msgid "- Select -"
+msgstr ""
+
+#: register.php:123
+msgid "Afghanistan"
+msgstr ""
+
+#: register.php:125
+msgid "Algeria"
+msgstr ""
+
+#: register.php:126
+msgid "American Samoa"
+msgstr ""
+
+#: register.php:127
+msgid "Andorra"
+msgstr ""
+
+#: register.php:128
+msgid "Angola"
+msgstr ""
+
+#: register.php:129
+msgid "Anguilla"
+msgstr ""
+
+#: register.php:130
+msgid "Antigua &amp; Barbuda"
+msgstr ""
+
+#: register.php:132
+msgid "Armenia"
+msgstr ""
+
+#: register.php:133
+msgid "Aruba"
+msgstr ""
+
+#: register.php:134
+msgid "Australia"
+msgstr ""
+
+#: register.php:135
+msgid "Austria"
+msgstr ""
+
+#: register.php:136
+msgid "Azerbaijan"
+msgstr ""
+
+#: register.php:137
+msgid "Bahamas"
+msgstr ""
+
+#: register.php:138
+msgid "Bahrain"
+msgstr ""
+
+#: register.php:139
+msgid "Bangladesh"
+msgstr ""
+
+#: register.php:140
+msgid "Barbados"
+msgstr ""
+
+#: register.php:141
+msgid "Belarus"
+msgstr ""
+
+#: register.php:142
+msgid "Belgium"
+msgstr ""
+
+#: register.php:143
+msgid "Belize"
+msgstr ""
+
+#: register.php:144
+msgid "Benin"
+msgstr ""
+
+#: register.php:145
+msgid "Bermuda"
+msgstr ""
+
+#: register.php:146
+msgid "Bhutan"
+msgstr ""
+
+#: register.php:147
+msgid "Bolivia"
+msgstr ""
+
+#: register.php:148
+msgid "Bonaire"
+msgstr ""
+
+#: register.php:149
+msgid "Bosnia &amp; Herzegovina"
+msgstr ""
+
+#: register.php:150
+msgid "Botswana"
+msgstr ""
+
+#: register.php:152
+msgid "British Indian Ocean Ter"
+msgstr ""
+
+#: register.php:153
+msgid "Brunei"
+msgstr ""
+
+#: register.php:154
+msgid "Bulgaria"
+msgstr ""
+
+#: register.php:155
+msgid "Burkina Faso"
+msgstr ""
+
+#: register.php:156
+msgid "Burundi"
+msgstr ""
+
+#: register.php:157
+msgid "Cambodia"
+msgstr ""
+
+#: register.php:158
+msgid "Cameroon"
+msgstr ""
+
+#: register.php:159
+msgid "Canada"
+msgstr ""
+
+#: register.php:160
+msgid "Canary Islands"
+msgstr ""
+
+#: register.php:161
+msgid "Cape Verde"
+msgstr ""
+
+#: register.php:162
+msgid "Cayman Islands"
+msgstr ""
+
+#: register.php:163
+msgid "Central African Republic"
+msgstr ""
+
+#: register.php:164
+msgid "Chad"
+msgstr ""
+
+#: register.php:165
+msgid "Channel Islands"
+msgstr ""
+
+#: register.php:166
+msgid "Chile"
+msgstr ""
+
+#: register.php:167
+msgid "China"
+msgstr ""
+
+#: register.php:168
+msgid "Christmas Island"
+msgstr ""
+
+#: register.php:169
+msgid "Cocos Island"
+msgstr ""
+
+#: register.php:170
+msgid "Colombia"
+msgstr ""
+
+#: register.php:171
+msgid "Comoros"
+msgstr ""
+
+#: register.php:172
+msgid "Congo"
+msgstr ""
+
+#: register.php:173
+msgid "Cook Islands"
+msgstr ""
+
+#: register.php:174
+msgid "Costa Rica"
+msgstr ""
+
+#: register.php:175
+msgid "Cote D'Ivoire"
+msgstr ""
+
+#: register.php:176
+msgid "Croatia"
+msgstr ""
+
+#: register.php:177
+msgid "Cuba"
+msgstr ""
+
+#: register.php:178
+msgid "Curacao"
+msgstr ""
+
+#: register.php:179
+msgid "Cyprus"
+msgstr ""
+
+#: register.php:180
+msgid "Czech Republic"
+msgstr ""
+
+#: register.php:181
+msgid "Denmark"
+msgstr ""
+
+#: register.php:182
+msgid "Djibouti"
+msgstr ""
+
+#: register.php:183
+msgid "Dominica"
+msgstr ""
+
+#: register.php:184
+msgid "Dominican Republic"
+msgstr ""
+
+#: register.php:185
+msgid "East Timor"
+msgstr ""
+
+#: register.php:186
+msgid "Ecuador"
+msgstr ""
+
+#: register.php:187
+msgid "Egypt"
+msgstr ""
+
+#: register.php:188
+msgid "El Salvador"
+msgstr ""
+
+#: register.php:189
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: register.php:190
+msgid "Eritrea"
+msgstr ""
+
+#: register.php:191
+msgid "Estonia"
+msgstr ""
+
+#: register.php:192
+msgid "Ethiopia"
+msgstr ""
+
+#: register.php:193
+msgid "Falkland Islands"
+msgstr ""
+
+#: register.php:194
+msgid "Faroe Islands"
+msgstr ""
+
+#: register.php:195
+msgid "Fiji"
+msgstr ""
+
+#: register.php:196
+msgid "Finland"
+msgstr ""
+
+#: register.php:198
+msgid "French Guiana"
+msgstr ""
+
+#: register.php:199
+msgid "French Polynesia"
+msgstr ""
+
+#: register.php:200
+msgid "French Southern Ter"
+msgstr ""
+
+#: register.php:201
+msgid "Gabon"
+msgstr ""
+
+#: register.php:202
+msgid "Gambia"
+msgstr ""
+
+#: register.php:205
+msgid "Ghana"
+msgstr ""
+
+#: register.php:206
+msgid "Gibraltar"
+msgstr ""
+
+#: register.php:207
+msgid "Great Britain"
+msgstr ""
+
+#: register.php:208
+msgid "Greece"
+msgstr ""
+
+#: register.php:209
+msgid "Greenland"
+msgstr ""
+
+#: register.php:210
+msgid "Grenada"
+msgstr ""
+
+#: register.php:211
+msgid "Guadeloupe"
+msgstr ""
+
+#: register.php:212
+msgid "Guam"
+msgstr ""
+
+#: register.php:213
+msgid "Guatemala"
+msgstr ""
+
+#: register.php:214
+msgid "Guinea"
+msgstr ""
+
+#: register.php:215
+msgid "Guyana"
+msgstr ""
+
+#: register.php:216
+msgid "Haiti"
+msgstr ""
+
+#: register.php:217
+msgid "Hawaii"
+msgstr ""
+
+#: register.php:218
+msgid "Honduras"
+msgstr ""
+
+#: register.php:219
+msgid "Hong Kong"
+msgstr ""
+
+#: register.php:220
+msgid "Hungary"
+msgstr ""
+
+#: register.php:221
+msgid "Iceland"
+msgstr ""
+
+#: register.php:224
+msgid "Iran"
+msgstr ""
+
+#: register.php:225
+msgid "Iraq"
+msgstr ""
+
+#: register.php:226
+msgid "Ireland"
+msgstr ""
+
+#: register.php:227
+msgid "Isle of Man"
+msgstr ""
+
+#: register.php:228
+msgid "Israel"
+msgstr ""
+
+#: register.php:229
+msgid "Italy"
+msgstr ""
+
+#: register.php:230
+msgid "Jamaica"
+msgstr ""
+
+#: register.php:231
+msgid "Japan"
+msgstr ""
+
+#: register.php:232
+msgid "Jordan"
+msgstr ""
+
+#: register.php:233
+msgid "Kazakhstan"
+msgstr ""
+
+#: register.php:234
+msgid "Kenya"
+msgstr ""
+
+#: register.php:235
+msgid "Kiribati"
+msgstr ""
+
+#: register.php:236
+msgid "Korea North"
+msgstr ""
+
+#: register.php:237
+msgid "Korea South"
+msgstr ""
+
+#: register.php:238
+msgid "Kuwait"
+msgstr ""
+
+#: register.php:239
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: register.php:240
+msgid "Laos"
+msgstr ""
+
+#: register.php:241
+msgid "Latvia"
+msgstr ""
+
+#: register.php:242
+msgid "Lebanon"
+msgstr ""
+
+#: register.php:243
+msgid "Lesotho"
+msgstr ""
+
+#: register.php:244
+msgid "Liberia"
+msgstr ""
+
+#: register.php:245
+msgid "Libya"
+msgstr ""
+
+#: register.php:246
+msgid "Liechtenstein"
+msgstr ""
+
+#: register.php:247
+msgid "Lithuania"
+msgstr ""
+
+#: register.php:248
+msgid "Luxembourg"
+msgstr ""
+
+#: register.php:249
+msgid "Macau"
+msgstr ""
+
+#: register.php:250
+msgid "Macedonia"
+msgstr ""
+
+#: register.php:251
+msgid "Madagascar"
+msgstr ""
+
+#: register.php:252
+msgid "Malaysia"
+msgstr ""
+
+#: register.php:253
+msgid "Malawi"
+msgstr ""
+
+#: register.php:254
+msgid "Maldives"
+msgstr ""
+
+#: register.php:255
+msgid "Mali"
+msgstr ""
+
+#: register.php:256
+msgid "Malta"
+msgstr ""
+
+#: register.php:257
+msgid "Marshall Islands"
+msgstr ""
+
+#: register.php:258
+msgid "Martinique"
+msgstr ""
+
+#: register.php:259
+msgid "Mauritania"
+msgstr ""
+
+#: register.php:260
+msgid "Mauritius"
+msgstr ""
+
+#: register.php:261
+msgid "Mayotte"
+msgstr ""
+
+#: register.php:262
+msgid "Mexico"
+msgstr ""
+
+#: register.php:263
+msgid "Midway Islands"
+msgstr ""
+
+#: register.php:264
+msgid "Moldova"
+msgstr ""
+
+#: register.php:265
+msgid "Monaco"
+msgstr ""
+
+#: register.php:266
+msgid "Mongolia"
+msgstr ""
+
+#: register.php:267
+msgid "Montserrat"
+msgstr ""
+
+#: register.php:268
+msgid "Morocco"
+msgstr ""
+
+#: register.php:269
+msgid "Mozambique"
+msgstr ""
+
+#: register.php:270
+msgid "Myanmar"
+msgstr ""
+
+#: register.php:271
+msgid "Nambia"
+msgstr ""
+
+#: register.php:272
+msgid "Nauru"
+msgstr ""
+
+#: register.php:273
+msgid "Nepal"
+msgstr ""
+
+#: register.php:274
+msgid "Netherland Antilles"
+msgstr ""
+
+#: register.php:275
+msgid "Netherlands (Holland, Europe)"
+msgstr ""
+
+#: register.php:276
+msgid "Nevis"
+msgstr ""
+
+#: register.php:277
+msgid "New Caledonia"
+msgstr ""
+
+#: register.php:278
+msgid "New Zealand"
+msgstr ""
+
+#: register.php:279
+msgid "Nicaragua"
+msgstr ""
+
+#: register.php:280
+msgid "Niger"
+msgstr ""
+
+#: register.php:281
+msgid "Nigeria"
+msgstr ""
+
+#: register.php:282
+msgid "Niue"
+msgstr ""
+
+#: register.php:283
+msgid "Norfolk Island"
+msgstr ""
+
+#: register.php:284
+msgid "Norway"
+msgstr ""
+
+#: register.php:285
+msgid "Oman"
+msgstr ""
+
+#: register.php:286
+msgid "Pakistan"
+msgstr ""
+
+#: register.php:287
+msgid "Palau Island"
+msgstr ""
+
+#: register.php:288
+msgid "Palestine"
+msgstr ""
+
+#: register.php:289
+msgid "Panama"
+msgstr ""
+
+#: register.php:290
+msgid "Papua New Guinea"
+msgstr ""
+
+#: register.php:291
+msgid "Paraguay"
+msgstr ""
+
+#: register.php:292
+msgid "Peru"
+msgstr ""
+
+#: register.php:293
+msgid "Philippines"
+msgstr ""
+
+#: register.php:294
+msgid "Pitcairn Island"
+msgstr ""
+
+#: register.php:295
+msgid "Poland"
+msgstr ""
+
+#: register.php:296
+msgid "Portugal"
+msgstr ""
+
+#: register.php:297
+msgid "Puerto Rico"
+msgstr ""
+
+#: register.php:298
+msgid "Qatar"
+msgstr ""
+
+#: register.php:299
+msgid "Republic of Montenegro"
+msgstr ""
+
+#: register.php:300
+msgid "Republic of Serbia"
+msgstr ""
+
+#: register.php:301
+msgid "Reunion"
+msgstr ""
+
+#: register.php:302
+msgid "Romania"
+msgstr ""
+
+#: register.php:304
+msgid "Rwanda"
+msgstr ""
+
+#: register.php:305
+msgid "St Barthelemy"
+msgstr ""
+
+#: register.php:306
+msgid "St Eustatius"
+msgstr ""
+
+#: register.php:307
+msgid "St Helena"
+msgstr ""
+
+#: register.php:308
+msgid "St Kitts-Nevis"
+msgstr ""
+
+#: register.php:309
+msgid "St Lucia"
+msgstr ""
+
+#: register.php:310
+msgid "St Maarten"
+msgstr ""
+
+#: register.php:311
+msgid "St Pierre &amp; Miquelon"
+msgstr ""
+
+#: register.php:312
+msgid "St Vincent &amp; Grenadines"
+msgstr ""
+
+#: register.php:313
+msgid "Saipan"
+msgstr ""
+
+#: register.php:314
+msgid "Samoa"
+msgstr ""
+
+#: register.php:315
+msgid "Samoa American"
+msgstr ""
+
+#: register.php:316
+msgid "San Marino"
+msgstr ""
+
+#: register.php:317
+msgid "Sao Tome &amp; Principe"
+msgstr ""
+
+#: register.php:318
+msgid "Saudi Arabia"
+msgstr ""
+
+#: register.php:319
+msgid "Senegal"
+msgstr ""
+
+#: register.php:320
+msgid "Serbia"
+msgstr ""
+
+#: register.php:321
+msgid "Seychelles"
+msgstr ""
+
+#: register.php:322
+msgid "Sierra Leone"
+msgstr ""
+
+#: register.php:323
+msgid "Singapore"
+msgstr ""
+
+#: register.php:324
+msgid "Slovakia"
+msgstr ""
+
+#: register.php:325
+msgid "Slovenia"
+msgstr ""
+
+#: register.php:326
+msgid "Solomon Islands"
+msgstr ""
+
+#: register.php:327
+msgid "Somalia"
+msgstr ""
+
+#: register.php:328
+msgid "South Africa"
+msgstr ""
+
+#: register.php:330
+msgid "Sri Lanka"
+msgstr ""
+
+#: register.php:331
+msgid "Sudan"
+msgstr ""
+
+#: register.php:332
+msgid "Suriname"
+msgstr ""
+
+#: register.php:333
+msgid "Swaziland"
+msgstr ""
+
+#: register.php:334
+msgid "Sweden"
+msgstr ""
+
+#: register.php:335
+msgid "Switzerland"
+msgstr ""
+
+#: register.php:336
+msgid "Syria"
+msgstr ""
+
+#: register.php:337
+msgid "Tahiti"
+msgstr ""
+
+#: register.php:338
+msgid "Taiwan"
+msgstr ""
+
+#: register.php:339
+msgid "Tajikistan"
+msgstr ""
+
+#: register.php:340
+msgid "Tanzania"
+msgstr ""
+
+#: register.php:341
+msgid "Thailand"
+msgstr ""
+
+#: register.php:342
+msgid "Togo"
+msgstr ""
+
+#: register.php:343
+msgid "Tokelau"
+msgstr ""
+
+#: register.php:344
+msgid "Tonga"
+msgstr ""
+
+#: register.php:345
+msgid "Trinidad &amp; Tobago"
+msgstr ""
+
+#: register.php:346
+msgid "Tunisia"
+msgstr ""
+
+#: register.php:347
+msgid "Turkey"
+msgstr ""
+
+#: register.php:348
+msgid "Turkmenistan"
+msgstr ""
+
+#: register.php:349
+msgid "Turks &amp; Caicos Is"
+msgstr ""
+
+#: register.php:350
+msgid "Tuvalu"
+msgstr ""
+
+#: register.php:351
+msgid "Uganda"
+msgstr ""
+
+#: register.php:352
+msgid "Ukraine"
+msgstr ""
+
+#: register.php:353
+msgid "United Arab Emirates"
+msgstr ""
+
+#: register.php:355
+msgid "United States of America"
+msgstr ""
+
+#: register.php:356
+msgid "Uruguay"
+msgstr ""
+
+#: register.php:357
+msgid "Uzbekistan"
+msgstr ""
+
+#: register.php:358
+msgid "Vanuatu"
+msgstr ""
+
+#: register.php:359
+msgid "Vatican City State"
+msgstr ""
+
+#: register.php:360
+msgid "Venezuela"
+msgstr ""
+
+#: register.php:361
+msgid "Vietnam"
+msgstr ""
+
+#: register.php:362
+msgid "Virgin Islands (Brit)"
+msgstr ""
+
+#: register.php:363
+msgid "Virgin Islands (USA)"
+msgstr ""
+
+#: register.php:364
+msgid "Wake Island"
+msgstr ""
+
+#: register.php:365
+msgid "Wallis &amp; Futana Is"
+msgstr ""
+
+#: register.php:366
+msgid "Yemen"
+msgstr ""
+
+#: register.php:367
+msgid "Zaire"
+msgstr ""
+
+#: register.php:368
+msgid "Zambia"
+msgstr ""
+
+#: register.php:369
+msgid "Zimbabwe"
+msgstr ""
+
+#: register.php:377
+msgid "I agree the User Agreement and "
+msgstr ""
+
+#: register.php:377
+msgid "Terms &amp; Condition."
+msgstr ""
+
+#: register.php:383
+msgid "create account"
+msgstr ""
+
+#: summer_prog.php:11 winter_prog.php:11
+msgid "Study programme"
+msgstr ""
+
+#: summer_prog.php:25
+msgid "SUMMER PROGRAMME"
+msgstr ""
+
+#: summer_prog.php:30 winter_prog.php:30
+msgid "is offering its"
+msgstr ""
+
+#: summer_prog.php:30
+msgid "European Summer Programme (ESP)"
+msgstr ""
+
+#: summer_prog.php:30 winter_prog.php:30
+msgid "for 2016."
+msgstr ""
+
+#: summer_prog.php:32 winter_prog.php:32
+msgid ""
+"The success of the program is defined by is wide-ranging elective courses "
+"which are mostly taught in English."
+msgstr ""
+
+#: summer_prog.php:39 winter_prog.php:38
+msgid "These include :"
+msgstr ""
+
+#: summer_prog.php:42 winter_prog.php:41
+msgid "instruction in intercultural communication,"
+msgstr ""
+
+#: summer_prog.php:43 winter_prog.php:42
+msgid "French,"
+msgstr ""
+
+#: summer_prog.php:44 winter_prog.php:43
+msgid "Chinese,"
+msgstr ""
+
+#: summer_prog.php:45 winter_prog.php:44
+msgid "Japanese,"
+msgstr ""
+
+#: summer_prog.php:46 winter_prog.php:45
+msgid "Hindi,"
+msgstr ""
+
+#: summer_prog.php:47 winter_prog.php:46
+msgid "Russia,"
+msgstr ""
+
+#: summer_prog.php:48 winter_prog.php:47
+msgid "Germany,"
+msgstr ""
+
+#: summer_prog.php:49 winter_prog.php:48
+msgid "language courses (at your fluency level),"
+msgstr ""
+
+#: summer_prog.php:50 winter_prog.php:49
+msgid "curriculum-related fieldtrips,"
+msgstr ""
+
+#: summer_prog.php:51 winter_prog.php:50
+msgid "and small multinational classes."
+msgstr ""
+
+#: summer_prog.php:55 winter_prog.php:54
+msgid ""
+"Our program is led by an experienced and dedicated international and "
+"administrative team."
+msgstr ""
+
+#: summer_prog.php:57 winter_prog.php:56
+msgid ""
+"Since its inception, more than 1000 students from all continents have taken "
+"part in the"
+msgstr ""
+
+#: summer_prog.php:57
+msgid "Summer Program"
+msgstr ""
+
+#: summer_prog.php:57 winter_prog.php:56
+msgid ""
+"in Europe and thus have taken advantage of this excellent opportunity to "
+"enjoy a truly life changing experience."
+msgstr ""
+
+#: summer_prog.php:58 winter_prog.php:62
+msgid "Reason to joint the"
+msgstr ""
+
+#: summer_prog.php:58
+msgid "European Summer Programme :"
+msgstr ""
+
+#: summer_prog.php:61 winter_prog.php:65
+msgid "Study and travel"
+msgstr ""
+
+#: summer_prog.php:62 winter_prog.php:66
+msgid "A true academic experience"
+msgstr ""
+
+#: summer_prog.php:63 winter_prog.php:67
+msgid "Courses in many educational areas"
+msgstr ""
+
+#: summer_prog.php:64 winter_prog.php:68
+msgid "Classmate and lectures from around the world"
+msgstr ""
+
+#: summer_prog.php:65 winter_prog.php:69
+msgid "Immersion in France culture"
+msgstr ""
+
+#: summer_prog.php:66 winter_prog.php:70
+msgid "Les Ulis, an exciting city less than 1 hour from Paris"
+msgstr ""
+
+#: summer_prog.php:67 winter_prog.php:71
+msgid "An experienced team"
+msgstr ""
+
+#: summer_prog.php:68 winter_prog.php:72
+msgid "Excellent value for money"
+msgstr ""
+
+#: summer_prog.php:69 winter_prog.php:73
+msgid "The perfect program if you are going abroad for the first time"
+msgstr ""
+
+#: summer_prog.php:70 winter_prog.php:74
+msgid ""
+"At the heart of the largest tertiary business park in Europe Courtaboeuf "
+"with 1200 companies"
+msgstr ""
+
+#: summer_prog.php:71
+msgid "A springboard to your academic and professional future !!"
+msgstr ""
+
+#: summer_prog.php:74
+msgid ""
+"SDMI is proud to offer numerous Summer and Winter Programme opportunities "
+"each year!"
+msgstr ""
+
+#: summer_prog.php:76 winter_prog.php:81
+msgid ""
+"We realize that not every student will be able to spend an entire semester "
+"or year abroad. Therefore, we offer multiple short-term options,"
+msgstr ""
+
+#: summer_prog.php:76 winter_prog.php:81
+msgid "Summer"
+msgstr ""
+
+#: summer_prog.php:76 winter_prog.php:81
+msgid "(3 weeks between June to July) and"
+msgstr ""
+
+#: summer_prog.php:76 winter_prog.php:81
+msgid "Winter Programs"
+msgstr ""
+
+#: summer_prog.php:76 winter_prog.php:81
+msgid "(3 week in January)."
+msgstr ""
+
+#: summer_prog.php:76 winter_prog.php:81
+msgid ""
+"plans, coordinates, and implements all aspects of summer and winter study "
+"programs. The courses are taught by"
+msgstr ""
+
+#: summer_prog.php:76 winter_prog.php:81
+msgid ""
+"from a variety of academic disciplines and departments, is available during "
+"the length of the program."
+msgstr ""
+
+#: summer_prog.php:78 winter_prog.php:84
+msgid ""
+"If you have any questions or concerns about summer or winter study abroad, "
+"please contact us at"
+msgstr ""
+
+#: summer_prog.php:84
+msgid "Why study abroad for a summer or winter?"
+msgstr ""
+
+#: summer_prog.php:91 winter_prog.php:97
+msgid "Personal Benefits :"
+msgstr ""
+
+#: summer_prog.php:94 winter_prog.php:100
+msgid "Strengthen life skills such as flexibility,"
+msgstr ""
+
+#: summer_prog.php:95 winter_prog.php:101
+msgid "problem-solving,"
+msgstr ""
+
+#: summer_prog.php:96 winter_prog.php:102
+msgid "confidence,"
+msgstr ""
+
+#: summer_prog.php:97 winter_prog.php:103
+msgid "independence,"
+msgstr ""
+
+#: summer_prog.php:98 winter_prog.php:104
+msgid "communication,"
+msgstr ""
+
+#: summer_prog.php:99 winter_prog.php:105
+msgid "self-reliance,"
+msgstr ""
+
+#: summer_prog.php:100 winter_prog.php:106
+msgid "critical thinking,"
+msgstr ""
+
+#: summer_prog.php:101 winter_prog.php:107
+msgid "creativity,"
+msgstr ""
+
+#: summer_prog.php:102 winter_prog.php:108
+msgid "inititative"
+msgstr ""
+
+#: summer_prog.php:103 winter_prog.php:109
+msgid "Find new interests"
+msgstr ""
+
+#: summer_prog.php:104 winter_prog.php:110
+msgid "Make new friends &amp; connections"
+msgstr ""
+
+#: summer_prog.php:109 winter_prog.php:116
+msgid "Professional/Career Benefits :"
+msgstr ""
+
+#: summer_prog.php:112
+msgid "Enhance your resume/stand out!"
+msgstr ""
+
+#: summer_prog.php:113 winter_prog.php:120
+msgid "Increase employability with your new and enhanced skills"
+msgstr ""
+
+#: summer_prog.php:114 winter_prog.php:121
+msgid "Ability to discuss your experiences abroad in an interview"
+msgstr ""
+
+#: support_institute.php:15
+msgid "Support our institute"
+msgstr "Apoyar el Instituto"
+
+#: support_institute.php:24
+msgid "SUPPORT OUR INSTITUTE"
+msgstr "APOYAR EL INSTITUTO"
+
+#: support_institute.php:25
+msgid ""
+"We wish to thank all the people – Alumni, Friends of the Institute, "
+"Collaborators, Parents – who have shown support, regardless of the nature or "
+"amount."
+msgstr ""
+"Queremos agradecer a todo el mundo – Alumni, Amigos del Instituto, "
+"contribuyentes, padres- que nos ha mostrado su apoyo,  independientemente de "
+"la naturaleza de su estatuto o del precio de la contribución."
+
+#: support_institute.php:27
+msgid ""
+"Your support, which can take many forms, furthers the development of the "
+"Institute and its mission, and complement the efforts of other "
+"philanthropists and patrons who have likewise responded to this fundraising "
+"campaign."
+msgstr ""
+"Su apoyo, que puede ser de muchas formas, promueve el desarrollo del "
+"Instituto y su misión, y complementa los esfuerzos de los otros filántropos "
+"y jefes que respondieron igualmente a esta recaudación de fondos."
+
+#: support_institute.php:28
+msgid ""
+"Your support can take many forms: from the the provision of lodging, an "
+"internship, a part time job, providing services for events, or to making a "
+"donation to contribute to a scholarship fund."
+msgstr ""
+"Su apoyo puede ser de muchas formas: desde la provisión del alojamiento, "
+"hasta proporcionar servicios para los eventos o hacer una donación par "
+"contribuir a una beca."
+
+#: support_institute.php:30
+msgid "You can also make a"
+msgstr "Puede también hacer una"
+
+#: support_institute.php:30
+msgid "donation"
+msgstr "donación"
+
+#: support_institute.php:30
+msgid ""
+"which will bear your name, that of someone close to you or your company and "
+"choose to finance :"
+msgstr "para:"
+
+#: support_institute.php:34
+msgid "a scholarship to reward academic excellence;"
+msgstr "Recompensar la excelencia académica;"
+
+#: support_institute.php:35
+msgid "a housing scholarship;"
+msgstr "Una beca de viviendas;"
+
+#: support_institute.php:36
+msgid "a full scholarship covering living expenses;"
+msgstr "Todos los costes de vida de un estudiante;"
+
+#: support_institute.php:37
+msgid "a prize that goes to an outstanding master or PhD student."
+msgstr "Un premio que va a un maestro  o estudiante sobresaliente."
+
+#: support_institute.php:40
+msgid "You can commit yourself to"
+msgstr "Además, puede dar una de"
+
+#: support_institute.php:40
+msgid "give one of these amounts annually over several years"
+msgstr "estas donaciones anuales durante varios años,"
+
+#: support_institute.php:40
+msgid "or even"
+msgstr "o hacer"
+
+#: support_institute.php:40
+msgid "make a capital gift"
+msgstr "hacer un capital"
+
+#: support_institute.php:40
+msgid "that would go toward the same purpose."
+msgstr "que servirá para la misma meta en el futuro."
+
+#: support_institute.php:41
+msgid ""
+"These different options can be discussed with the Director of the Institute. "
+"Any suggestions are welcome!\n"
+"        \t\t\t\t\t\t\t\t\tWe value your support, no matter what the amount!"
+msgstr ""
+"Estas diferentes opciones pueden ser discutidas con el director del "
+"Instituto. Todas las sugerencias son bienvenidas!\n"
+"\t\t\t\t\t\t\t\t Valoramos su apoyo, sin importar el gasto!"
+
+#: support_institute.php:43
+msgid ""
+"If you would like to donate in a different manner or for more information, "
+"please contact at"
+msgstr ""
+"Si quiere donar, de cualquier forma o para más informacion, puede "
+"contactarnos en"
+
+#: support_institute.php:43
+msgid "contact@sdmi-edu.fr"
+msgstr "contact@sdmi-edu.fr"
+
+#: winter_prog.php:25
+msgid "WINTER PROGRAMME"
+msgstr ""
+
+#: winter_prog.php:30
+msgid "European Winter Programme (EWP)"
+msgstr ""
+
+#: winter_prog.php:56
+msgid "Winter Program"
+msgstr ""
+
+#: winter_prog.php:62
+msgid "European Winter Programme :"
+msgstr ""
+
+#: winter_prog.php:75
+msgid "A springboard to your academic and professional future !"
+msgstr ""
+
+#: winter_prog.php:78
+msgid ""
+"SDMI is proud to offer numerous Summer and Winter Programme opportunities "
+"each year !"
+msgstr ""
+
+#: winter_prog.php:91
+msgid "Why study abroad for a summer or winter ?"
+msgstr ""
+
+#: winter_prog.php:119
+msgid "Enhance your resume/stand out !"
+msgstr ""
+
+#: work_professional.php:26
+msgid "WORK AND PROFESSIONAL EXPERIENCES"
+msgstr "TRABAJO AND PROFESSIONAL EXPERIENCES"
+
+#: work_professional.php:31
+msgid ""
+"Internships and professional experience are a form of Work Integrated "
+"Learning that is offered by"
+msgstr ""
+"Experiencias de interno o profesional son una forma de  “Work Integrated "
+"Learning” que es ofertado por"
+
+#: work_professional.php:31
+msgid ""
+"Undertaking an internship is a great way to enhance your employability "
+"skills and graduate attributes."
+msgstr ""
+"Un compromiso en una empresa como interno o empleado es un buen camino para "
+"mejorar sus capacidades."
+
+#: work_professional.php:31
+msgid ""
+"has a number of internship programs that are part of the official course "
+"structure, and there are additional programs offered by the Careers service "
+"you can apply for whilst you are a student at"
+msgstr ""
+"tiene un número de programas que forman parte del programa oficial y otros "
+"que serán ofrecidos para su futura carrera durante el tiempo que pase en"
+
+#: work_professional.php:31
+msgid "SDMI."
+msgstr "SDMI. "
+
+#: work_professional.php:35
+msgid "Work experience"
+msgstr "El experiencia de trabajo"
+
+#: work_professional.php:35
+msgid ""
+"provides many benefits, giving you skills and experience that will allow you "
+"stand out to potential employers as well as helping you choose the right "
+"sector to work in."
+msgstr ""
+"proporciona muchos beneficios, otorgando nuevos talentos, capacidades y "
+"experiencia que puede ayudarle con los futuros entrevistadores y también "
+"para encontrar un buen trabajo en su futuro."
+
+#: work_professional.php:38
+msgid ""
+"Having a degree is a tremendous asset to help put your name on the radar for "
+"potential employers, but it's by far not the only arrow in the quiver. Work "
+"experience locks in further potential, \"building useful skills that cannot "
+"be taught in the classroom as well as contacts that students otherwise would "
+"not be exposed to,\" highlights the general manager of Avanade UK."
+msgstr ""
+"Tener una licencia es una gran herramienta para seducir a potenciales "
+"entrevistadores, y no es la única flecha de la carcasa que el estudiante "
+"puede obtener con SDMI. Las experiencias de trabajo son buenas de cara a ir "
+"más lejos, y no pueden aprenderse en la escuela de la misma manera que con "
+"el contacto de los estudiantes con el medio ambiente profesional."
+
+#: work_professional.php:43
+msgid ""
+"\"A perspective employer will always looks favourable on the effort taken by "
+"those who have done work experience, which empowers new talent and gives "
+"them an edge to push for the most sought after graduate positions in the "
+"field.\""
+msgstr ""
+"\"A un entrevistador le gusta mucho la gente que hizo el esfuerzo por tener "
+"una primera experiencia laboral, que responsabiliza y ayuda a los "
+"estudiantes a superar sus limitaciones, cualidad muy valorada a la salida de "
+"la universidad. "
+
+#: work_professional.php:48
+msgid ""
+"Below are just a few examples of the way you can benefit from undertaking "
+"work experience and work placements. Whether you're doing a week-long stint "
+"or a year in industry you'll be gaining skills that will make you much more "
+"employable."
+msgstr ""
+"Abajo se presentan algunos ejemplos de como una experiencia del mundo del "
+"trabajo puede ser beneficiosa, y es importante tener en cuenta que se "
+"ganarán más capacidades a mayor tiempo pasado en la empresa."
+
+#: work_professional.php:52
+msgid "Soft skills"
+msgstr "Capacidades"
+
+#: work_professional.php:54
+msgid ""
+"Work experience equips you with certain soft skills such as team working, "
+"communication skills and commercial awareness, all of which are sought after "
+"by employers, especially at a graduate level."
+msgstr ""
+"El trabajo en equipo otorga nuevas capacidades como aprender a trabajar en "
+"grupo, a comunicarse o a tener conciencia comercial, caracterisiticas que "
+"buscan los empleadores, especialmente despues de un nivel graduado."
+
+#: work_professional.php:57
+msgid "Differentiate yourself and make yourself more employable"
+msgstr "Diferénciese y hágase una persona de utilidad para los jefes"
+
+#: work_professional.php:59
+msgid ""
+"Work experience also helps you to differentiate yourself, an important thing "
+"to factor in when competition for jobs is so fierce.\n"
+"        \"Employers value competitive advantage and that's what work "
+"experience gives you,\" adds the chief executive of the Inspiring Futures "
+"Foundation. \"If you take two graduates with equally good qualifications and "
+"personal attributes; one has gained work experience and the other has none, "
+"it is likely that the job will go to the person who has shown initiative and "
+"gained experience. There is anecdotal evidence that employers look more "
+"favourably on candidates who have gained a basic understanding of their "
+"business sector and know what it's like to be in a work environment.\""
+msgstr ""
+"Una experiencia de trabajo le ayudará a diferenciarse, lo que es muy "
+"importante en un mundo profesional actual tan competitivo, dónde obtener un "
+"empleo es muy difícil.“Los empleadores valorizan esa ventaja competitiva, y "
+"una persona que tiene costumbre del mundo de la gestión es una persona "
+"competitiva” dice el jefe de la fundación. Con dos personas que tienen el "
+"mismo diploma con una buena calificación y buenos atributos personales, si "
+"uno de los dos tiene experiencia profesional es evidente que el trabajo será "
+"para él. Conocer el entorno laboral y saber que es lo que queremos hacer en "
+"la vida es esencial para el espíritu de los jefes y para ganarse  la "
+"confianza."
+
+#: work_professional.php:64
+msgid "Enhance your application forms and interviews"
+msgstr "Mejorar su entrevista de trabajo y la petición de empleo"
+
+#: work_professional.php:66
+msgid ""
+"Work experience also equips you with knowledge that will enhance your job "
+"applications and particularly your interviews. Because you've gained a "
+"better understanding of the sector you want to go into, you'll be able to "
+"talk more authoritatively and ask questions that resonate with the employer…"
+msgstr ""
+"La experiencia de trabajo otorga también conocimientos que pueden ayudarle a "
+"expresarse mejor en las entrevistas de trabajo. Al tener una mejor "
+"comprensión del sector dondé quiere continuar, estará más preparado para "
+"hablar con seguridad y preguntar lo correcto al entrevistador o responder de "
+"manera óptima."
+
+#: work_professional.php:68
+msgid "Road test a company/sector/role"
+msgstr "Prueba en una empresa/sector/papel"
+
+#: work_professional.php:70
+msgid ""
+"One of the great things about gaining work experience as a student is that "
+"it gives you the chance to try things out to see if they suit you. Want to "
+"find out what a company is actually like to work for, or what doing a "
+"certain job is like? Well work experience gives you the chance to experience "
+"this - for a week, a fortnight, a summer or even a year.\n"
+"        \"It can crystallise your mind about your career choice, either "
+"confirming that you are making exactly the right choice, or change your "
+"mind. If the latter happens, you should view this positively as you can re-"
+"direct your energy into an area you find more stimulating,\" notes the chief "
+"executive of the Inspiring Futures Foundation."
+msgstr ""
+"Uno de los grandes beneficios de ganar experiencia de trabajo como "
+"estudiante es poder probar nuevos ámbitos y ver si es lo que se quiere hacer "
+"en la vida. ¿Quiere saber si una empresa es adecuada para usted? La "
+"experiencia de trabajo puede ayudar en eso, durante una semana, un mes o un "
+"año, y al final para la elección de una carrera completa. Como dice el jefe "
+"de la fundación “Inspiring Futures”, el estudiante puede redirigir su "
+"energía en un sector que le parece más estimulante después de esta prueba."
+
+#: work_professional.php:74
+msgid "The possibility of leading to full-time job offers"
+msgstr ""
+"La posibilidad de estar en primer plano para obtener un empleo a tiempo "
+"completo"
+
+#: work_professional.php:76
+msgid "Some long-term internships can lead to full-time employment."
+msgstr ""
+"Estar internos durante un largo tiempo puede llevar a un trabajo de tiempo "
+"completo."
+
+#: work_professional.php:77
+msgid ""
+"\"A year long or vacation placement will look very impressive on your CV "
+"and, if you perform well, can lead to the offer of a full-time job after "
+"graduation. Many employers use their placement schemes as the first stage in "
+"graduate recruitment,\" notes the engineering and technology careers expert "
+"at Middlesex University."
+msgstr ""
+"“Un año completo es muy impresionante en un CV, y el alumno puede también "
+"tener un trabajo a tiempo completo en el mismo Instituto o asociados despues "
+"del diploma. Muchos jefes utilizan a sus internos como entrevistadores "
+"despues del diploma” dice el experto en ingeniería y tecnología de la "
+"“Middlesex University.”"
+
+#: work_professional.php:79
+msgid "Personal development"
+msgstr "Desarrollo personal"
+
+#: work_professional.php:81
+msgid ""
+"\"But work experience isn't just about impressing recruiters, it is also "
+"about personal development,\" they add."
+msgstr ""
+"Añaden“ Una experiencia de trabajo es más que sólo algo llamativo de cara a "
+"los reclutadores”"
+
+#: work_professional.php:82
+msgid ""
+"Indeed, the skills - both soft and technically focused will all help you "
+"start on the professional development path. If you plan to work towards "
+"professional registration skills you learn during work experience are the "
+"first steps towards ticking off competencies. Be sure to take advantage of "
+"the SDMI’s career Manager  tool to record all you achieve during your "
+"placements and internships."
+msgstr ""
+"Es también la capacidad de desarrollar un camino personal. Si quiere empezar "
+"a trabajar en este camino, será competitivo y SDMI le dará muchos activos "
+"para su vida profesional y su vida en general."
+
+#~ msgid "The Sustainable Development Management Institute"
+#~ msgstr "Sustainable Development Management Institute"
+
+#~ msgid ""
+#~ "Your application file to be returned before twomonths before the "
+#~ "beginning of the programme"
+#~ msgstr ""
+#~ "El archivo de la aplicación debe ser devuelto antes de dos meses antes "
+#~ "del inicio del programa"
+
+#~ msgid "DECONNEXION"
+#~ msgstr "DECONEXIÓN"
